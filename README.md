@@ -1,0 +1,1 @@
+This project extracts electric vehicle specifications from an online source using web scraping, stores the raw data in a MySQL database (Bronze Layer), processes and cleans the data (Silver Layer), and prepares it for analytics and visualisation.
