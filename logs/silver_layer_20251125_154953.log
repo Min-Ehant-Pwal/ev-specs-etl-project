@@ -1,0 +1,15 @@
+[2025-11-25 15:49:53] Starting Silver Layer ETL...
+[2025-11-25 15:49:53] Preparing schema: DataWarehouse_silver
+[2025-11-25 15:49:53] Creating Silver tables...
+[2025-11-25 15:49:53] Tables created.
+
+[2025-11-25 15:49:53] Loading: silver_manufacturer
+[2025-11-25 15:49:53] Inserted 56 manufacturers.
+
+[2025-11-25 15:49:53] Loading: silver_vehicle
+[2025-11-25 15:49:53] Inserted 853 vehicles.
+
+[2025-11-25 15:49:53] Loading: silver_specs
+[2025-11-25 15:49:53] Inserted 1189 spec rows.
+
+[2025-11-25 15:49:53] Silver ETL Finished.

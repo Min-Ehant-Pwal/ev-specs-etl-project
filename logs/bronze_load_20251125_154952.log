@@ -1,0 +1,5 @@
+[2025-11-25 15:49:52] =========== BRONZE LOAD START ===========
+[2025-11-25 15:49:52] CSV path: c:\Users\Ep\OneDrive\Desktop\ETL project\bronze\scrapedData.csv
+[2025-11-25 15:49:52] Loaded CSV with 853 rows.
+[2025-11-25 15:49:52]  Bronze load complete. 853 rows inserted.
+[2025-11-25 15:49:52] =========== BRONZE LOAD FINISHED ===========
