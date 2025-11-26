@@ -36,7 +36,7 @@ EV_Data_Engineering_Pipeline/
 │ └── proc_load_bronze.py
 │
 ├── silver/
-│ ├── silver_load.py
+│ └── silver_load.py
 │
 ├── gold/
 │ ├── goldDDL.py
@@ -44,6 +44,7 @@ EV_Data_Engineering_Pipeline/
 │ └── gold_views.sql
 │
 ├── run_pipeline.py
+│
 └── logs/
 └── (auto-generated execution logs)
 
