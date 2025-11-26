@@ -27,6 +27,7 @@ All databases, tables, and schemas are created automatically on first run.
 
 # 📁 Project Structure
 
+<pre>
 EV_Data_Engineering_Pipeline/
 |
 |-- scraping/
@@ -48,6 +49,7 @@ EV_Data_Engineering_Pipeline/
 |
 |-- logs/
       |-- (auto-generated execution logs)
+</pre>
 
 
 
