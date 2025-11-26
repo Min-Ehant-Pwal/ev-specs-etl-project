@@ -28,26 +28,27 @@ All databases, tables, and schemas are created automatically on first run.
 # 📁 Project Structure
 
 EV_Data_Engineering_Pipeline/
-│
-├── scraping/
-│ └── scrapeAllTest.py
-│
-├── bronze/
-│ ├── bronzeDDL.py
-│ └── proc_load_bronze.py
-│
-├── silver/
-│ └── silver_load.py
-│
-├── gold/
-│ ├── goldDDL.py
-│ ├── gold_load.py
-│ └── gold_views.sql
-│
-├── run_pipeline.py
-│
-└── logs/
-└── (auto-generated execution logs)
+|
+|-- scraping/
+|     |-- scrapeAllTest.py
+|
+|-- bronze/
+|     |-- bronzeDDL.py
+|     |-- proc_load_bronze.py
+|
+|-- silver/
+|     |-- silver_load.py
+|
+|-- gold/
+|     |-- goldDDL.py
+|     |-- gold_load.py
+|     |-- gold_views.sql
+|
+|-- run_pipeline.py
+|
+|-- logs/
+      |-- (auto-generated execution logs)
+
 
 
 ---
