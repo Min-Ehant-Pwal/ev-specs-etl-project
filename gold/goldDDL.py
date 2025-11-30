@@ -25,14 +25,10 @@ def log(msg: str):
 # MYSQL CONNECTION
 # ============================
 
-HOST = "localhost"
-USER = "root"
-PASSWORD = "88888888"
-
 conn = mysql.connector.connect(
-    host=HOST,
-    user=USER,
-    password=PASSWORD
+    host="localhost",
+    user="EV_specs",
+    password="MDIS@2025"
 )
 cursor = conn.cursor()
 
@@ -113,3 +109,4 @@ cursor.close()
 conn.close()
 
 log("Gold DDL completed successfully.")
+
