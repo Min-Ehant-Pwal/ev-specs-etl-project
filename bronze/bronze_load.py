@@ -85,8 +85,8 @@ df = df.applymap(clean_val)
 # ========= MYSQL LOAD =========
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="88888888"
+    user="EV_specs",
+    password="MDIS@2025"
 )
 cursor = conn.cursor()
 
@@ -118,3 +118,4 @@ cursor.close()
 conn.close()
 
 log("=========== BRONZE LOAD FINISHED ===========")
+
