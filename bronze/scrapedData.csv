@@ -1,0 +1,856 @@
+company,model,drivetrain,class,seat,price_raw,range_raw,efficiency,weight,zero_to_sixty,one_stop_range,battery,rapidcharge,towing,boot_space,price_range
+Tesla,Model 3 Long Range RWD(Highland),Rear Wheel Drive,D,5,"£44,990",360 mi,219 Wh/mi,"1,822 kg",5.2 sec,428 mi,79.0 kWh,120 kW,"1,000 kg",682 L,£125 /mi
+Mercedes-Benz,CLA 250+,Rear Wheel Drive,D,5,"£45,615",360 mi,236 Wh/mi,"2,055 kg",6.7 sec,474 mi,85.0 kWh,235 kW,"1,500 kg",506 L,£127 /mi
+MG,MG4 EV Long Range,Rear Wheel Drive,C,5,"£29,495",225 mi,274 Wh/mi,"1,726 kg",7.9 sec,252 mi,61.7 kWh,115 kW,500 kg,363 L,£131 /mi
+Ford,Puma Gen-E,Front Wheel Drive,B,5,"£26,245",170 mi,256 Wh/mi,"1,563 kg",8.0 sec,194 mi,43.6 kWh,85 kW,750 kg,566 L,£154 /mi
+Tesla,Model Y Long Range RWD(Juniper),Rear Wheel Drive,D,5,"£48,990",290 mi,259 Wh/mi,"1,976 kg",5.6 sec,343 mi,75.0 kWh,124 kW,"1,600 kg",971 L,£169 /mi
+BMW,iX3 50 xDrive(MY26),All Wheel Drive,D,5,"£58,755",375 mi,290 Wh/mi,"2,360 kg",4.9 sec,461 mi,108.7 kWh,225 kW,"2,000 kg",578 L,£157 /mi
+Jaecoo,5 EV,Front Wheel Drive,C,5,"£27,505",200 mi,295 Wh/mi,"1,765 kg",7.7 sec,212 mi,58.9 kWh,80 kW,0 kg,480 L,£138 /mi
+Renault,5 E-Tech 52kWh 150hp,Front Wheel Drive,B,5,"£25,495",205 mi,254 Wh/mi,"1,504 kg",8.0 sec,216 mi,52.0 kWh,70 kW,500 kg,326 L,£124 /mi
+Kia,EV3 Long Range,Front Wheel Drive,B,5,"£35,995",280 mi,279 Wh/mi,"1,885 kg",7.7 sec,293 mi,78.0 kWh,105 kW,"1,000 kg",485 L,£129 /mi
+Kia,Niro EV,Front Wheel Drive,C,5,"£37,295",240 mi,270 Wh/mi,"1,757 kg",7.8 sec,227 mi,64.8 kWh,70 kW,750 kg,495 L,£155 /mi
+Tesla,Model 3 RWD(Highland CATL LFP64),Rear Wheel Drive,D,5,"£39,990",270 mi,222 Wh/mi,"1,836 kg",6.1 sec,323 mi,60.0 kWh,110 kW,"1,000 kg",682 L,£148 /mi
+Tesla,Model 3 Long Range RWD(Highland),Rear Wheel Drive,D,5,"£44,990",340 mi,221 Wh/mi,"1,822 kg",5.2 sec,407 mi,75.0 kWh,124 kW,"1,000 kg",682 L,£132 /mi
+MG,MGS5 EV Long Range,Rear Wheel Drive,C,5,"£30,995",225 mi,276 Wh/mi,"1,755 kg",6.3 sec,240 mi,62.1 kWh,90 kW,750 kg,453 L,£138 /mi
+Škoda,Elroq 85(MY25),Rear Wheel Drive,C,5,"£34,060",280 mi,275 Wh/mi,"2,115 kg",6.6 sec,306 mi,77.0 kWh,120 kW,"1,000 kg",470 L,£122 /mi
+Hyundai,Kona Electric 65 kWh,Front Wheel Drive,B,5,"£38,595",240 mi,273 Wh/mi,"1,773 kg",7.8 sec,243 mi,65.4 kWh,86 kW,750 kg,493 L,£161 /mi
+MG,MG4 EV Standard Range,Rear Wheel Drive,C,5,"£26,995",185 mi,275 Wh/mi,"1,710 kg",7.7 sec,190 mi,50.8 kWh,68 kW,500 kg,363 L,£146 /mi
+BYD,SEAL 82.5 kWh AWD Excellence,All Wheel Drive,D,5,"£48,695",275 mi,300 Wh/mi,"2,260 kg",3.8 sec,293 mi,82.5 kWh,100 kW,"1,500 kg",453 L,£177 /mi
+Tesla,Model Y Long Range AWD,All Wheel Drive,D,7,"£51,990",275 mi,273 Wh/mi,"2,054 kg",5.0 sec,326 mi,75.0 kWh,124 kW,"1,600 kg",971 L,£189 /mi
+MG,IM5 Long Range,Rear Wheel Drive,D,5,"£44,995",330 mi,292 Wh/mi,"2,210 kg",4.9 sec,421 mi,96.5 kWh,250 kW,unknown,475 L,£136 /mi
+MG,MG4 EV Extended Range,Rear Wheel Drive,C,5,"£36,495",265 mi,281 Wh/mi,"1,826 kg",6.5 sec,282 mi,74.4 kWh,110 kW,500 kg,363 L,£138 /mi
+Škoda,Enyaq 85(MY25),Rear Wheel Drive,C,5,"£42,810",285 mi,270 Wh/mi,"2,141 kg",6.7 sec,296 mi,77.0 kWh,120 kW,"1,000 kg",585 L,£150 /mi
+Renault,Scenic E-Tech 220hp Long Range(TU2025),Front Wheel Drive,C,5,"£35,495",300 mi,290 Wh/mi,"1,917 kg",7.9 sec,299 mi,87.0 kWh,95 kW,"1,100 kg",545 L,£118 /mi
+Kia,EV3 Standard Range,Front Wheel Drive,B,5,"£32,995",200 mi,275 Wh/mi,"1,800 kg",7.5 sec,212 mi,55.0 kWh,80 kW,500 kg,485 L,£165 /mi
+Mercedes-Benz,EQA 250+,Front Wheel Drive,C,5,"£49,750",260 mi,271 Wh/mi,"2,050 kg",8.6 sec,257 mi,70.5 kWh,90 kW,"1,500 kg",340 L,£191 /mi
+Tesla,Model Y RWD(Juniper),Rear Wheel Drive,D,5,"£44,990",230 mi,261 Wh/mi,"2,003 kg",5.9 sec,272 mi,60.0 kWh,110 kW,"1,600 kg",971 L,£196 /mi
+BYD,SEALION 7 82.5 kWh RWD Comfort,Rear Wheel Drive,D,5,"£46,990",260 mi,317 Wh/mi,"2,300 kg",6.7 sec,273 mi,82.5 kWh,115 kW,750 kg,578 L,£181 /mi
+MG,ZS EV Long Range,Front Wheel Drive,B,5,"£32,995",230 mi,297 Wh/mi,"1,695 kg",8.4 sec,219 mi,68.3 kWh,82 kW,500 kg,448 L,£143 /mi
+Tesla,Model Y Long Range AWD(Juniper),All Wheel Drive,D,5,"£51,990",295 mi,268 Wh/mi,"2,072 kg",4.8 sec,345 mi,79.0 kWh,120 kW,"1,600 kg",971 L,£176 /mi
+Škoda,Enyaq 85(MY24),Rear Wheel Drive,C,5,"£44,540",280 mi,275 Wh/mi,"2,137 kg",6.7 sec,290 mi,77.0 kWh,120 kW,"1,000 kg",585 L,£159 /mi
+Tesla,Model 3 Long Range AWD(Highland),All Wheel Drive,D,5,"£49,990",345 mi,229 Wh/mi,"1,899 kg",4.4 sec,406 mi,79.0 kWh,120 kW,"1,000 kg",682 L,£145 /mi
+Citroën,C5 Aircross Long Range,Front Wheel Drive,C,5,"£32,935",300 mi,323 Wh/mi,"2,246 kg",8.8 sec,306 mi,96.9 kWh,130 kW,"1,200 kg",565 L,£110 /mi
+Hyundai,Kona Electric 64 kWh,Front Wheel Drive,B,5,"£37,750",240 mi,267 Wh/mi,"1,760 kg",7.9 sec,226 mi,64.0 kWh,64 kW,300 kg,332 L,£157 /mi
+Tesla,Model Y Long Range AWD(Juniper),All Wheel Drive,D,5,"£51,990",280 mi,268 Wh/mi,"2,072 kg",4.8 sec,332 mi,75.0 kWh,124 kW,"1,600 kg",971 L,£186 /mi
+Omoda,E5,Front Wheel Drive,C,5,"£33,055",205 mi,287 Wh/mi,"1,785 kg",7.6 sec,217 mi,58.9 kWh,80 kW,0 kg,380 L,£161 /mi
+Nissan,LEAF Extended Range 75 kWh(MY26),Front Wheel Drive,C,5,"£32,249",280 mi,268 Wh/mi,"1,981 kg",7.6 sec,301 mi,75.0 kWh,100 kW,975 kg,437 L,£115 /mi
+Kia,e-Niro 64 kWh,Front Wheel Drive,C,5,"£34,995",230 mi,278 Wh/mi,"1,812 kg",7.8 sec,217 mi,64.0 kWh,64 kW,300 kg,451 L,£152 /mi
+BMW,iX3(MY22-24),Rear Wheel Drive,D,5,"£64,165",240 mi,308 Wh/mi,"2,255 kg",6.8 sec,255 mi,74.0 kWh,104 kW,750 kg,510 L,£267 /mi
+MG,MG5 EV Long Range,Front Wheel Drive,C,5,"£30,995",205 mi,280 Wh/mi,"1,637 kg",7.7 sec,202 mi,57.4 kWh,60 kW,500 kg,479 L,£151 /mi
+BYD,SEAL 82.5 kWh RWD Design,Rear Wheel Drive,D,5,"£45,695",295 mi,280 Wh/mi,"2,130 kg",5.9 sec,315 mi,82.5 kWh,100 kW,750 kg,453 L,£155 /mi
+BMW,iX1 xDrive30,All Wheel Drive,C,5,"£47,465",235 mi,275 Wh/mi,"2,085 kg",5.6 sec,253 mi,64.7 kWh,93 kW,"1,200 kg",490 L,£202 /mi
+Kia,EV4 Hatchback 81.4 kWh,Front Wheel Drive,C,5,"£37,695",295 mi,264 Wh/mi,"1,890 kg",7.7 sec,309 mi,78.0 kWh,105 kW,"1,000 kg",435 L,£128 /mi
+Polestar,4 Long Range Dual Motor,All Wheel Drive,E,5,"£66,990",300 mi,313 Wh/mi,"2,430 kg",3.8 sec,326 mi,94.0 kWh,135 kW,"2,000 kg",541 L,£223 /mi
+Škoda,Elroq 60(MY25),Rear Wheel Drive,C,5,"£32,060",215 mi,274 Wh/mi,"1,975 kg",8.5 sec,252 mi,59.0 kWh,110 kW,"1,000 kg",470 L,£149 /mi
+Renault,Zoe ZE50 R135,Front Wheel Drive,B,5,"£29,995",190 mi,274 Wh/mi,"1,577 kg",9.5 sec,168 mi,52.0 kWh,41 kW,0 kg,338 L,£158 /mi
+BYD,DOLPHIN SURF 43.2 kWh Boost,Front Wheel Drive,B,4,"£21,950",165 mi,262 Wh/mi,"1,445 kg",12.1 sec,176 mi,43.2 kWh,60 kW,0 kg,308 L,£133 /mi
+Audi,Q4 e-tron 45,Rear Wheel Drive,C,5,"£51,310",260 mi,296 Wh/mi,"2,145 kg",6.7 sec,286 mi,77.0 kWh,120 kW,"1,000 kg",520 L,£197 /mi
+Ford,Explorer Extended Range RWD,Rear Wheel Drive,C,5,"£45,875",270 mi,285 Wh/mi,"2,090 kg",6.4 sec,281 mi,77.0 kWh,120 kW,"1,000 kg",536 L,£170 /mi
+Volvo,EX30 Single Motor ER(MY24-26),Rear Wheel Drive,B,5,"£37,260",225 mi,289 Wh/mi,"1,850 kg",5.3 sec,255 mi,65.0 kWh,114 kW,"1,600 kg",325 L,£166 /mi
+Hyundai,IONIQ Electric,Front Wheel Drive,C,5,"£32,050",155 mi,247 Wh/mi,"1,602 kg",9.7 sec,143 mi,38.3 kWh,36 kW,0 kg,357 L,£207 /mi
+Mercedes-Benz,EQB 250+,Front Wheel Drive,C,7,"£52,800",260 mi,271 Wh/mi,"2,105 kg",8.9 sec,257 mi,70.5 kWh,90 kW,"1,400 kg",495 L,£203 /mi
+BMW,iX1 eDrive20,Front Wheel Drive,C,5,"£45,465",240 mi,270 Wh/mi,"1,940 kg",8.3 sec,260 mi,64.7 kWh,93 kW,750 kg,490 L,£189 /mi
+Tesla,Model Y Long Range RWD,Rear Wheel Drive,D,5,"£46,990",280 mi,268 Wh/mi,"1,959 kg",5.9 sec,332 mi,75.0 kWh,124 kW,"1,600 kg",971 L,£168 /mi
+Audi,e-tron 55 quattro,All Wheel Drive,E,5,"£72,935",225 mi,384 Wh/mi,"2,565 kg",5.7 sec,239 mi,86.5 kWh,146 kW,"1,800 kg",660 L,£324 /mi
+MG,IM6 Long Range,Rear Wheel Drive,D,5,"£47,995",310 mi,311 Wh/mi,"2,320 kg",5.4 sec,391 mi,96.5 kWh,250 kW,unknown,697 L,£155 /mi
+Mercedes-Benz,EQS 450+,Rear Wheel Drive,F,5,"£112,610",425 mi,278 Wh/mi,"2,545 kg",6.2 sec,454 mi,118.0 kWh,160 kW,750 kg,620 L,£265 /mi
+Hyundai,INSTER Long Range,Front Wheel Drive,A,4,"£25,045",185 mi,249 Wh/mi,"1,410 kg",10.6 sec,193 mi,46.0 kWh,70 kW,unknown,351 L,£135 /mi
+Tesla,Model 3 Long Range AWD(Highland),All Wheel Drive,D,5,"£49,990",325 mi,231 Wh/mi,"1,899 kg",4.4 sec,391 mi,75.0 kWh,124 kW,"1,000 kg",682 L,£154 /mi
+Mercedes-Benz,GLC 400 4MATIC,All Wheel Drive,D,5,"£65,000",310 mi,303 Wh/mi,"2,535 kg",4.3 sec,377 mi,94.0 kWh,190 kW,"2,400 kg",698 L,£210 /mi
+Renault,Scenic E-Tech 220hp Long Range,Front Wheel Drive,C,5,"£40,995",300 mi,290 Wh/mi,"1,917 kg",7.9 sec,299 mi,87.0 kWh,95 kW,"1,100 kg",545 L,£137 /mi
+BMW,i4 eDrive40,Rear Wheel Drive,D,5,"£59,365",320 mi,254 Wh/mi,"2,125 kg",5.6 sec,366 mi,81.3 kWh,131 kW,"1,600 kg",470 L,£186 /mi
+BMW,iX xDrive 40,All Wheel Drive,E,5,"£69,905",220 mi,323 Wh/mi,"2,440 kg",6.1 sec,241 mi,71.0 kWh,102 kW,"2,500 kg",500 L,£318 /mi
+Volvo,EX30 Single Motor(MY24-26),Rear Wheel Drive,B,5,"£33,060",170 mi,288 Wh/mi,"1,840 kg",5.7 sec,190 mi,49.0 kWh,80 kW,"1,000 kg",325 L,£194 /mi
+Hyundai,IONIQ 5 84 kWh RWD(MY24),Rear Wheel Drive,C,5,"£43,400",280 mi,286 Wh/mi,"2,060 kg",7.5 sec,348 mi,80.0 kWh,205 kW,"1,600 kg",577 L,£155 /mi
+Tesla,Model 3 Long Range AWD,All Wheel Drive,D,5,"£49,990",290 mi,248 Wh/mi,"1,919 kg",4.4 sec,332 mi,72.0 kWh,108 kW,"1,000 kg",649 L,£172 /mi
+Toyota,bZ4X FWD(MY22-24),Front Wheel Drive,C,5,"£36,995",215 mi,298 Wh/mi,"1,970 kg",7.5 sec,239 mi,64.0 kWh,100 kW,750 kg,452 L,£172 /mi
+Dacia,Spring Electric 45,Front Wheel Drive,A,4,"£14,995",100 mi,250 Wh/mi,"1,009 kg",19.1 sec,94 mi,25.0 kWh,29 kW,0 kg,343 L,£150 /mi
+BMW,i3 120 Ah,Rear Wheel Drive,B,4,"£33,805",145 mi,261 Wh/mi,"1,345 kg",7.3 sec,138 mi,37.9 kWh,47 kW,0 kg,260 L,£233 /mi
+Volkswagen,ID.7 Pro S(MY26),Rear Wheel Drive,E,5,"£54,490",325 mi,265 Wh/mi,"2,226 kg",6.6 sec,373 mi,86.0 kWh,145 kW,"1,000 kg",532 L,£168 /mi
+BYD,ATTO 3(MY23-24),Front Wheel Drive,C,5,"£37,195",205 mi,295 Wh/mi,"1,825 kg",7.3 sec,202 mi,60.5 kWh,71 kW,0 kg,440 L,£181 /mi
+BYD,SEALION 7 91.3 kWh AWD Excellence,All Wheel Drive,D,5,"£58,990",270 mi,338 Wh/mi,"2,510 kg",4.5 sec,312 mi,91.3 kWh,165 kW,"1,500 kg",578 L,£218 /mi
+Renault,Megane E-Tech EV60 220hp(TU2025),Front Wheel Drive,C,5,"£30,995",235 mi,255 Wh/mi,"1,719 kg",7.4 sec,255 mi,60.0 kWh,87 kW,900 kg,440 L,£132 /mi
+Tesla,Model 3 Standard Range Plus,Rear Wheel Drive,D,5,"£40,490",195 mi,251 Wh/mi,"1,684 kg",5.6 sec,242 mi,49.0 kWh,105 kW,"1,000 kg",542 L,£208 /mi
+BMW,i4 eDrive40,Rear Wheel Drive,D,5,"£57,890",320 mi,252 Wh/mi,"2,125 kg",5.7 sec,363 mi,80.7 kWh,131 kW,"1,600 kg",470 L,£181 /mi
+Tesla,Model Y Performance(Juniper),All Wheel Drive,D,5,"£61,990",285 mi,277 Wh/mi,"2,108 kg",3.8 sec,332 mi,79.0 kWh,120 kW,"1,600 kg",971 L,£218 /mi
+Tesla,Model 3 RWD(Highland CATL LFP60),Rear Wheel Drive,D,5,"£39,990",260 mi,219 Wh/mi,"1,836 kg",6.1 sec,308 mi,57.0 kWh,108 kW,"1,000 kg",682 L,£154 /mi
+Volkswagen,e-Golf,Front Wheel Drive,C,5,"£28,075",115 mi,278 Wh/mi,"1,615 kg",9.6 sec,111 mi,32.0 kWh,39 kW,0 kg,341 L,£244 /mi
+Leapmotor,B10 67.1 kWh,Rear Wheel Drive,C,5,"£31,495",220 mi,295 Wh/mi,"1,920 kg",8.0 sec,250 mi,65.0 kWh,110 kW,750 kg,430 L,£143 /mi
+Renault,5 E-Tech 40kWh 120hp,Front Wheel Drive,B,5,"£21,495",160 mi,250 Wh/mi,"1,447 kg",9.0 sec,167 mi,40.0 kWh,55 kW,500 kg,326 L,£134 /mi
+Kia,EV6 Long Range 2WD,Rear Wheel Drive,C,5,"£45,245",255 mi,290 Wh/mi,"1,985 kg",7.3 sec,319 mi,74.0 kWh,200 kW,"1,600 kg",532 L,£177 /mi
+Nissan,Ariya 87kWh,Front Wheel Drive,C,5,"£35,500",280 mi,311 Wh/mi,"2,121 kg",7.6 sec,277 mi,87.0 kWh,110 kW,750 kg,468 L,£127 /mi
+Porsche,Macan 4 Electric(MY24-25),All Wheel Drive,D,5,"£69,800",295 mi,322 Wh/mi,"2,405 kg",5.2 sec,350 mi,95.0 kWh,200 kW,"2,000 kg",624 L,£237 /mi
+Audi,A6 Avant e-tron performance,Rear Wheel Drive,E,5,"£71,740",360 mi,264 Wh/mi,"2,260 kg",5.4 sec,434 mi,94.9 kWh,200 kW,"2,100 kg",529 L,£199 /mi
+Audi,A6 Sportback e-tron performance,Rear Wheel Drive,E,5,"£69,940",370 mi,256 Wh/mi,"2,250 kg",5.4 sec,454 mi,94.9 kWh,200 kW,"2,100 kg",529 L,£189 /mi
+Mercedes-Benz,EQC 400 4MATIC,All Wheel Drive,D,5,"£74,330",230 mi,348 Wh/mi,"2,495 kg",5.1 sec,227 mi,80.0 kWh,100 kW,"1,800 kg",500 L,£323 /mi
+Tesla,Model 3 Long Range AWD,All Wheel Drive,D,5,"£50,990",300 mi,250 Wh/mi,"1,919 kg",4.4 sec,359 mi,75.0 kWh,124 kW,"1,000 kg",649 L,£170 /mi
+MG,MGS5 EV Standard Range,Rear Wheel Drive,C,5,"£28,495",170 mi,277 Wh/mi,"1,710 kg",8.0 sec,192 mi,47.1 kWh,80 kW,750 kg,453 L,£168 /mi
+Leapmotor,T03,Front Wheel Drive,A,4,"£14,495",140 mi,257 Wh/mi,"1,250 kg",12.7 sec,132 mi,36.0 kWh,30 kW,unknown,210 L,£104 /mi
+CUPRA,Tavascan Endurance,Rear Wheel Drive,C,5,"£47,340",275 mi,280 Wh/mi,"2,178 kg",6.8 sec,290 mi,77.0 kWh,120 kW,"1,000 kg",540 L,£172 /mi
+Tesla,Model Y Long Range AWD Launch Series(Juniper),All Wheel Drive,D,5,"£60,990",280 mi,268 Wh/mi,"2,072 kg",4.3 sec,332 mi,75.0 kWh,124 kW,"1,600 kg",971 L,£218 /mi
+Peugeot,e-3008 73 kWh,Front Wheel Drive,C,5,"£45,960",235 mi,311 Wh/mi,"2,183 kg",8.8 sec,247 mi,73.0 kWh,90 kW,"1,250 kg",588 L,£196 /mi
+Mercedes-Benz,CLA 350 4MATIC,All Wheel Drive,D,5,"£54,000 *",355 mi,239 Wh/mi,"2,135 kg",4.9 sec,464 mi,85.0 kWh,235 kW,"1,800 kg",506 L,£152 /mi
+Hyundai,IONIQ 6 Long Range 2WD,Rear Wheel Drive,D,5,"£47,040",305 mi,243 Wh/mi,"1,985 kg",7.4 sec,396 mi,74.0 kWh,200 kW,"1,500 kg",446 L,£154 /mi
+MG,IM5 Performance,All Wheel Drive,D,5,"£48,495",300 mi,322 Wh/mi,"2,298 kg",3.2 sec,386 mi,96.5 kWh,250 kW,unknown,475 L,£162 /mi
+Volvo,EX30 Twin Motor Performance(MY24-26),All Wheel Drive,B,5,"£42,360",210 mi,310 Wh/mi,"1,960 kg",3.6 sec,239 mi,65.0 kWh,114 kW,"1,600 kg",325 L,£202 /mi
+Peugeot,e-5008 97 kWh Long Range,Front Wheel Drive,D,7,"£51,360",300 mi,323 Wh/mi,"2,316 kg",9.6 sec,308 mi,96.9 kWh,135 kW,"1,000 kg",348 L,£171 /mi
+Polestar,4 Long Range Single Motor,Rear Wheel Drive,E,5,"£59,990",305 mi,308 Wh/mi,"2,305 kg",7.4 sec,331 mi,94.0 kWh,135 kW,"1,500 kg",541 L,£197 /mi
+Peugeot,e-5008 73 kWh,Front Wheel Drive,D,7,"£48,660",230 mi,317 Wh/mi,"2,260 kg",9.7 sec,241 mi,73.0 kWh,90 kW,"1,000 kg",348 L,£212 /mi
+BYD,ATTO 3(MY25),Front Wheel Drive,C,5,"£37,705",210 mi,288 Wh/mi,"1,825 kg",7.3 sec,216 mi,60.5 kWh,75 kW,750 kg,440 L,£180 /mi
+Renault,Megane E-Tech EV60 220hp,Front Wheel Drive,C,5,"£37,995",235 mi,255 Wh/mi,"1,711 kg",7.4 sec,255 mi,60.0 kWh,87 kW,900 kg,440 L,£162 /mi
+Volkswagen,ID.7 Pro(MY24-25),Rear Wheel Drive,E,5,"£51,550",295 mi,261 Wh/mi,"2,172 kg",6.5 sec,336 mi,77.0 kWh,125 kW,"1,000 kg",532 L,£175 /mi
+Volkswagen,ID.3 Pure(MY24-26),Rear Wheel Drive,C,5,"£29,360",205 mi,254 Wh/mi,"1,787 kg",8.2 sec,234 mi,52.0 kWh,90 kW,0 kg,385 L,£143 /mi
+Polestar,2 Long Range Single Motor,Front Wheel Drive,D,5,"£46,450",260 mi,288 Wh/mi,"2,069 kg",7.4 sec,280 mi,75.0 kWh,108 kW,"1,500 kg",440 L,£179 /mi
+Ford,Capri Extended Range RWD,Rear Wheel Drive,D,5,"£48,075",285 mi,270 Wh/mi,"2,098 kg",6.4 sec,296 mi,77.0 kWh,120 kW,"1,000 kg",572 L,£169 /mi
+Polestar,2 Long Range Single Motor(MY26),Rear Wheel Drive,D,5,"£49,160",295 mi,268 Wh/mi,"2,084 kg",6.2 sec,331 mi,79.0 kWh,125 kW,"1,500 kg",448 L,£167 /mi
+Geely,EX5,Front Wheel Drive,C,5,"£31,990",205 mi,294 Wh/mi,"1,815 kg",6.9 sec,227 mi,60.2 kWh,95 kW,0 kg,461 L,£156 /mi
+Hyundai,IONIQ 6 Long Range AWD,All Wheel Drive,D,5,"£50,540",275 mi,269 Wh/mi,"2,095 kg",5.1 sec,353 mi,74.0 kWh,200 kW,"1,500 kg",416 L,£184 /mi
+Kia,EV6 RWD,Rear Wheel Drive,C,5,"£45,585",280 mi,286 Wh/mi,"2,050 kg",7.3 sec,351 mi,80.0 kWh,205 kW,"1,800 kg",542 L,£163 /mi
+Hyundai,IONIQ 5 N(MY24),All Wheel Drive,C,5,"£65,000",240 mi,333 Wh/mi,"2,225 kg",3.4 sec,300 mi,80.0 kWh,205 kW,0 kg,480 L,£271 /mi
+BMW,i4 eDrive40,Rear Wheel Drive,D,5,"£59,465",325 mi,250 Wh/mi,"2,120 kg",5.6 sec,370 mi,81.3 kWh,130 kW,"1,600 kg",470 L,£183 /mi
+Hyundai,IONIQ 5 Long Range AWD(MY22),All Wheel Drive,C,5,"£50,445",235 mi,315 Wh/mi,"2,120 kg",5.1 sec,301 mi,74.0 kWh,200 kW,"1,600 kg",551 L,£215 /mi
+Volkswagen,ID.3 Pro S(MY26),Rear Wheel Drive,C,5,"£35,495",295 mi,268 Wh/mi,"1,957 kg",7.1 sec,333 mi,79.0 kWh,135 kW,0 kg,385 L,£120 /mi
+Tesla,Model 3 Standard Range Plus(PANA 2170L),Rear Wheel Drive,D,5,"£40,990",215 mi,237 Wh/mi,"1,700 kg",5.6 sec,262 mi,51.0 kWh,105 kW,"1,000 kg",649 L,£191 /mi
+Volkswagen,ID.4 Pro(MY24-25),Rear Wheel Drive,C,5,"£46,035",275 mi,280 Wh/mi,"2,144 kg",6.7 sec,304 mi,77.0 kWh,120 kW,"1,000 kg",543 L,£167 /mi
+XPENG,G6 RWD Long Range(MY24),Rear Wheel Drive,D,5,"£44,990",300 mi,292 Wh/mi,"2,100 kg",6.7 sec,357 mi,87.5 kWh,180 kW,"1,500 kg",571 L,£150 /mi
+Audi,Q4 e-tron 40,Rear Wheel Drive,C,5,"£50,630",250 mi,306 Wh/mi,"2,125 kg",8.5 sec,267 mi,76.6 kWh,125 kW,"1,000 kg",520 L,£203 /mi
+Dacia,Spring Electric 65,Front Wheel Drive,A,4,"£15,995",100 mi,250 Wh/mi,"1,032 kg",13.7 sec,93 mi,25.0 kWh,29 kW,0 kg,343 L,£160 /mi
+BYD,DOLPHIN SURF 43.2 kWh Comfort,Front Wheel Drive,B,4,"£23,950",165 mi,262 Wh/mi,"1,465 kg",9.1 sec,171 mi,43.2 kWh,60 kW,0 kg,308 L,£145 /mi
+Tesla,Model 3 Long Range AWD,All Wheel Drive,D,5,"£46,990",285 mi,258 Wh/mi,"1,931 kg",4.6 sec,348 mi,73.5 kWh,163 kW,"1,000 kg",542 L,£165 /mi
+Polestar,2 Long Range Performance(MY24),All Wheel Drive,D,5,"£57,950",280 mi,282 Wh/mi,"2,180 kg",4.2 sec,315 mi,79.0 kWh,125 kW,"1,500 kg",446 L,£207 /mi
+Tesla,Model 3 Performance(Highland),All Wheel Drive,D,5,"£59,990",305 mi,246 Wh/mi,"1,929 kg",3.4 sec,364 mi,75.0 kWh,124 kW,0 kg,682 L,£197 /mi
+Vauxhall,Frontera Electric 54 kWh,Front Wheel Drive,B,5,"£25,995",180 mi,297 Wh/mi,"1,610 kg",13.0 sec,185 mi,53.5 kWh,70 kW,550 kg,460 L,£144 /mi
+Renault,Zoe ZE50 R110,Front Wheel Drive,B,5,"£29,095",195 mi,267 Wh/mi,"1,577 kg",11.4 sec,170 mi,52.0 kWh,41 kW,0 kg,338 L,£149 /mi
+Mini,Cooper SE,Front Wheel Drive,B,4,"£34,500",205 mi,240 Wh/mi,"1,680 kg",6.7 sec,221 mi,49.2 kWh,75 kW,0 kg,200 L,£168 /mi
+Nissan,Ariya 63kWh,Front Wheel Drive,C,5,"£33,500",205 mi,307 Wh/mi,"1,980 kg",7.5 sec,218 mi,63.0 kWh,90 kW,750 kg,468 L,£163 /mi
+Tesla,Model 3 Performance,All Wheel Drive,D,5,"£57,990",285 mi,263 Wh/mi,"1,919 kg",3.6 sec,337 mi,75.0 kWh,124 kW,0 kg,649 L,£203 /mi
+Mini,Countryman SE ALL4,All Wheel Drive,C,5,"£45,680",225 mi,287 Wh/mi,"2,075 kg",5.6 sec,242 mi,64.6 kWh,93 kW,"1,200 kg",460 L,£203 /mi
+Ford,Explorer Extended Range AWD,All Wheel Drive,C,5,"£53,975",275 mi,287 Wh/mi,"2,167 kg",5.3 sec,306 mi,79.0 kWh,135 kW,"1,200 kg",536 L,£196 /mi
+Honda,e:Ny1,Front Wheel Drive,B,5,"£39,995",210 mi,295 Wh/mi,"1,730 kg",7.6 sec,198 mi,61.9 kWh,60 kW,0 kg,361 L,£190 /mi
+Renault,Twingo E-Tech 27.5 kWh,Front Wheel Drive,A,5,"£18,000 *",115 mi,239 Wh/mi,"1,200 kg",12.1 sec,120 mi,27.5 kWh,40 kW,0 kg,360 L,£157 /mi
+Jaguar,I-Pace EV400,All Wheel Drive,D,5,"£69,995",235 mi,360 Wh/mi,"2,226 kg",4.8 sec,220 mi,84.7 kWh,85 kW,750 kg,532 L,£298 /mi
+CUPRA,Born 79 kWh e-Boost,Rear Wheel Drive,C,5,"£35,495",290 mi,272 Wh/mi,"1,977 kg",7.1 sec,327 mi,79.0 kWh,135 kW,0 kg,385 L,£122 /mi
+Mini,Countryman E,Front Wheel Drive,C,5,"£40,580",235 mi,275 Wh/mi,"1,940 kg",8.6 sec,252 mi,64.6 kWh,93 kW,750 kg,460 L,£173 /mi
+Škoda,Enyaq iV 80(MY21-23),Rear Wheel Drive,C,5,"£42,925",270 mi,285 Wh/mi,"2,075 kg",8.6 sec,291 mi,77.0 kWh,125 kW,"1,000 kg",585 L,£159 /mi
+Volvo,XC40 Recharge Twin Motor(MY24),All Wheel Drive,C,5,"£51,755",235 mi,336 Wh/mi,"2,170 kg",4.8 sec,260 mi,79.0 kWh,125 kW,"1,800 kg",441 L,£220 /mi
+Tesla,Model 3 Long Range RWD,Rear Wheel Drive,D,5,"£46,990",305 mi,246 Wh/mi,"1,825 kg",5.9 sec,364 mi,75.0 kWh,124 kW,"1,000 kg",649 L,£154 /mi
+Fiat,500e Hatchback 42 kWh,Front Wheel Drive,B,4,"£27,995",145 mi,257 Wh/mi,"1,365 kg",9.0 sec,162 mi,37.3 kWh,67 kW,0 kg,185 L,£193 /mi
+Vauxhall,Corsa-e(MY22-23),Front Wheel Drive,B,5,"£33,930",180 mi,257 Wh/mi,"1,530 kg",8.1 sec,199 mi,46.3 kWh,78 kW,0 kg,267 L,£189 /mi
+Volkswagen,ID. Buzz LWB GTX,All Wheel Drive,N,7,"£67,795",235 mi,366 Wh/mi,"2,758 kg",6.5 sec,264 mi,86.0 kWh,145 kW,"1,600 kg","1,340 L",£288 /mi
+Hyundai,INSTER Standard Range,Front Wheel Drive,A,4,"£23,495",155 mi,252 Wh/mi,"1,380 kg",11.7 sec,165 mi,39.0 kWh,60 kW,unknown,280 L,£152 /mi
+Tesla,Model 3 RWD(CATL LFP60),Rear Wheel Drive,D,5,"£42,990",250 mi,228 Wh/mi,"1,835 kg",6.1 sec,291 mi,57.0 kWh,100 kW,"1,000 kg",649 L,£172 /mi
+Tesla,Model Y RWD(CATL LFP),Rear Wheel Drive,D,5,"£44,990",215 mi,265 Wh/mi,"1,984 kg",6.9 sec,254 mi,57.0 kWh,108 kW,"1,600 kg",971 L,£209 /mi
+Hyundai,IONIQ 5 84 kWh AWD(MY24),All Wheel Drive,C,5,"£50,900",275 mi,291 Wh/mi,"2,165 kg",5.3 sec,344 mi,80.0 kWh,205 kW,"1,600 kg",544 L,£185 /mi
+Ford,Capri Extended Range AWD,All Wheel Drive,D,5,"£56,175",285 mi,277 Wh/mi,"2,175 kg",5.3 sec,321 mi,79.0 kWh,135 kW,"1,200 kg",572 L,£197 /mi
+BMW,i4 M50,All Wheel Drive,D,5,"£72,375",280 mi,290 Wh/mi,"2,290 kg",3.9 sec,321 mi,81.3 kWh,131 kW,"1,600 kg",470 L,£258 /mi
+Suzuki,e VITARA 61 kWh 4WD AllGrip,All Wheel Drive,B,5,"£34,999",190 mi,315 Wh/mi,"1,935 kg",7.4 sec,178 mi,59.8 kWh,60 kW,750 kg,238 L,£184 /mi
+Volkswagen,ID.3 Pro,Rear Wheel Drive,C,5,"£44,990",220 mi,264 Wh/mi,"1,815 kg",7.3 sec,235 mi,58.0 kWh,82 kW,0 kg,385 L,£205 /mi
+Hyundai,IONIQ 5 63 kWh RWD(MY24),Rear Wheel Drive,C,5,"£39,900",215 mi,279 Wh/mi,"1,955 kg",8.5 sec,263 mi,60.0 kWh,150 kW,750 kg,577 L,£186 /mi
+Polestar,2 Long Range Single Motor(MY24),Rear Wheel Drive,D,5,"£48,950",290 mi,272 Wh/mi,"2,084 kg",6.2 sec,329 mi,79.0 kWh,125 kW,"1,500 kg",446 L,£169 /mi
+Alpine,A290 Electric 220 hp,Front Wheel Drive,B,5,"£34,500",190 mi,274 Wh/mi,"1,554 kg",6.4 sec,196 mi,52.0 kWh,70 kW,500 kg,326 L,£182 /mi
+MG,IM5 Standard Range,Rear Wheel Drive,D,5,"£39,450",250 mi,294 Wh/mi,"2,180 kg",6.8 sec,280 mi,73.5 kWh,120 kW,unknown,475 L,£158 /mi
+Audi,e-tron 50 quattro,All Wheel Drive,E,5,"£60,600",175 mi,370 Wh/mi,"2,445 kg",6.8 sec,186 mi,64.7 kWh,114 kW,"1,800 kg",660 L,£346 /mi
+Jaguar,I-Pace EV400,All Wheel Drive,D,5,"£66,350",235 mi,360 Wh/mi,"2,208 kg",4.8 sec,224 mi,84.7 kWh,85 kW,750 kg,505 L,£282 /mi
+Vauxhall,Mokka-e,Front Wheel Drive,B,5,"£36,610",160 mi,289 Wh/mi,"1,598 kg",9.2 sec,177 mi,46.3 kWh,78 kW,0 kg,310 L,£229 /mi
+BYD,ATTO 2 64.8 kWh,Front Wheel Drive,B,5,"£34,950",195 mi,297 Wh/mi,"1,680 kg",7.9 sec,216 mi,58.0 kWh,100 kW,unknown,400 L,£179 /mi
+Kia,EV6 Long Range AWD,All Wheel Drive,C,5,"£51,745",250 mi,296 Wh/mi,"2,090 kg",5.2 sec,314 mi,74.0 kWh,200 kW,"1,600 kg",500 L,£207 /mi
+BMW,i4 M60 xDrive,All Wheel Drive,D,5,"£71,000",285 mi,285 Wh/mi,"2,285 kg",3.7 sec,326 mi,81.1 kWh,130 kW,"1,600 kg",470 L,£249 /mi
+Citroën,ë-C3 Comfort Range 44 kWh,Front Wheel Drive,B,5,"£20,595",155 mi,283 Wh/mi,"1,491 kg",11.5 sec,168 mi,43.8 kWh,60 kW,550 kg,310 L,£133 /mi
+Tesla,Model 3 Performance(Highland),All Wheel Drive,D,5,"£59,990",320 mi,247 Wh/mi,"1,929 kg",3.4 sec,375 mi,79.0 kWh,120 kW,0 kg,682 L,£187 /mi
+Vauxhall,Astra Electric,Front Wheel Drive,C,5,"£33,505",195 mi,261 Wh/mi,"1,736 kg",9.2 sec,213 mi,50.8 kWh,85 kW,0 kg,352 L,£172 /mi
+Hyundai,Kona Electric 64 kWh,Front Wheel Drive,B,5,"£39,150",240 mi,267 Wh/mi,"1,760 kg",7.9 sec,226 mi,64.0 kWh,64 kW,0 kg,361 L,£163 /mi
+BYD,DOLPHIN 60.4 kWh(MY24),Front Wheel Drive,C,5,"£30,195",215 mi,281 Wh/mi,"1,733 kg",7.0 sec,210 mi,60.5 kWh,65 kW,0 kg,345 L,£140 /mi
+Nissan,Ariya e-4ORCE 87kWh - 225 kW,All Wheel Drive,C,5,"£45,500",250 mi,348 Wh/mi,"2,259 kg",5.7 sec,249 mi,87.0 kWh,110 kW,"1,500 kg",415 L,£182 /mi
+CUPRA,Born 59 kWh e-Boost,Rear Wheel Drive,C,5,"£34,190",225 mi,262 Wh/mi,"1,841 kg",6.7 sec,258 mi,59.0 kWh,110 kW,0 kg,385 L,£152 /mi
+Renault,4 E-Tech 52kWh 150hp,Front Wheel Drive,B,5,"£25,495",195 mi,267 Wh/mi,"1,537 kg",8.2 sec,203 mi,52.0 kWh,70 kW,750 kg,420 L,£131 /mi
+Kia,EV5 81.4 kWh(MY26),Front Wheel Drive,C,5,"£39,295",250 mi,312 Wh/mi,"2,069 kg",8.4 sec,262 mi,78.0 kWh,115 kW,"1,200 kg",566 L,£157 /mi
+Mini,Cooper SE,Front Wheel Drive,B,4,"£32,550",110 mi,263 Wh/mi,"1,440 kg",7.3 sec,114 mi,28.9 kWh,44 kW,0 kg,211 L,£296 /mi
+Jeep,Avenger Electric,Front Wheel Drive,B,5,"£34,800",190 mi,267 Wh/mi,"1,595 kg",9.0 sec,203 mi,50.8 kWh,85 kW,0 kg,355 L,£183 /mi
+Porsche,Macan Electric(MY25),Rear Wheel Drive,D,5,"£68,500",305 mi,311 Wh/mi,"2,295 kg",5.7 sec,365 mi,95.0 kWh,200 kW,"2,000 kg",624 L,£225 /mi
+Lexus,UX 300e,Front Wheel Drive,C,5,"£39,995",210 mi,305 Wh/mi,"1,850 kg",7.5 sec,181 mi,64.0 kWh,35 kW,0 kg,316 L,£190 /mi
+Citroën,ë-C3 Aircross Extended Range 54 kWh,Front Wheel Drive,B,5,"£23,495",180 mi,297 Wh/mi,"1,608 kg",13.0 sec,185 mi,53.5 kWh,70 kW,550 kg,460 L,£131 /mi
+Škoda,Enyaq iV 60(MY21-23),Rear Wheel Drive,C,5,"£38,970",210 mi,276 Wh/mi,"1,965 kg",8.7 sec,224 mi,58.0 kWh,82 kW,"1,000 kg",585 L,£186 /mi
+MG,ZS EV Standard Range,Front Wheel Drive,B,5,"£30,495",165 mi,297 Wh/mi,"1,645 kg",8.6 sec,160 mi,49.0 kWh,50 kW,500 kg,448 L,£185 /mi
+Peugeot,e-2008 54 kWh,Front Wheel Drive,B,5,"£33,900",185 mi,275 Wh/mi,"1,623 kg",9.1 sec,201 mi,50.8 kWh,85 kW,0 kg,434 L,£183 /mi
+Volkswagen,ID.7 Tourer Pro S(MY26),Rear Wheel Drive,E,5,"£55,280",320 mi,269 Wh/mi,"2,235 kg",6.7 sec,366 mi,86.0 kWh,145 kW,"1,000 kg",605 L,£173 /mi
+BYD,DOLPHIN 44.9 kWh Active(MY24),Front Wheel Drive,C,5,"£26,195",160 mi,281 Wh/mi,"1,650 kg",12.3 sec,156 mi,44.9 kWh,50 kW,0 kg,345 L,£164 /mi
+MG,MG4 EV XPOWER,All Wheel Drive,C,5,"£36,495",200 mi,309 Wh/mi,"1,878 kg",3.8 sec,224 mi,61.7 kWh,115 kW,500 kg,363 L,£182 /mi
+Hyundai,IONIQ 5 Long Range AWD(MY21),All Wheel Drive,C,5,"£45,145",225 mi,311 Wh/mi,"2,095 kg",5.2 sec,281 mi,70.0 kWh,185 kW,"1,600 kg",555 L,£201 /mi
+Kia,EV4 Fastback 81.4 kWh,Front Wheel Drive,C,5,"£40,895",305 mi,256 Wh/mi,"1,900 kg",7.7 sec,322 mi,78.0 kWh,105 kW,"1,000 kg",490 L,£134 /mi
+Nissan,LEAF Standard Range 52 kWh(MY26),Front Wheel Drive,C,5,"£28,250 *",200 mi,260 Wh/mi,"1,889 kg",8.6 sec,213 mi,52.0 kWh,70 kW,975 kg,437 L,£141 /mi
+Tesla,Model Y Performance,All Wheel Drive,D,5,"£59,990",265 mi,283 Wh/mi,"2,072 kg",4.0 sec,314 mi,75.0 kWh,124 kW,"1,600 kg",971 L,£226 /mi
+Citroën,ë-C4,Front Wheel Drive,C,5,"£31,960",180 mi,257 Wh/mi,"1,636 kg",9.7 sec,198 mi,46.3 kWh,78 kW,0 kg,380 L,£178 /mi
+Hyundai,IONIQ 9 Long Range AWD,All Wheel Drive,F,7,"£73,495",305 mi,348 Wh/mi,"2,653 kg",6.7 sec,352 mi,106.0 kWh,195 kW,"2,500 kg",390 L,£241 /mi
+CUPRA,Tavascan VZ,All Wheel Drive,C,5,"£55,935",265 mi,291 Wh/mi,"2,273 kg",5.5 sec,277 mi,77.0 kWh,120 kW,"1,200 kg",540 L,£211 /mi
+Ford,Capri Standard Range RWD,Rear Wheel Drive,D,5,"£42,075",195 mi,267 Wh/mi,"1,914 kg",9.0 sec,222 mi,52.0 kWh,85 kW,"1,000 kg",572 L,£216 /mi
+Škoda,Enyaq 85x(MY25),All Wheel Drive,C,5,"£48,760",280 mi,275 Wh/mi,"2,230 kg",6.7 sec,311 mi,77.0 kWh,120 kW,"1,200 kg",585 L,£174 /mi
+Polestar,5 Dual Motor,All Wheel Drive,F,4,"£89,500",360 mi,294 Wh/mi,"2,462 kg",3.9 sec,434 mi,106.0 kWh,210 kW,"1,800 kg",427 L,£249 /mi
+Hyundai,IONIQ 9 Long Range RWD,Rear Wheel Drive,F,7,"£64,995",310 mi,342 Wh/mi,"2,612 kg",9.4 sec,352 mi,106.0 kWh,195 kW,"1,600 kg",426 L,£210 /mi
+BYD,ATTO 2,Front Wheel Drive,B,5,"£30,850",150 mi,301 Wh/mi,"1,645 kg",7.9 sec,146 mi,45.1 kWh,51 kW,750 kg,400 L,£206 /mi
+Changan,Deepal S07 Standard,Rear Wheel Drive,D,5,"£39,990",255 mi,306 Wh/mi,"2,148 kg",7.9 sec,240 mi,78.0 kWh,70 kW,"1,500 kg",635 L,£157 /mi
+MG,ZS EV,Front Wheel Drive,B,5,"£26,095",135 mi,315 Wh/mi,"1,566 kg",8.2 sec,138 mi,42.5 kWh,53 kW,0 kg,448 L,£193 /mi
+Ford,Explorer Standard Range RWD,Rear Wheel Drive,C,5,"£39,875",190 mi,274 Wh/mi,"1,908 kg",8.7 sec,210 mi,52.0 kWh,85 kW,"1,000 kg",536 L,£210 /mi
+Mini,Aceman SE,Front Wheel Drive,B,5,"£36,300",180 mi,273 Wh/mi,"1,785 kg",7.1 sec,191 mi,49.2 kWh,75 kW,750 kg,300 L,£202 /mi
+Nissan,e-NV200 Combi,Front Wheel Drive,N,7,"£32,755",105 mi,352 Wh/mi,"1,667 kg",14.0 sec,98 mi,37.0 kWh,40 kW,0 kg,"2,000 L",£312 /mi
+CUPRA,Born 58 kWh,Rear Wheel Drive,C,5,"£34,125",215 mi,270 Wh/mi,"1,811 kg",7.3 sec,233 mi,58.0 kWh,82 kW,0 kg,385 L,£159 /mi
+Kia,EV9 99.8 kWh RWD,Rear Wheel Drive,F,7,"£65,035",280 mi,343 Wh/mi,"2,501 kg",9.4 sec,312 mi,96.0 kWh,194 kW,900 kg,423 L,£232 /mi
+Fiat,Grande Panda,Front Wheel Drive,B,5,"£21,035",160 mi,274 Wh/mi,"1,511 kg",11.0 sec,168 mi,43.8 kWh,60 kW,550 kg,361 L,£131 /mi
+Polestar,2 Long Range Dual Motor,All Wheel Drive,D,5,"£49,550",240 mi,313 Wh/mi,"2,188 kg",4.7 sec,260 mi,75.0 kWh,108 kW,"1,500 kg",440 L,£206 /mi
+Volkswagen,ID.5 Pro(MY24-25),Rear Wheel Drive,C,5,"£50,940",285 mi,270 Wh/mi,"2,130 kg",6.7 sec,316 mi,77.0 kWh,120 kW,"1,000 kg",549 L,£179 /mi
+Mazda,6e Long Range 80 kWh,Rear Wheel Drive,D,5,"£42,000 *",275 mi,273 Wh/mi,"2,037 kg",7.8 sec,262 mi,75.0 kWh,70 kW,"1,500 kg",526 L,£153 /mi
+Volkswagen,ID.4 Pro Performance,Rear Wheel Drive,C,5,"£46,035",255 mi,302 Wh/mi,"2,109 kg",8.5 sec,271 mi,77.0 kWh,125 kW,"1,000 kg",543 L,£181 /mi
+Toyota,bZ4X AWD 73.1 kWh(MY25),All Wheel Drive,C,5,"£51,545",230 mi,300 Wh/mi,"2,120 kg",5.1 sec,257 mi,69.0 kWh,110 kW,"1,500 kg",452 L,£224 /mi
+Volkswagen,ID.3 Pro,Rear Wheel Drive,C,5,"£28,420",215 mi,270 Wh/mi,"1,805 kg",9.6 sec,235 mi,58.0 kWh,82 kW,0 kg,385 L,£132 /mi
+Tesla,Model S Plaid,All Wheel Drive,F,5,"£100,000 *",345 mi,275 Wh/mi,"2,265 kg",2.4 sec,395 mi,95.0 kWh,140 kW,"1,600 kg",798 L,£290 /mi
+BMW,iX xDrive 45,All Wheel Drive,E,5,"£75,305",290 mi,327 Wh/mi,"2,525 kg",5.1 sec,304 mi,94.8 kWh,115 kW,"2,500 kg",500 L,£260 /mi
+Peugeot,e-3008 97 kWh Long Range,Front Wheel Drive,C,5,"£48,660",310 mi,313 Wh/mi,"2,241 kg",8.7 sec,318 mi,96.9 kWh,135 kW,"1,200 kg",588 L,£157 /mi
+Lotus,Emeya,All Wheel Drive,F,5,"£96,255",325 mi,304 Wh/mi,"2,555 kg",4.2 sec,413 mi,98.9 kWh,240 kW,"2,250 kg",543 L,£296 /mi
+Tesla,Model X 100D,All Wheel Drive,F,7,"£91,650",270 mi,352 Wh/mi,"2,533 kg",4.9 sec,270 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£339 /mi
+Hyundai,Kona Electric 48 kWh,Front Wheel Drive,B,5,"£34,995",180 mi,269 Wh/mi,"1,690 kg",8.8 sec,179 mi,48.4 kWh,50 kW,300 kg,493 L,£194 /mi
+Volkswagen,ID.4 GTX(MY26),All Wheel Drive,C,5,"£52,245",270 mi,293 Wh/mi,"2,248 kg",5.4 sec,301 mi,79.0 kWh,135 kW,"1,800 kg",543 L,£194 /mi
+BMW,iX xDrive 60,All Wheel Drive,E,5,"£93,105",325 mi,336 Wh/mi,"2,580 kg",4.6 sec,344 mi,109.1 kWh,150 kW,"2,500 kg",500 L,£286 /mi
+Volvo,EX90 Twin Motor Performance(MY24-25),All Wheel Drive,F,7,"£99,960",300 mi,357 Wh/mi,"2,762 kg",4.9 sec,325 mi,107.0 kWh,150 kW,"2,200 kg",703 L,£333 /mi
+Kia,EV6 AWD,All Wheel Drive,C,5,"£52,085",270 mi,296 Wh/mi,"2,160 kg",5.2 sec,341 mi,80.0 kWh,205 kW,"1,800 kg",510 L,£193 /mi
+Tesla,Model X Plaid,All Wheel Drive,F,6,"£120,000 *",290 mi,328 Wh/mi,"2,539 kg",2.9 sec,321 mi,95.0 kWh,140 kW,"2,250 kg",608 L,£414 /mi
+Toyota,bZ4X AWD(MY22-24),All Wheel Drive,C,5,"£48,625",215 mi,298 Wh/mi,"2,070 kg",6.9 sec,234 mi,64.0 kWh,100 kW,750 kg,452 L,£226 /mi
+MG,Cyberster GT,All Wheel Drive,S,2,"£59,995",245 mi,304 Wh/mi,"2,060 kg",3.2 sec,254 mi,74.4 kWh,85 kW,unknown,249 L,£245 /mi
+Vauxhall,Corsa-e(MY20-21),Front Wheel Drive,B,5,"£27,140",175 mi,265 Wh/mi,"1,530 kg",8.1 sec,193 mi,46.3 kWh,78 kW,0 kg,267 L,£155 /mi
+MG,MG5 EV Long Range,Front Wheel Drive,C,5,"£28,995",210 mi,273 Wh/mi,"1,625 kg",7.7 sec,192 mi,57.4 kWh,53 kW,0 kg,464 L,£138 /mi
+Volkswagen,ID.7 Pro S(MY24-25),Rear Wheel Drive,E,5,"£55,450",325 mi,265 Wh/mi,"2,226 kg",6.6 sec,373 mi,86.0 kWh,145 kW,"1,000 kg",532 L,£171 /mi
+BYD,DOLPHIN SURF 30 kWh Active,Front Wheel Drive,B,4,"£18,650",115 mi,261 Wh/mi,"1,369 kg",11.1 sec,124 mi,30.0 kWh,45 kW,0 kg,308 L,£162 /mi
+Rolls-Royce,Spectre,All Wheel Drive,F,4,"£330,000",290 mi,352 Wh/mi,"2,965 kg",4.5 sec,307 mi,102.0 kWh,126 kW,unknown,380 L,"£1,138 /mi"
+Škoda,Enyaq 85x(MY24),All Wheel Drive,C,5,"£48,605",270 mi,285 Wh/mi,"2,213 kg",6.6 sec,301 mi,77.0 kWh,120 kW,"1,200 kg",585 L,£180 /mi
+Leapmotor,C10 RWD 69.9 kWh,Rear Wheel Drive,D,5,"£32,750",220 mi,318 Wh/mi,"2,055 kg",7.5 sec,204 mi,69.9 kWh,70 kW,"1,500 kg",435 L,£149 /mi
+Volkswagen,ID.4 Pro(MY26),Rear Wheel Drive,C,5,"£35,495",275 mi,280 Wh/mi,"2,139 kg",6.7 sec,304 mi,77.0 kWh,120 kW,"1,000 kg",543 L,£129 /mi
+Jaguar,I-Pace EV400,All Wheel Drive,D,5,"£64,495",235 mi,360 Wh/mi,"2,208 kg",4.8 sec,224 mi,84.7 kWh,85 kW,750 kg,505 L,£274 /mi
+BMW,i4 M50,All Wheel Drive,D,5,"£71,085",280 mi,288 Wh/mi,"2,290 kg",3.9 sec,317 mi,80.7 kWh,131 kW,"1,600 kg",470 L,£254 /mi
+Toyota,Proace Verso Long 75 kWh,Front Wheel Drive,N,9,"£46,477",160 mi,431 Wh/mi,"2,240 kg",13.3 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",989 L,£290 /mi
+XPENG,G6 RWD Standard Range(MY24),Rear Wheel Drive,D,5,"£39,990",225 mi,290 Wh/mi,"2,100 kg",6.9 sec,273 mi,65.3 kWh,140 kW,"1,500 kg",571 L,£178 /mi
+BYD,DOLPHIN 60.4 kWh(MY25),Front Wheel Drive,C,5,"£30,205",215 mi,281 Wh/mi,"1,733 kg",7.0 sec,220 mi,60.5 kWh,75 kW,0 kg,345 L,£140 /mi
+BMW,i3s 120 Ah,Rear Wheel Drive,B,4,"£34,805",140 mi,271 Wh/mi,"1,365 kg",6.9 sec,133 mi,37.9 kWh,47 kW,0 kg,260 L,£249 /mi
+BYD,SEALION 7 82.5 kWh AWD Design,All Wheel Drive,D,5,"£51,990",250 mi,330 Wh/mi,"2,415 kg",4.5 sec,268 mi,82.5 kWh,115 kW,"1,500 kg",578 L,£208 /mi
+Polestar,2 Long Range Dual Motor(MY26),All Wheel Drive,D,5,"£53,160",280 mi,282 Wh/mi,"2,183 kg",4.5 sec,319 mi,79.0 kWh,125 kW,"1,500 kg",448 L,£190 /mi
+BMW,iX xDrive 50,All Wheel Drive,E,5,"£102,755",315 mi,334 Wh/mi,"2,585 kg",4.6 sec,334 mi,105.2 kWh,149 kW,"2,500 kg",500 L,£326 /mi
+Mini,Aceman E,Front Wheel Drive,B,5,"£31,800",140 mi,275 Wh/mi,"1,720 kg",7.9 sec,151 mi,38.5 kWh,60 kW,750 kg,300 L,£227 /mi
+Volvo,XC40 Recharge Pure Electric(MY22),Front Wheel Drive,C,5,"£48,300",190 mi,353 Wh/mi,"2,030 kg",7.4 sec,202 mi,67.0 kWh,116 kW,"1,500 kg",450 L,£254 /mi
+BMW,iX2 xDrive30,All Wheel Drive,C,5,"£57,445",240 mi,270 Wh/mi,"2,095 kg",5.6 sec,257 mi,64.7 kWh,93 kW,"1,200 kg",525 L,£239 /mi
+Citroën,ë-Berlingo M 50 kWh,Front Wheel Drive,N,5,"£29,740",145 mi,345 Wh/mi,"1,811 kg",11.7 sec,153 mi,50.0 kWh,80 kW,750 kg,775 L,£205 /mi
+Tesla,Model S 75D,All Wheel Drive,F,5,"£72,350",235 mi,309 Wh/mi,"2,183 kg",4.4 sec,240 mi,72.5 kWh,80 kW,0 kg,804 L,£308 /mi
+Polestar,2 Standard Range Single Motor,Front Wheel Drive,D,5,"£39,900",215 mi,284 Wh/mi,"2,015 kg",7.4 sec,242 mi,61.0 kWh,116 kW,"1,500 kg",440 L,£186 /mi
+Polestar,2 Long Range Dual Motor(MY24),All Wheel Drive,D,5,"£52,950",280 mi,282 Wh/mi,"2,183 kg",4.5 sec,315 mi,79.0 kWh,125 kW,"1,500 kg",446 L,£189 /mi
+Volkswagen,ID.3 Pro,Rear Wheel Drive,C,5,"£30,700",215 mi,270 Wh/mi,"1,812 kg",9.6 sec,235 mi,58.0 kWh,82 kW,0 kg,385 L,£143 /mi
+BMW,i5 eDrive40 Saloon,Rear Wheel Drive,E,5,"£74,105",290 mi,280 Wh/mi,"2,205 kg",6.0 sec,332 mi,81.2 kWh,136 kW,"1,500 kg",490 L,£256 /mi
+CUPRA,Born VZ,Rear Wheel Drive,C,5,"£44,820",285 mi,277 Wh/mi,"1,999 kg",5.6 sec,321 mi,79.0 kWh,135 kW,0 kg,385 L,£157 /mi
+Polestar,2 Long Range Single Motor(MY25),Rear Wheel Drive,D,5,"£48,950",295 mi,268 Wh/mi,"2,084 kg",6.2 sec,331 mi,79.0 kWh,125 kW,"1,500 kg",448 L,£166 /mi
+Vauxhall,Frontera Electric 44 kWh,Front Wheel Drive,B,5,"£22,495",145 mi,302 Wh/mi,"1,589 kg",12.1 sec,155 mi,43.8 kWh,60 kW,350 kg,460 L,£155 /mi
+MG,IM6 Performance,All Wheel Drive,D,5,"£50,995",270 mi,357 Wh/mi,"2,410 kg",3.5 sec,344 mi,96.5 kWh,250 kW,unknown,697 L,£189 /mi
+Nissan,LEAF 24 kWh(MY14-17),Front Wheel Drive,C,5,"£21,680",80 mi,275 Wh/mi,"1,505 kg",11.5 sec,89 mi,22.0 kWh,36 kW,unknown,370 L,£271 /mi
+Fiat,600e,Front Wheel Drive,B,5,"£32,995",195 mi,261 Wh/mi,"1,595 kg",9.0 sec,207 mi,50.8 kWh,79 kW,0 kg,360 L,£169 /mi
+Volvo,ES90 Twin Motor(MY26),All Wheel Drive,F,5,"£82,750",330 mi,309 Wh/mi,"2,628 kg",5.5 sec,395 mi,102.0 kWh,200 kW,"2,000 kg",468 L,£251 /mi
+Peugeot,e-208(MY22),Front Wheel Drive,B,5,"£31,595",175 mi,265 Wh/mi,"1,530 kg",9.0 sec,193 mi,46.3 kWh,78 kW,0 kg,265 L,£181 /mi
+Hyundai,IONIQ 5 Long Range 2WD(MY22),Rear Wheel Drive,C,5,"£46,945",240 mi,308 Wh/mi,"2,010 kg",7.3 sec,306 mi,74.0 kWh,200 kW,"1,600 kg",584 L,£196 /mi
+Volkswagen,ID.3 Pro(MY24-26),Rear Wheel Drive,C,5,"£34,240",225 mi,262 Wh/mi,"1,815 kg",7.6 sec,262 mi,59.0 kWh,110 kW,0 kg,385 L,£152 /mi
+Škoda,Elroq vRS(MY25),All Wheel Drive,C,5,"£46,560",280 mi,282 Wh/mi,"2,229 kg",5.4 sec,316 mi,79.0 kWh,135 kW,"1,200 kg",470 L,£166 /mi
+Smart,#3 Brabus,All Wheel Drive,B,5,"£46,460",215 mi,288 Wh/mi,"1,985 kg",3.7 sec,231 mi,62.0 kWh,100 kW,"1,600 kg",385 L,£216 /mi
+Škoda,Elroq 50(MY25),Rear Wheel Drive,C,5,"£30,210",190 mi,274 Wh/mi,"1,946 kg",9.0 sec,218 mi,52.0 kWh,90 kW,"1,000 kg",470 L,£159 /mi
+Citroën,C5 Aircross Comfort Range,Front Wheel Drive,C,5,"£30,315",230 mi,320 Wh/mi,"2,184 kg",8.9 sec,242 mi,73.7 kWh,90 kW,"1,250 kg",565 L,£132 /mi
+Hyundai,IONIQ 5 Standard Range 2WD(MY21),Rear Wheel Drive,C,5,"£43,445",185 mi,292 Wh/mi,"1,905 kg",8.5 sec,228 mi,54.0 kWh,140 kW,750 kg,588 L,£235 /mi
+Hyundai,IONIQ 5 Long Range 2WD(MY21),Rear Wheel Drive,C,5,"£45,400",230 mi,304 Wh/mi,"1,985 kg",7.4 sec,285 mi,70.0 kWh,185 kW,"1,600 kg",588 L,£197 /mi
+Tesla,Model Y RWD(BYD LFP),Rear Wheel Drive,D,5,"£44,990",215 mi,265 Wh/mi,"1,992 kg",6.9 sec,267 mi,57.0 kWh,140 kW,"1,600 kg",971 L,£209 /mi
+Nissan,Micra Extended Range 52 kWh,Front Wheel Drive,B,5,"£25,495",205 mi,254 Wh/mi,"1,527 kg",8.0 sec,212 mi,52.0 kWh,70 kW,500 kg,326 L,£124 /mi
+Tesla,Model 3 Performance,All Wheel Drive,D,5,"£59,990",290 mi,262 Wh/mi,"1,919 kg",3.6 sec,345 mi,76.0 kWh,135 kW,0 kg,649 L,£207 /mi
+Volkswagen,ID. Buzz LWB Pro,Rear Wheel Drive,N,7,"£59,395",240 mi,358 Wh/mi,"2,628 kg",7.9 sec,268 mi,86.0 kWh,145 kW,"1,000 kg","1,340 L",£247 /mi
+Nissan,LEAF 30 kWh(MY15-17),Front Wheel Drive,C,5,"£25,825",105 mi,267 Wh/mi,"1,538 kg",11.5 sec,107 mi,28.0 kWh,45 kW,unknown,370 L,£246 /mi
+Lexus,RZ 450e(MY23-25),All Wheel Drive,D,5,"£55,595",215 mi,298 Wh/mi,"2,130 kg",5.6 sec,239 mi,64.0 kWh,100 kW,750 kg,522 L,£259 /mi
+Kia,EV9 99.8 kWh AWD GT-Line,All Wheel Drive,F,7,"£73,285",265 mi,362 Wh/mi,"2,648 kg",5.3 sec,293 mi,96.0 kWh,194 kW,"2,500 kg",385 L,£277 /mi
+Audi,A6 Avant e-tron,Rear Wheel Drive,E,5,"£64,340",290 mi,261 Wh/mi,"2,185 kg",6.0 sec,348 mi,75.8 kWh,150 kW,"2,100 kg",529 L,£222 /mi
+Smart,#5 Premium(MY25),Rear Wheel Drive,D,5,"£47,300",285 mi,330 Wh/mi,"2,335 kg",6.5 sec,360 mi,94.0 kWh,230 kW,"1,600 kg",702 L,£166 /mi
+BMW,i4 eDrive35,Rear Wheel Drive,D,5,"£51,730",270 mi,249 Wh/mi,"2,070 kg",6.0 sec,306 mi,67.1 kWh,95 kW,"1,600 kg",470 L,£192 /mi
+Hyundai,IONIQ Electric,Front Wheel Drive,C,5,"£27,250",115 mi,243 Wh/mi,"1,495 kg",9.9 sec,140 mi,28.0 kWh,65 kW,0 kg,350 L,£237 /mi
+Audi,Q6 SUV e-tron quattro,All Wheel Drive,D,5,"£68,975",295 mi,322 Wh/mi,"2,400 kg",5.9 sec,352 mi,94.9 kWh,200 kW,"2,400 kg",590 L,£234 /mi
+Alpine,A390 GTS,All Wheel Drive,D,5,"£70,000 *",290 mi,307 Wh/mi,"2,196 kg",3.9 sec,321 mi,89.0 kWh,140 kW,"1,350 kg",532 L,£241 /mi
+CUPRA,Born 77 kWh e-Boost,Rear Wheel Drive,C,4,"£39,625",280 mi,275 Wh/mi,"1,946 kg",7.0 sec,303 mi,77.0 kWh,115 kW,0 kg,385 L,£142 /mi
+Mercedes-Benz,EQE 350+(MY24),Rear Wheel Drive,E,5,"£68,360",345 mi,278 Wh/mi,"2,415 kg",6.5 sec,371 mi,96.0 kWh,141 kW,750 kg,430 L,£198 /mi
+Audi,e-tron GT S,All Wheel Drive,F,4,"£107,825",335 mi,290 Wh/mi,"2,385 kg",3.4 sec,442 mi,97.0 kWh,281 kW,0 kg,482 L,£322 /mi
+Mercedes-Benz,EQC 400 4MATIC,All Wheel Drive,D,5,"£65,720",230 mi,348 Wh/mi,"2,495 kg",5.1 sec,227 mi,80.0 kWh,100 kW,"1,800 kg",500 L,£286 /mi
+Nissan,LEAF e+ 62 kWh(MY19-22),Front Wheel Drive,C,5,"£32,945",215 mi,274 Wh/mi,"1,756 kg",7.3 sec,185 mi,59.0 kWh,44 kW,0 kg,420 L,£153 /mi
+Peugeot,e-208 50 kWh(MY25),Front Wheel Drive,B,5,"£29,450",210 mi,242 Wh/mi,"1,530 kg",8.2 sec,223 mi,50.8 kWh,85 kW,0 kg,309 L,£140 /mi
+Lotus,Eletre,All Wheel Drive,F,5,"£90,805",305 mi,357 Wh/mi,"2,565 kg",4.5 sec,375 mi,109.0 kWh,259 kW,"2,250 kg",657 L,£298 /mi
+Volkswagen,ID.7 Tourer Pro(MY24-25),Rear Wheel Drive,E,5,"£52,240",290 mi,266 Wh/mi,"2,191 kg",6.6 sec,332 mi,77.0 kWh,125 kW,"1,000 kg",605 L,£180 /mi
+Volkswagen,ID. Buzz SWB Pro,Rear Wheel Drive,N,6,"£59,035",230 mi,343 Wh/mi,"2,492 kg",7.6 sec,252 mi,79.0 kWh,135 kW,"1,200 kg","1,121 L",£257 /mi
+Honda,e,Rear Wheel Drive,B,4,"£34,365",105 mi,271 Wh/mi,"1,588 kg",9.0 sec,105 mi,28.5 kWh,32 kW,0 kg,171 L,£327 /mi
+BMW,i5 eDrive40 Touring(MY25),Rear Wheel Drive,E,5,"£69,955",290 mi,280 Wh/mi,"2,255 kg",6.1 sec,329 mi,81.2 kWh,136 kW,"1,500 kg",570 L,£241 /mi
+Smart,#5 Brabus(MY25),All Wheel Drive,D,5,"£51,800",280 mi,336 Wh/mi,"2,453 kg",3.8 sec,349 mi,94.0 kWh,230 kW,"1,600 kg",677 L,£185 /mi
+Tesla,Model S Dual Motor,All Wheel Drive,F,5,"£85,000 *",355 mi,268 Wh/mi,"2,170 kg",3.2 sec,406 mi,95.0 kWh,140 kW,"1,600 kg",798 L,£239 /mi
+Smart,#1 Pro+,Rear Wheel Drive,B,5,"£36,960",205 mi,302 Wh/mi,"1,863 kg",6.7 sec,226 mi,62.0 kWh,100 kW,"1,600 kg",338 L,£180 /mi
+Vauxhall,Corsa Electric 51 kWh(MY24),Front Wheel Drive,B,5,"£30,440",195 mi,247 Wh/mi,"1,544 kg",8.1 sec,212 mi,48.1 kWh,80 kW,0 kg,267 L,£156 /mi
+BMW,iX2 eDrive20,Front Wheel Drive,C,5,"£51,615",245 mi,264 Wh/mi,"1,960 kg",8.6 sec,265 mi,64.7 kWh,93 kW,750 kg,525 L,£211 /mi
+Polestar,3 Dual Motor(MY26),All Wheel Drive,E,5,"£77,990",310 mi,329 Wh/mi,"2,565 kg",4.7 sec,367 mi,102.0 kWh,200 kW,"2,200 kg",508 L,£252 /mi
+Polestar,2,All Wheel Drive,D,5,"£49,900",240 mi,313 Wh/mi,"2,198 kg",4.7 sec,260 mi,75.0 kWh,108 kW,"1,500 kg",440 L,£208 /mi
+Tesla,Model X Long Range,All Wheel Drive,F,7,"£82,980",275 mi,345 Wh/mi,"2,505 kg",4.6 sec,288 mi,95.0 kWh,110 kW,"2,250 kg",unknown,£302 /mi
+Porsche,Taycan 4S,All Wheel Drive,F,5,"£86,500",245 mi,290 Wh/mi,"2,215 kg",4.0 sec,315 mi,71.0 kWh,183 kW,0 kg,491 L,£353 /mi
+Volvo,EX90 Twin Motor(MY24-25),All Wheel Drive,F,7,"£89,560",310 mi,345 Wh/mi,"2,754 kg",5.9 sec,339 mi,107.0 kWh,150 kW,"2,200 kg",703 L,£289 /mi
+Audi,A6 Sportback e-tron,Rear Wheel Drive,E,5,"£62,540",300 mi,253 Wh/mi,"2,175 kg",6.0 sec,365 mi,75.8 kWh,150 kW,"2,100 kg",529 L,£208 /mi
+Subaru,Solterra AWD,All Wheel Drive,C,5,"£49,995",200 mi,320 Wh/mi,"2,085 kg",6.9 sec,216 mi,64.0 kWh,100 kW,750 kg,441 L,£250 /mi
+Vauxhall,Grandland Electric 73 kWh,Front Wheel Drive,C,5,"£35,455",230 mi,317 Wh/mi,"2,207 kg",9.0 sec,241 mi,73.0 kWh,90 kW,"1,200 kg",550 L,£154 /mi
+Jeep,Compass Electric 74 kWh,Front Wheel Drive,C,5,"£39,200",230 mi,322 Wh/mi,"2,198 kg",8.5 sec,240 mi,74.0 kWh,90 kW,"1,000 kg",550 L,£170 /mi
+Mercedes-Benz,EQA 250,Front Wheel Drive,C,5,"£47,510",220 mi,302 Wh/mi,"2,040 kg",8.9 sec,229 mi,66.5 kWh,100 kW,750 kg,340 L,£216 /mi
+Volvo,C40 Recharge Twin Motor(MY24),All Wheel Drive,C,5,"£53,605",250 mi,316 Wh/mi,"2,185 kg",4.7 sec,275 mi,79.0 kWh,125 kW,"1,800 kg",450 L,£214 /mi
+Mini,Cooper E,Front Wheel Drive,B,4,"£30,000",155 mi,236 Wh/mi,"1,615 kg",7.3 sec,166 mi,36.6 kWh,60 kW,0 kg,200 L,£194 /mi
+Renault,5 E-Tech 40kWh 95hp,Front Wheel Drive,B,5,"£20,500 *",160 mi,250 Wh/mi,"1,428 kg",12.0 sec,117 mi,40.0 kWh,0 kW,500 kg,326 L,£128 /mi
+Renault,Zoe R110 ZE40,Front Wheel Drive,B,5,"£24,320",155 mi,265 Wh/mi,"1,575 kg",11.4 sec,113 mi,41.0 kWh,0 kW,0 kg,338 L,£157 /mi
+Peugeot,e-208(MY20-21),Front Wheel Drive,B,5,"£27,225",165 mi,281 Wh/mi,"1,530 kg",8.1 sec,183 mi,46.3 kWh,78 kW,0 kg,265 L,£165 /mi
+BMW,i5 eDrive40 Touring,Rear Wheel Drive,E,5,"£69,945",285 mi,285 Wh/mi,"2,255 kg",6.1 sec,324 mi,81.2 kWh,136 kW,"1,500 kg",570 L,£245 /mi
+Volkswagen,ID.3 GTX Performance(MY24-26),Rear Wheel Drive,C,5,"£46,325",290 mi,272 Wh/mi,"1,993 kg",5.6 sec,327 mi,79.0 kWh,135 kW,0 kg,385 L,£160 /mi
+Citroën,ë-C3 Aircross Comfort Range 44 kWh,Front Wheel Drive,B,5,"£21,595",150 mi,292 Wh/mi,"1,579 kg",12.9 sec,157 mi,43.8 kWh,60 kW,350 kg,460 L,£144 /mi
+Hyundai,IONIQ 9 Performance AWD,All Wheel Drive,F,7,"£77,595",300 mi,353 Wh/mi,"2,689 kg",5.2 sec,342 mi,106.0 kWh,195 kW,"2,500 kg",390 L,£259 /mi
+Tesla,Model S P100D,All Wheel Drive,F,5,"£127,750",295 mi,322 Wh/mi,"2,316 kg",2.7 sec,296 mi,95.0 kWh,100 kW,0 kg,895 L,£433 /mi
+Tesla,Model S Long Range,All Wheel Drive,F,5,"£74,980",325 mi,292 Wh/mi,"2,255 kg",3.8 sec,349 mi,95.0 kWh,110 kW,0 kg,894 L,£231 /mi
+Tesla,Model X Dual Motor,All Wheel Drive,F,7,"£105,000 *",300 mi,317 Wh/mi,"2,415 kg",3.9 sec,335 mi,95.0 kWh,140 kW,"2,250 kg",608 L,£350 /mi
+Volkswagen,ID.4 Pure,Rear Wheel Drive,C,5,"£38,845",175 mi,297 Wh/mi,"1,966 kg",10.9 sec,187 mi,52.0 kWh,70 kW,"1,000 kg",543 L,£222 /mi
+Genesis,GV60 Premium(MY22-24),Rear Wheel Drive,C,5,"£53,905",240 mi,308 Wh/mi,"1,975 kg",7.8 sec,303 mi,74.0 kWh,200 kW,"1,600 kg",432 L,£225 /mi
+Polestar,2 Standard Range Single Motor(MY24),Rear Wheel Drive,D,5,"£44,950",250 mi,268 Wh/mi,"2,019 kg",6.4 sec,265 mi,67.0 kWh,85 kW,"1,500 kg",446 L,£180 /mi
+BMW,i7 eDrive50,Rear Wheel Drive,F,5,"£100,205",325 mi,313 Wh/mi,"2,595 kg",5.5 sec,355 mi,101.7 kWh,159 kW,0 kg,500 L,£308 /mi
+Smart,#3 Premium,Rear Wheel Drive,B,5,"£40,660",220 mi,282 Wh/mi,"1,885 kg",5.8 sec,245 mi,62.0 kWh,110 kW,"1,600 kg",385 L,£185 /mi
+Vauxhall,Mokka Electric,Front Wheel Drive,B,5,"£31,005",175 mi,290 Wh/mi,"1,615 kg",9.0 sec,189 mi,50.8 kWh,85 kW,0 kg,310 L,£177 /mi
+Smart,EQ fortwo coupe,Rear Wheel Drive,A,2,"£22,225",60 mi,278 Wh/mi,"1,095 kg",11.6 sec,44 mi,16.7 kWh,0 kW,0 kg,260 L,£370 /mi
+Nissan,LEAF 40 kWh(MY18-22),Front Wheel Drive,C,5,"£28,290",145 mi,269 Wh/mi,"1,580 kg",7.9 sec,135 mi,39.0 kWh,40 kW,0 kg,435 L,£195 /mi
+MG,MG5 EV,Front Wheel Drive,C,5,"£26,095",180 mi,271 Wh/mi,"1,607 kg",7.7 sec,180 mi,48.8 kWh,60 kW,0 kg,464 L,£145 /mi
+Polestar,3 Long Range Dual motor(MY23-25),All Wheel Drive,E,5,"£75,900",320 mi,334 Wh/mi,"2,654 kg",5.0 sec,345 mi,107.0 kWh,150 kW,"2,200 kg",516 L,£237 /mi
+Mercedes-Benz,G 580,All Wheel Drive,F,5,"£180,860",245 mi,473 Wh/mi,"3,085 kg",4.7 sec,245 mi,116.0 kWh,150 kW,0 kg,555 L,£738 /mi
+Audi,Q4 e-tron 35,Rear Wheel Drive,C,5,"£44,690",175 mi,297 Wh/mi,"1,965 kg",9.0 sec,187 mi,52.0 kWh,70 kW,0 kg,520 L,£255 /mi
+Kia,e-Niro 64 kWh,Front Wheel Drive,C,5,"£33,850",230 mi,278 Wh/mi,"1,812 kg",7.8 sec,217 mi,64.0 kWh,64 kW,0 kg,451 L,£147 /mi
+Volkswagen,ID.3 Pro Performance,Rear Wheel Drive,C,5,"£39,425",215 mi,270 Wh/mi,"1,812 kg",7.3 sec,233 mi,58.0 kWh,82 kW,0 kg,385 L,£183 /mi
+Lotus,Emeya S,All Wheel Drive,F,5,"£108,755",325 mi,304 Wh/mi,"2,555 kg",4.2 sec,413 mi,98.9 kWh,240 kW,"2,250 kg",543 L,£335 /mi
+Alpine,A290 Electric 180 hp,Front Wheel Drive,B,5,"£32,000",190 mi,274 Wh/mi,"1,554 kg",7.4 sec,201 mi,52.0 kWh,70 kW,500 kg,326 L,£168 /mi
+Audi,Q4 e-tron 40,Rear Wheel Drive,C,5,"£46,610",200 mi,295 Wh/mi,"2,035 kg",8.1 sec,235 mi,59.0 kWh,110 kW,"1,000 kg",520 L,£233 /mi
+Vauxhall,Corsa Electric 54 kWh(MY25),Front Wheel Drive,B,5,"£27,400",205 mi,248 Wh/mi,"1,544 kg",8.1 sec,222 mi,50.8 kWh,85 kW,0 kg,267 L,£134 /mi
+Smart,#1 Premium,Rear Wheel Drive,B,5,"£39,660",205 mi,302 Wh/mi,"1,875 kg",6.7 sec,226 mi,62.0 kWh,100 kW,"1,600 kg",338 L,£193 /mi
+Volvo,EX40 Single Motor(MY25),Rear Wheel Drive,C,5,"£45,955",215 mi,312 Wh/mi,"2,040 kg",7.3 sec,238 mi,67.0 kWh,110 kW,"1,500 kg",441 L,£214 /mi
+Suzuki,e VITARA 61 kWh 2WD,Front Wheel Drive,B,5,"£32,999",205 mi,292 Wh/mi,"1,835 kg",8.7 sec,191 mi,59.8 kWh,60 kW,750 kg,238 L,£161 /mi
+Hyundai,Kona Electric 39 kWh,Front Wheel Drive,B,5,"£32,450",150 mi,261 Wh/mi,"1,610 kg",9.9 sec,139 mi,39.2 kWh,37 kW,0 kg,332 L,£216 /mi
+Peugeot,e-208 51 kWh(MY24),Front Wheel Drive,B,5,"£32,400",195 mi,247 Wh/mi,"1,530 kg",8.2 sec,212 mi,48.1 kWh,80 kW,0 kg,309 L,£166 /mi
+Škoda,Enyaq 60(MY24),Rear Wheel Drive,C,5,"£38,970",210 mi,276 Wh/mi,"1,992 kg",8.7 sec,224 mi,58.0 kWh,82 kW,"1,000 kg",585 L,£186 /mi
+Volkswagen,ID.3 Pro S(MY24-25),Rear Wheel Drive,C,5,"£35,495",290 mi,266 Wh/mi,"1,957 kg",7.1 sec,318 mi,77.0 kWh,120 kW,0 kg,385 L,£122 /mi
+Škoda,Enyaq Coupe vRS(MY25),All Wheel Drive,C,5,"£53,860",290 mi,272 Wh/mi,"2,239 kg",5.4 sec,332 mi,79.0 kWh,135 kW,"1,200 kg",570 L,£186 /mi
+Alpine,A390 GT,All Wheel Drive,D,5,"£60,000 *",290 mi,307 Wh/mi,"2,199 kg",4.8 sec,302 mi,89.0 kWh,120 kW,"1,350 kg",532 L,£207 /mi
+Mercedes-Benz,B 250e,Front Wheel Drive,C,5,"£28,875",90 mi,311 Wh/mi,"1,725 kg",7.9 sec,66 mi,28.0 kWh,0 kW,unknown,501 L,£321 /mi
+Audi,e-tron GT quattro,All Wheel Drive,F,4,"£87,800",260 mi,327 Wh/mi,"2,350 kg",4.1 sec,329 mi,85.0 kWh,216 kW,0 kg,490 L,£338 /mi
+Volkswagen,e-Up!,Front Wheel Drive,A,4,"£24,085",125 mi,258 Wh/mi,"1,248 kg",11.9 sec,117 mi,32.3 kWh,30 kW,0 kg,250 L,£193 /mi
+GWM,ORA 03 Pure+,Front Wheel Drive,C,5,"£31,995",160 mi,284 Wh/mi,"1,615 kg",8.3 sec,153 mi,45.4 kWh,45 kW,0 kg,228 L,£200 /mi
+Toyota,Proace Verso Medium 75 kWh,Front Wheel Drive,N,9,"£45,769",165 mi,418 Wh/mi,"2,211 kg",13.3 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",603 L,£277 /mi
+DS Automobiles,N°8 FWD Long Range,Front Wheel Drive,D,5,"£54,690",340 mi,286 Wh/mi,"2,255 kg",7.8 sec,352 mi,97.2 kWh,130 kW,"1,200 kg",620 L,£161 /mi
+Lotus,Emeya 600,All Wheel Drive,F,5,"£84,990",325 mi,304 Wh/mi,"2,555 kg",4.2 sec,413 mi,98.9 kWh,240 kW,"2,250 kg",543 L,£262 /mi
+Mercedes-Benz,EQB 350 4MATIC,All Wheel Drive,C,7,"£56,810",215 mi,309 Wh/mi,"2,165 kg",6.2 sec,222 mi,66.5 kWh,100 kW,"1,700 kg",495 L,£264 /mi
+Škoda,Enyaq Coupe 85(MY24),Rear Wheel Drive,C,5,"£46,440",285 mi,270 Wh/mi,"2,140 kg",6.7 sec,301 mi,77.0 kWh,120 kW,"1,000 kg",570 L,£163 /mi
+Porsche,Taycan,Rear Wheel Drive,F,5,"£75,500",255 mi,278 Wh/mi,"2,125 kg",5.4 sec,321 mi,71.0 kWh,183 kW,0 kg,491 L,£296 /mi
+Nissan,LEAF 40 kWh(MY23-25),Front Wheel Drive,C,5,"£28,495",145 mi,269 Wh/mi,"1,580 kg",7.9 sec,135 mi,39.0 kWh,40 kW,0 kg,435 L,£197 /mi
+Smart,#1 Brabus,All Wheel Drive,B,5,"£44,960",200 mi,310 Wh/mi,"1,975 kg",3.9 sec,222 mi,62.0 kWh,100 kW,"1,600 kg",328 L,£225 /mi
+Audi,Q4 Sportback e-tron 45,Rear Wheel Drive,C,5,"£52,810",270 mi,285 Wh/mi,"2,145 kg",6.7 sec,301 mi,77.0 kWh,120 kW,"1,000 kg",535 L,£196 /mi
+Alfa Romeo,Junior Elettrica 54 kWh,Front Wheel Drive,B,5,"£33,895",195 mi,261 Wh/mi,"1,620 kg",9.0 sec,212 mi,50.8 kWh,85 kW,0 kg,400 L,£174 /mi
+Citroën,ë-C4 54 kWh,Front Wheel Drive,C,5,"£30,005",200 mi,254 Wh/mi,"1,646 kg",9.1 sec,216 mi,50.8 kWh,78 kW,0 kg,380 L,£150 /mi
+Volkswagen,ID.5 Pro(MY26),Rear Wheel Drive,C,5,"£44,400",285 mi,270 Wh/mi,"2,131 kg",6.7 sec,316 mi,77.0 kWh,120 kW,"1,000 kg",549 L,£156 /mi
+Kia,EV6 GT,All Wheel Drive,C,5,"£59,985",245 mi,327 Wh/mi,"2,220 kg",3.5 sec,303 mi,80.0 kWh,205 kW,"1,800 kg",500 L,£245 /mi
+Škoda,Enyaq Coupe 85(MY25),Rear Wheel Drive,C,5,"£44,710",290 mi,266 Wh/mi,"2,140 kg",6.7 sec,306 mi,77.0 kWh,120 kW,"1,000 kg",570 L,£154 /mi
+Audi,e-tron GT quattro,All Wheel Drive,F,4,"£88,555",335 mi,290 Wh/mi,"2,355 kg",4.0 sec,442 mi,97.0 kWh,281 kW,0 kg,482 L,£264 /mi
+Volkswagen,ID.7 Tourer Pro(MY26),Rear Wheel Drive,E,5,"£51,795",290 mi,266 Wh/mi,"2,191 kg",6.6 sec,332 mi,77.0 kWh,125 kW,"1,000 kg",605 L,£179 /mi
+Renault,Kangoo Crew Van ZE33,Front Wheel Drive,N,5,"£31,680",100 mi,310 Wh/mi,"1,630 kg",22.4 sec,71 mi,31.0 kWh,0 kW,0 kg,"1,300 L",£317 /mi
+Volkswagen,ID.3 Pure Performance,Rear Wheel Drive,C,5,"£28,135",170 mi,265 Wh/mi,"1,781 kg",8.9 sec,186 mi,45.0 kWh,72 kW,0 kg,385 L,£166 /mi
+Audi,e-tron 50 quattro,All Wheel Drive,E,5,"£62,035",175 mi,370 Wh/mi,"2,445 kg",6.8 sec,186 mi,64.7 kWh,114 kW,"1,800 kg",660 L,£354 /mi
+BMW,i4 eDrive35,Rear Wheel Drive,D,5,"£51,270",265 mi,253 Wh/mi,"2,075 kg",6.0 sec,302 mi,67.1 kWh,95 kW,"1,600 kg",470 L,£193 /mi
+Volvo,EX40 Single Motor ER(MY26),Rear Wheel Drive,C,5,"£48,010",245 mi,322 Wh/mi,"2,075 kg",7.3 sec,274 mi,79.0 kWh,125 kW,"1,500 kg",441 L,£196 /mi
+Ford,e-Tourneo Custom L1 160 kW,Rear Wheel Drive,N,8,"£60,886",145 mi,441 Wh/mi,"2,557 kg",9.0 sec,145 mi,64.0 kWh,70 kW,"2,000 kg",672 L,£420 /mi
+Kia,EV6 Standard Range RWD,Rear Wheel Drive,C,5,"£39,235",215 mi,279 Wh/mi,"1,955 kg",8.7 sec,264 mi,60.0 kWh,150 kW,750 kg,542 L,£182 /mi
+Mercedes-Benz,EQE 350+(MY25),All Wheel Drive,E,5,"£69,365",320 mi,283 Wh/mi,"2,475 kg",5.9 sec,350 mi,90.6 kWh,141 kW,"1,700 kg",430 L,£217 /mi
+Kia,EV6 GT,All Wheel Drive,C,5,"£62,645",220 mi,336 Wh/mi,"2,200 kg",3.5 sec,279 mi,74.0 kWh,200 kW,"1,800 kg",500 L,£285 /mi
+BYD,DOLPHIN 44.9 kWh Boost(MY24),Front Wheel Drive,C,5,"£27,195",160 mi,281 Wh/mi,"1,700 kg",8.0 sec,155 mi,44.9 kWh,50 kW,0 kg,345 L,£170 /mi
+Volvo,EX90 Single Motor(MY24-25),Rear Wheel Drive,F,7,"£82,660",300 mi,333 Wh/mi,"2,582 kg",8.4 sec,326 mi,100.0 kWh,140 kW,"1,200 kg",703 L,£276 /mi
+Citroën,ë-C4,Front Wheel Drive,C,5,"£26,150",175 mi,265 Wh/mi,"1,646 kg",9.9 sec,193 mi,46.3 kWh,78 kW,0 kg,380 L,£149 /mi
+Audi,A6 Avant e-tron quattro,All Wheel Drive,E,5,"£76,840",345 mi,275 Wh/mi,"2,370 kg",4.5 sec,421 mi,94.9 kWh,200 kW,"2,100 kg",529 L,£223 /mi
+Fiat,500e Hatchback 24 kWh,Front Wheel Drive,B,4,"£24,995",85 mi,251 Wh/mi,"1,255 kg",9.0 sec,95 mi,21.3 kWh,40 kW,0 kg,185 L,£294 /mi
+Mercedes-Benz,EQA 250+,Front Wheel Drive,C,5,"£49,750",260 mi,271 Wh/mi,"2,045 kg",8.6 sec,257 mi,70.5 kWh,90 kW,750 kg,340 L,£191 /mi
+Tesla,Model S 100D,All Wheel Drive,F,5,"£89,650",300 mi,317 Wh/mi,"2,290 kg",4.3 sec,302 mi,95.0 kWh,100 kW,0 kg,895 L,£299 /mi
+Mazda,MX-30,Front Wheel Drive,C,5,"£31,250",105 mi,286 Wh/mi,"1,720 kg",9.7 sec,104 mi,30.0 kWh,32 kW,0 kg,366 L,£298 /mi
+Smart,#3 Pro+,Rear Wheel Drive,B,5,"£37,960",220 mi,282 Wh/mi,"1,855 kg",5.8 sec,247 mi,62.0 kWh,110 kW,"1,600 kg",385 L,£173 /mi
+Porsche,Taycan Plus,Rear Wheel Drive,F,5,"£90,954",360 mi,269 Wh/mi,"2,245 kg",4.8 sec,466 mi,97.0 kWh,262 kW,0 kg,491 L,£253 /mi
+Volkswagen,ID. Buzz SWB GTX,All Wheel Drive,N,6,"£67,435",220 mi,359 Wh/mi,"2,629 kg",6.5 sec,245 mi,79.0 kWh,135 kW,"1,800 kg","1,121 L",£307 /mi
+Polestar,3 Long Range Single motor(MY23-25),Rear Wheel Drive,E,5,"£69,900",330 mi,324 Wh/mi,"2,478 kg",7.8 sec,355 mi,107.0 kWh,150 kW,"1,500 kg",516 L,£212 /mi
+Ford,Mustang Mach-E Select SR RWD(MY24),Rear Wheel Drive,D,5,"£43,840",235 mi,309 Wh/mi,"2,166 kg",6.2 sec,254 mi,72.6 kWh,100 kW,750 kg,619 L,£187 /mi
+Lexus,RZ 350e(MY26),Front Wheel Drive,D,5,"£53,995",250 mi,288 Wh/mi,"2,005 kg",7.5 sec,269 mi,72.0 kWh,110 kW,750 kg,522 L,£216 /mi
+Nissan,e-NV200 Combi,Front Wheel Drive,N,7,"£24,407",65 mi,338 Wh/mi,"1,614 kg",14.0 sec,70 mi,22.0 kWh,36 kW,unknown,"2,000 L",£375 /mi
+BMW,i7 xDrive60,All Wheel Drive,F,5,"£113,970",315 mi,323 Wh/mi,"2,715 kg",4.7 sec,350 mi,101.7 kWh,159 kW,"2,000 kg",500 L,£362 /mi
+Audi,S6 Sportback e-tron,All Wheel Drive,E,5,"£97,540",345 mi,275 Wh/mi,"2,400 kg",3.9 sec,419 mi,94.9 kWh,200 kW,"2,100 kg",529 L,£283 /mi
+BMW,iX M70 xDrive,All Wheel Drive,E,5,"£114,205",310 mi,351 Wh/mi,"2,655 kg",3.8 sec,326 mi,108.9 kWh,150 kW,"2,500 kg",500 L,£368 /mi
+BMW,i5 M60 xDrive Saloon(MY25),All Wheel Drive,E,5,"£97,755",265 mi,306 Wh/mi,"2,370 kg",3.8 sec,303 mi,81.2 kWh,136 kW,"2,000 kg",490 L,£369 /mi
+Volkswagen,ID.3 Pure Performance,Rear Wheel Drive,C,5,"£27,120",170 mi,265 Wh/mi,"1,772 kg",8.9 sec,157 mi,45.0 kWh,45 kW,0 kg,385 L,£160 /mi
+Lexus,UX 300e,Front Wheel Drive,C,5,"£34,770",145 mi,310 Wh/mi,"1,860 kg",7.5 sec,124 mi,45.0 kWh,32 kW,0 kg,316 L,£240 /mi
+Peugeot,e-308(MY23-25),Front Wheel Drive,C,5,"£33,460",185 mi,275 Wh/mi,"1,759 kg",9.8 sec,201 mi,50.8 kWh,80 kW,0 kg,412 L,£181 /mi
+BMW,i7 M70 xDrive,All Wheel Drive,F,5,"£163,315",305 mi,333 Wh/mi,"2,770 kg",3.7 sec,332 mi,101.7 kWh,159 kW,0 kg,500 L,£535 /mi
+Porsche,Taycan 4S,All Wheel Drive,F,5,"£95,900",305 mi,270 Wh/mi,"2,245 kg",3.7 sec,380 mi,82.3 kWh,195 kW,0 kg,491 L,£314 /mi
+CUPRA,Born 77 kWh e-Boost,Rear Wheel Drive,C,5,"£41,795",285 mi,270 Wh/mi,"1,969 kg",7.0 sec,318 mi,77.0 kWh,125 kW,0 kg,385 L,£147 /mi
+Suzuki,e VITARA 49 kWh 2WD,Front Wheel Drive,B,5,"£29,999",165 mi,290 Wh/mi,"1,775 kg",9.6 sec,154 mi,47.8 kWh,45 kW,750 kg,238 L,£182 /mi
+Polestar,5 Performance,All Wheel Drive,F,4,"£104,900",330 mi,321 Wh/mi,"2,465 kg",3.2 sec,396 mi,106.0 kWh,210 kW,"1,800 kg",427 L,£318 /mi
+Porsche,Macan 4 Electric(MY26),All Wheel Drive,D,5,"£71,900",295 mi,322 Wh/mi,"2,405 kg",5.2 sec,350 mi,95.0 kWh,200 kW,"2,500 kg",624 L,£244 /mi
+Kia,Soul EV 64 kWh,Front Wheel Drive,B,5,"£39,075",225 mi,284 Wh/mi,"1,757 kg",7.9 sec,213 mi,64.0 kWh,64 kW,0 kg,315 L,£174 /mi
+Citroën,ë-Berlingo XL 50 kWh,Front Wheel Drive,N,7,"£30,640",145 mi,345 Wh/mi,"1,881 kg",11.7 sec,150 mi,50.0 kWh,80 kW,750 kg,"1,050 L",£211 /mi
+Audi,Q6 SUV e-tron performance,Rear Wheel Drive,D,5,"£63,475",300 mi,316 Wh/mi,"2,275 kg",6.6 sec,354 mi,94.9 kWh,190 kW,"2,000 kg",590 L,£212 /mi
+Audi,Q6 SUV e-tron,Rear Wheel Drive,D,5,"£59,975",245 mi,309 Wh/mi,"2,200 kg",7.0 sec,285 mi,75.8 kWh,150 kW,"2,000 kg",590 L,£245 /mi
+Volkswagen,ID.4 1st,Rear Wheel Drive,C,5,"£40,800",255 mi,302 Wh/mi,"2,124 kg",8.5 sec,271 mi,77.0 kWh,125 kW,"1,000 kg",543 L,£160 /mi
+Volkswagen,ID. Buzz Pro,Rear Wheel Drive,N,5,"£59,035",210 mi,367 Wh/mi,"2,459 kg",10.2 sec,229 mi,77.0 kWh,115 kW,"1,000 kg","1,121 L",£281 /mi
+Mercedes-Benz,EQE 300(MY23),Rear Wheel Drive,E,5,"£68,810",325 mi,274 Wh/mi,"2,405 kg",7.3 sec,352 mi,89.0 kWh,120 kW,750 kg,430 L,£212 /mi
+Mercedes-Benz,EQS SUV 450 4MATIC,All Wheel Drive,F,7,"£129,470",325 mi,363 Wh/mi,"2,840 kg",6.1 sec,337 mi,118.0 kWh,160 kW,"1,800 kg",645 L,£398 /mi
+Mercedes-Benz,EQS AMG 53 4MATIC+,All Wheel Drive,F,5,"£161,860",365 mi,323 Wh/mi,"2,700 kg",3.4 sec,385 mi,118.0 kWh,160 kW,"1,700 kg",620 L,£443 /mi
+Ford,Mustang Mach-E Premium AWD(MY24),All Wheel Drive,D,5,"£58,415",275 mi,331 Wh/mi,"2,245 kg",4.6 sec,278 mi,91.0 kWh,115 kW,"1,500 kg",619 L,£212 /mi
+Škoda,Enyaq vRS(MY25),All Wheel Drive,C,5,"£51,960",285 mi,277 Wh/mi,"2,236 kg",5.4 sec,323 mi,79.0 kWh,135 kW,"1,200 kg",585 L,£182 /mi
+Vauxhall,Corsa Electric 50 kWh(MY25),Front Wheel Drive,B,5,"£26,005",180 mi,257 Wh/mi,"1,544 kg",8.7 sec,198 mi,46.3 kWh,78 kW,0 kg,267 L,£144 /mi
+Peugeot,e-308 SW 55 kWh(MY26),Front Wheel Drive,C,5,"£30,695",210 mi,264 Wh/mi,"1,783 kg",9.5 sec,216 mi,55.4 kWh,65 kW,0 kg,505 L,£146 /mi
+Tesla,Model 3 Standard Range Plus(CATL LFP55),Rear Wheel Drive,D,5,"£40,990",215 mi,244 Wh/mi,"1,825 kg",5.6 sec,256 mi,52.5 kWh,95 kW,"1,000 kg",649 L,£191 /mi
+Polestar,3 Long Range Performance(MY23-25),All Wheel Drive,E,5,"£81,500",295 mi,363 Wh/mi,"2,654 kg",4.7 sec,321 mi,107.0 kWh,150 kW,"2,200 kg",516 L,£276 /mi
+Audi,Q4 e-tron 55 quattro,All Wheel Drive,C,5,"£57,690",245 mi,314 Wh/mi,"2,235 kg",5.4 sec,272 mi,77.0 kWh,120 kW,"1,200 kg",520 L,£235 /mi
+Volkswagen,ID.7 Tourer Pro S(MY24-25),Rear Wheel Drive,E,5,"£56,140",320 mi,269 Wh/mi,"2,235 kg",6.7 sec,366 mi,86.0 kWh,145 kW,"1,000 kg",605 L,£175 /mi
+Volkswagen,ID.7 Tourer GTX(MY24-25),All Wheel Drive,E,5,"£62,670",310 mi,277 Wh/mi,"2,339 kg",5.5 sec,354 mi,86.0 kWh,145 kW,"1,200 kg",605 L,£202 /mi
+Vauxhall,Combo Life Electric XL 50 kWh,Front Wheel Drive,N,7,"£31,590",145 mi,345 Wh/mi,"1,881 kg",11.3 sec,150 mi,50.0 kWh,80 kW,750 kg,"1,050 L",£218 /mi
+Nissan,LEAF e+ 62 kWh(MY23-25),Front Wheel Drive,C,5,"£34,945",210 mi,281 Wh/mi,"1,756 kg",6.9 sec,181 mi,59.0 kWh,44 kW,0 kg,420 L,£166 /mi
+Peugeot,e-3008 73 kWh Dual Motor,All Wheel Drive,C,5,"£56,290",225 mi,324 Wh/mi,"2,337 kg",6.0 sec,241 mi,73.0 kWh,90 kW,"1,350 kg",588 L,£250 /mi
+Vauxhall,Combo Life Electric 50 kWh,Front Wheel Drive,N,5,"£30,690",145 mi,345 Wh/mi,"1,811 kg",11.3 sec,153 mi,50.0 kWh,80 kW,750 kg,775 L,£212 /mi
+Audi,A6 Sportback e-tron quattro,All Wheel Drive,E,5,"£75,040",355 mi,267 Wh/mi,"2,360 kg",4.7 sec,431 mi,94.9 kWh,200 kW,"2,100 kg",529 L,£211 /mi
+Volkswagen,ID.7 GTX(MY26),All Wheel Drive,E,5,"£59,110",310 mi,277 Wh/mi,"2,325 kg",5.5 sec,355 mi,86.0 kWh,145 kW,"1,800 kg",532 L,£191 /mi
+BMW,i3,Rear Wheel Drive,B,4,"£29,570",100 mi,272 Wh/mi,"1,320 kg",7.3 sec,106 mi,27.2 kWh,46 kW,0 kg,260 L,£296 /mi
+Porsche,Macan 4S Electric(MY25),All Wheel Drive,D,5,"£76,900",290 mi,328 Wh/mi,"2,420 kg",4.1 sec,350 mi,95.0 kWh,200 kW,"2,000 kg",624 L,£265 /mi
+Mazda,6e 68.8 kWh,Rear Wheel Drive,D,5,"£38,000 *",240 mi,275 Wh/mi,"2,037 kg",7.6 sec,281 mi,66.0 kWh,120 kW,"1,500 kg",526 L,£158 /mi
+Renault,4 E-Tech 40kWh 120hp,Front Wheel Drive,B,5,"£22,500 *",150 mi,267 Wh/mi,"1,485 kg",9.2 sec,157 mi,40.0 kWh,55 kW,750 kg,420 L,£150 /mi
+DS Automobiles,N°4 E-Tense,Front Wheel Drive,C,5,"£35,495",230 mi,253 Wh/mi,"1,867 kg",7.1 sec,241 mi,58.3 kWh,70 kW,0 kg,390 L,£154 /mi
+Volkswagen,ID.7 Tourer GTX(MY26),All Wheel Drive,E,5,"£59,900",310 mi,277 Wh/mi,"2,336 kg",5.5 sec,352 mi,86.0 kWh,145 kW,"1,800 kg",605 L,£193 /mi
+Tesla,Model X P100D,All Wheel Drive,F,7,"£134,150",260 mi,365 Wh/mi,"2,572 kg",3.1 sec,257 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£516 /mi
+Vauxhall,Combo-e Life 50 kWh,Front Wheel Drive,N,7,"£34,085",130 mi,356 Wh/mi,"1,739 kg",11.7 sec,137 mi,46.3 kWh,78 kW,750 kg,571 L,£262 /mi
+Fisker,Ocean Extreme,All Wheel Drive,D,5,"£57,900",305 mi,349 Wh/mi,"2,526 kg",3.9 sec,328 mi,106.5 kWh,135 kW,"1,820 kg",476 L,£190 /mi
+BMW,i4 eDrive35,Rear Wheel Drive,D,5,"£49,995",265 mi,253 Wh/mi,"2,065 kg",6.0 sec,303 mi,67.0 kWh,95 kW,"1,600 kg",470 L,£189 /mi
+Volvo,C40 Recharge Single Motor(MY24),Rear Wheel Drive,C,5,"£48,355",220 mi,300 Wh/mi,"2,065 kg",7.3 sec,229 mi,66.0 kWh,85 kW,"1,500 kg",450 L,£220 /mi
+Peugeot,e-208 50 kWh(MY24),Front Wheel Drive,B,5,"£32,650",180 mi,257 Wh/mi,"1,530 kg",9.0 sec,199 mi,46.3 kWh,78 kW,0 kg,309 L,£181 /mi
+Škoda,Enyaq 50(MY24),Rear Wheel Drive,C,5,"£36,970",190 mi,274 Wh/mi,"1,976 kg",9.1 sec,218 mi,52.0 kWh,90 kW,"1,000 kg",585 L,£195 /mi
+Ford,Mustang Mach-E Premium RWD(MY24),Rear Wheel Drive,D,5,"£52,390",300 mi,303 Wh/mi,"2,161 kg",5.9 sec,304 mi,91.0 kWh,115 kW,"1,500 kg",619 L,£175 /mi
+Polestar,2 Standard Range Single Motor(MY26),Rear Wheel Drive,D,5,"£45,160",250 mi,268 Wh/mi,"2,020 kg",6.4 sec,286 mi,67.0 kWh,110 kW,"1,500 kg",448 L,£181 /mi
+Ford,e-Tourneo Courier,Front Wheel Drive,N,5,"£29,940",120 mi,363 Wh/mi,"1,724 kg",11.0 sec,134 mi,43.6 kWh,80 kW,750 kg,unknown,£250 /mi
+Nissan,Micra Standard Range 40 kWh,Front Wheel Drive,B,5,"£21,495",160 mi,250 Wh/mi,"1,452 kg",9.0 sec,167 mi,40.0 kWh,55 kW,500 kg,326 L,£134 /mi
+Peugeot,iOn,Rear Wheel Drive,A,4,"£21,216",55 mi,264 Wh/mi,"1,140 kg",15.9 sec,63 mi,14.5 kWh,30 kW,0 kg,166 L,£386 /mi
+Audi,e-tron GT RS,All Wheel Drive,F,4,"£119,000",250 mi,340 Wh/mi,"2,420 kg",3.3 sec,318 mi,85.0 kWh,216 kW,0 kg,451 L,£476 /mi
+Peugeot,e-2008 50 kWh,Front Wheel Drive,B,5,"£32,300",165 mi,281 Wh/mi,"1,623 kg",9.9 sec,183 mi,46.3 kWh,78 kW,0 kg,434 L,£196 /mi
+Mercedes-Benz,EQA 300 4MATIC,All Wheel Drive,C,5,"£53,010",215 mi,309 Wh/mi,"2,110 kg",7.7 sec,223 mi,66.5 kWh,100 kW,"1,800 kg",340 L,£247 /mi
+Porsche,Taycan,Rear Wheel Drive,F,5,"£86,500",310 mi,265 Wh/mi,"2,165 kg",4.8 sec,386 mi,82.3 kWh,195 kW,0 kg,491 L,£279 /mi
+Peugeot,e-Rifter Long 50 kWh,Front Wheel Drive,N,7,"£31,750",140 mi,357 Wh/mi,"1,901 kg",11.7 sec,149 mi,50.0 kWh,80 kW,750 kg,"1,050 L",£227 /mi
+Smart,#5 Pro+(MY25),Rear Wheel Drive,D,5,"£43,800",285 mi,330 Wh/mi,"2,335 kg",6.5 sec,360 mi,94.0 kWh,230 kW,"1,600 kg",702 L,£154 /mi
+Tesla,Model X 90D,All Wheel Drive,F,7,£0,245 mi,349 Wh/mi,"2,464 kg",5.0 sec,240 mi,85.5 kWh,90 kW,unknown,unknown,- /mi
+Audi,e-tron Sportback 55 quattro,All Wheel Drive,E,5,"£74,635",235 mi,368 Wh/mi,"2,565 kg",5.7 sec,248 mi,86.5 kWh,146 kW,"1,800 kg",615 L,£318 /mi
+Volvo,XC40 Recharge Twin Pure Electric(MY22),All Wheel Drive,C,5,"£49,950",205 mi,366 Wh/mi,"2,188 kg",4.9 sec,216 mi,75.0 kWh,108 kW,"1,800 kg",450 L,£244 /mi
+Volvo,XC40 Recharge Single Motor(MY24),Rear Wheel Drive,C,5,"£46,505",210 mi,314 Wh/mi,"2,040 kg",7.3 sec,219 mi,66.0 kWh,85 kW,"1,500 kg",441 L,£221 /mi
+Mercedes-Benz,EQB 300 4MATIC,All Wheel Drive,C,7,"£55,310",215 mi,309 Wh/mi,"2,165 kg",8.0 sec,222 mi,66.5 kWh,100 kW,"1,700 kg",495 L,£257 /mi
+Audi,S6 Avant e-tron,All Wheel Drive,E,5,"£99,340",330 mi,288 Wh/mi,"2,410 kg",3.9 sec,396 mi,94.9 kWh,200 kW,"2,100 kg",529 L,£301 /mi
+Audi,Q6 Sportback e-tron,Rear Wheel Drive,D,5,"£62,475",255 mi,297 Wh/mi,"2,200 kg",7.0 sec,301 mi,75.8 kWh,150 kW,"2,000 kg",575 L,£245 /mi
+Volkswagen,e-Up!,Front Wheel Drive,A,4,"£22,055",125 mi,258 Wh/mi,"1,235 kg",11.9 sec,117 mi,32.3 kWh,30 kW,0 kg,250 L,£176 /mi
+Audi,Q8 SUV e-tron 55 quattro,All Wheel Drive,E,5,"£80,715",315 mi,337 Wh/mi,"2,585 kg",5.6 sec,320 mi,106.0 kWh,144 kW,"1,800 kg",631 L,£256 /mi
+Renault,Scenic E-Tech 170hp Comfort Range,Front Wheel Drive,C,5,"£37,495",210 mi,286 Wh/mi,"1,822 kg",8.6 sec,220 mi,60.0 kWh,75 kW,"1,100 kg",545 L,£179 /mi
+Audi,Q6 Sportback e-tron performance,Rear Wheel Drive,D,5,"£65,975",315 mi,301 Wh/mi,"2,275 kg",6.6 sec,371 mi,94.9 kWh,190 kW,"2,000 kg",575 L,£209 /mi
+Škoda,Enyaq 60(MY25),Rear Wheel Drive,C,5,"£37,510",220 mi,268 Wh/mi,"2,002 kg",8.1 sec,258 mi,59.0 kWh,110 kW,"1,000 kg",585 L,£171 /mi
+Volkswagen,ID.3 Pro S,Rear Wheel Drive,C,4,"£47,470",280 mi,275 Wh/mi,"1,935 kg",7.9 sec,303 mi,77.0 kWh,115 kW,0 kg,385 L,£170 /mi
+Polestar,2 Standard Range Single Motor(MY23),Front Wheel Drive,D,5,"£43,150",235 mi,285 Wh/mi,"2,013 kg",7.4 sec,258 mi,67.0 kWh,116 kW,"1,500 kg",440 L,£184 /mi
+Mercedes-Benz,EQA 350 4MATIC,All Wheel Drive,C,5,"£54,510",215 mi,309 Wh/mi,"2,110 kg",6.0 sec,223 mi,66.5 kWh,100 kW,"1,800 kg",340 L,£254 /mi
+Volvo,EX40 Twin Motor(MY25),All Wheel Drive,C,5,"£57,805",235 mi,336 Wh/mi,"2,170 kg",4.8 sec,260 mi,79.0 kWh,125 kW,"1,800 kg",441 L,£246 /mi
+Smart,#1 Pure,Rear Wheel Drive,B,5,"£29,960",155 mi,303 Wh/mi,"1,855 kg",6.7 sec,174 mi,47.0 kWh,65 kW,0 kg,338 L,£193 /mi
+Toyota,bZ4X FWD 57.7 kWh(MY25),Front Wheel Drive,C,5,"£39,995",190 mi,284 Wh/mi,"1,945 kg",8.6 sec,213 mi,54.0 kWh,85 kW,750 kg,452 L,£211 /mi
+Škoda,Enyaq vRS(MY24),All Wheel Drive,C,5,"£53,120",270 mi,285 Wh/mi,"2,251 kg",5.5 sec,298 mi,77.0 kWh,120 kW,"1,200 kg",585 L,£197 /mi
+Citroën,ë-C4 X 54 kWh,Front Wheel Drive,C,5,"£30,005",205 mi,248 Wh/mi,"1,652 kg",9.1 sec,222 mi,50.8 kWh,78 kW,0 kg,510 L,£146 /mi
+Volvo,XC40 Recharge Pure Electric(MY23),Front Wheel Drive,C,5,"£45,750",205 mi,327 Wh/mi,"2,023 kg",7.4 sec,221 mi,67.0 kWh,116 kW,"1,500 kg",450 L,£223 /mi
+Audi,Q4 e-tron 45 quattro,All Wheel Drive,C,5,"£52,740",245 mi,314 Wh/mi,"2,235 kg",6.6 sec,272 mi,77.0 kWh,120 kW,"1,200 kg",520 L,£215 /mi
+Alfa Romeo,Junior Elettrica 54 kWh Veloce,Front Wheel Drive,B,5,"£42,295",190 mi,267 Wh/mi,"1,635 kg",6.0 sec,203 mi,50.8 kWh,85 kW,0 kg,400 L,£223 /mi
+Polestar,2 Standard Range Single Motor(MY25),Rear Wheel Drive,D,5,"£44,950",250 mi,268 Wh/mi,"2,020 kg",6.4 sec,286 mi,67.0 kWh,110 kW,"1,500 kg",448 L,£180 /mi
+Smart,#5 Summit Edition(MY25),All Wheel Drive,D,5,"£48,800",280 mi,336 Wh/mi,"2,445 kg",4.9 sec,349 mi,94.0 kWh,230 kW,"1,600 kg",677 L,£174 /mi
+Volkswagen,ID.4 Pure(MY26),Rear Wheel Drive,C,5,"£35,495",175 mi,297 Wh/mi,"1,975 kg",9.0 sec,198 mi,52.0 kWh,87 kW,"1,000 kg",543 L,£203 /mi
+Peugeot,e-Rifter Standard 50 kWh,Front Wheel Drive,N,5,"£30,850",145 mi,345 Wh/mi,"1,830 kg",11.7 sec,153 mi,50.0 kWh,80 kW,750 kg,775 L,£213 /mi
+Lexus,RZ 300e(MY23-25),Front Wheel Drive,D,5,"£49,995",220 mi,291 Wh/mi,"2,030 kg",8.0 sec,243 mi,64.0 kWh,100 kW,750 kg,522 L,£227 /mi
+Volvo,EX40 Twin Motor(MY26),All Wheel Drive,C,5,"£57,660",235 mi,336 Wh/mi,"2,170 kg",4.8 sec,260 mi,79.0 kWh,125 kW,"1,800 kg",441 L,£245 /mi
+Tesla,Model X 75D,All Wheel Drive,F,7,"£79,400",205 mi,354 Wh/mi,"2,427 kg",5.2 sec,209 mi,72.5 kWh,80 kW,"2,250 kg",unknown,£387 /mi
+Smart,EQ forfour,Rear Wheel Drive,A,4,"£22,295",55 mi,304 Wh/mi,"1,200 kg",12.7 sec,41 mi,16.7 kWh,0 kW,0 kg,185 L,£405 /mi
+Mercedes-Benz,EQS 450+,Rear Wheel Drive,F,5,"£105,610",395 mi,274 Wh/mi,"2,515 kg",6.1 sec,436 mi,108.4 kWh,173 kW,750 kg,620 L,£267 /mi
+Porsche,Taycan 4 Cross Turismo,All Wheel Drive,F,5,"£96,800",315 mi,308 Wh/mi,"2,355 kg",4.7 sec,407 mi,97.0 kWh,262 kW,0 kg,530 L,£307 /mi
+Mercedes-Benz,EQV 300 Long,Front Wheel Drive,N,7,"£92,255",200 mi,450 Wh/mi,"2,625 kg",12.1 sec,185 mi,90.0 kWh,96 kW,0 kg,"1,030 L",£461 /mi
+Ford,Mustang Mach-E Premium RWD(MY25),Rear Wheel Drive,D,5,"£59,390",295 mi,298 Wh/mi,"2,161 kg",6.1 sec,300 mi,88.0 kWh,105 kW,"1,500 kg",619 L,£201 /mi
+Lotus,Eletre 600,All Wheel Drive,F,5,"£84,990",305 mi,357 Wh/mi,"2,565 kg",4.5 sec,375 mi,109.0 kWh,259 kW,"2,250 kg",657 L,£279 /mi
+Peugeot,e-308 55 kWh(MY26),Front Wheel Drive,C,5,"£29,495",210 mi,264 Wh/mi,"1,749 kg",9.3 sec,218 mi,55.4 kWh,65 kW,0 kg,361 L,£140 /mi
+Fiat,500e Cabrio,Front Wheel Drive,B,4,"£30,995",140 mi,266 Wh/mi,"1,405 kg",9.0 sec,156 mi,37.3 kWh,67 kW,0 kg,185 L,£221 /mi
+Tesla,Model X Long Range Plus,All Wheel Drive,F,7,"£87,980",300 mi,327 Wh/mi,"2,505 kg",4.6 sec,329 mi,98.0 kWh,125 kW,"2,250 kg",unknown,£293 /mi
+Vauxhall,Vivaro-e Life M 50 kWh,Front Wheel Drive,N,9,"£42,735",115 mi,403 Wh/mi,"1,969 kg",12.1 sec,123 mi,46.3 kWh,78 kW,"1,000 kg",unknown,£372 /mi
+Smart,#3 Pro,Rear Wheel Drive,B,5,"£33,960",165 mi,285 Wh/mi,"1,855 kg",5.9 sec,185 mi,47.0 kWh,65 kW,0 kg,385 L,£206 /mi
+Mercedes-Benz,EQS SUV Maybach 680,All Wheel Drive,F,4,"£200,860",305 mi,387 Wh/mi,"3,075 kg",4.4 sec,315 mi,118.0 kWh,160 kW,"1,800 kg",440 L,£659 /mi
+Volvo,EX40 Single Motor ER(MY25),Rear Wheel Drive,C,5,"£47,705",245 mi,322 Wh/mi,"2,075 kg",7.3 sec,274 mi,79.0 kWh,125 kW,"1,500 kg",441 L,£195 /mi
+Peugeot,e-Traveller Standard 75 kWh,Front Wheel Drive,N,9,"£47,495",165 mi,418 Wh/mi,"2,211 kg",14.2 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",603 L,£288 /mi
+BMW,i5 eDrive40 Saloon(MY25),Rear Wheel Drive,E,5,"£67,705",295 mi,275 Wh/mi,"2,195 kg",6.0 sec,340 mi,81.2 kWh,136 kW,"1,500 kg",490 L,£230 /mi
+Volvo,EX30 Cross Country(MY26),All Wheel Drive,B,5,"£46,995",205 mi,317 Wh/mi,"1,960 kg",3.7 sec,228 mi,65.0 kWh,114 kW,"1,600 kg",325 L,£229 /mi
+Kia,EV4 Hatchback 58.3 kWh,Front Wheel Drive,C,5,"£34,695",210 mi,262 Wh/mi,"1,805 kg",7.4 sec,226 mi,55.0 kWh,80 kW,500 kg,435 L,£165 /mi
+Smart,#5 Pulse(MY25),All Wheel Drive,D,5,"£47,300",280 mi,336 Wh/mi,"2,420 kg",4.9 sec,350 mi,94.0 kWh,230 kW,"1,600 kg",677 L,£169 /mi
+Porsche,Macan Turbo Electric(MY26),All Wheel Drive,D,5,"£97,500",285 mi,333 Wh/mi,"2,480 kg",3.3 sec,338 mi,95.0 kWh,200 kW,"2,500 kg",564 L,£342 /mi
+BMW,i3 94 Ah,Rear Wheel Drive,B,4,"£28,570",100 mi,272 Wh/mi,"1,320 kg",7.3 sec,106 mi,27.2 kWh,46 kW,unknown,260 L,£286 /mi
+Kia,EV9 99.8 kWh AWD GT,All Wheel Drive,F,7,"£82,185",260 mi,369 Wh/mi,"2,648 kg",4.6 sec,291 mi,96.0 kWh,194 kW,"2,500 kg",385 L,£316 /mi
+BMW,i3 60 Ah,Rear Wheel Drive,B,4,"£27,850",70 mi,269 Wh/mi,"1,270 kg",7.2 sec,83 mi,18.8 kWh,41 kW,unknown,260 L,£398 /mi
+Tesla,Model S 90D,All Wheel Drive,F,5,£0,280 mi,305 Wh/mi,"2,223 kg",4.4 sec,279 mi,85.5 kWh,90 kW,unknown,895 L,- /mi
+Kia,Soul EV,Front Wheel Drive,B,5,"£26,995",105 mi,286 Wh/mi,"1,580 kg",11.2 sec,107 mi,30.0 kWh,40 kW,0 kg,281 L,£257 /mi
+Hyundai,Kona Electric 64 kWh,Front Wheel Drive,B,5,"£32,845",240 mi,267 Wh/mi,"1,760 kg",7.6 sec,226 mi,64.0 kWh,64 kW,0 kg,332 L,£137 /mi
+Citroën,ë-C4 X,Front Wheel Drive,C,5,"£31,960",175 mi,265 Wh/mi,"1,659 kg",9.7 sec,198 mi,46.3 kWh,78 kW,0 kg,510 L,£183 /mi
+Maserati,GranTurismo Folgore,All Wheel Drive,F,4,"£179,950",260 mi,319 Wh/mi,"2,335 kg",2.7 sec,330 mi,83.0 kWh,217 kW,unknown,270 L,£692 /mi
+Volkswagen,ID.4 GTX(MY24-25),All Wheel Drive,C,5,"£53,865",260 mi,296 Wh/mi,"2,256 kg",5.4 sec,286 mi,77.0 kWh,120 kW,"1,200 kg",543 L,£207 /mi
+Vauxhall,Mokka Electric GSE,Front Wheel Drive,B,5,"£35,495",170 mi,299 Wh/mi,"1,672 kg",5.9 sec,183 mi,50.8 kWh,85 kW,0 kg,310 L,£209 /mi
+Kia,e-Niro 64 kWh,Front Wheel Drive,C,5,"£32,995",230 mi,278 Wh/mi,"1,812 kg",7.8 sec,217 mi,64.0 kWh,64 kW,0 kg,451 L,£143 /mi
+Renault,Zoe Q90 ZE40,Front Wheel Drive,B,5,"£25,770",155 mi,265 Wh/mi,"1,548 kg",13.5 sec,139 mi,41.0 kWh,33 kW,0 kg,338 L,£166 /mi
+Volvo,XC40 P8 AWD Recharge(MY21),All Wheel Drive,C,5,"£49,950",205 mi,366 Wh/mi,"2,188 kg",4.9 sec,216 mi,75.0 kWh,108 kW,"1,500 kg",450 L,£244 /mi
+Lotus,Eletre R,All Wheel Drive,F,5,"£121,305",280 mi,389 Wh/mi,"2,725 kg",2.9 sec,347 mi,109.0 kWh,259 kW,"2,250 kg",657 L,£433 /mi
+Genesis,GV60 Pure(MY25),Rear Wheel Drive,C,5,"£54,115",260 mi,308 Wh/mi,"2,050 kg",7.8 sec,324 mi,80.0 kWh,205 kW,"1,600 kg",432 L,£208 /mi
+Volkswagen,ID.7 Pro(MY26),Rear Wheel Drive,E,5,"£51,005",295 mi,261 Wh/mi,"2,180 kg",6.5 sec,336 mi,77.0 kWh,125 kW,"1,000 kg",532 L,£173 /mi
+Volkswagen,ID.3 1st,Rear Wheel Drive,C,5,"£35,880",215 mi,270 Wh/mi,"1,794 kg",7.3 sec,233 mi,58.0 kWh,82 kW,0 kg,385 L,£167 /mi
+Vauxhall,Corsa Electric 50 kWh(MY24),Front Wheel Drive,B,5,"£26,895",180 mi,257 Wh/mi,"1,544 kg",8.7 sec,198 mi,46.3 kWh,78 kW,0 kg,267 L,£149 /mi
+GWM,ORA 03 Pro+,Front Wheel Drive,C,5,"£34,995",210 mi,282 Wh/mi,"1,615 kg",8.2 sec,194 mi,59.3 kWh,55 kW,0 kg,228 L,£167 /mi
+Porsche,Taycan Turbo GT Weissach,All Wheel Drive,F,2,"£186,300",295 mi,329 Wh/mi,"2,295 kg",2.2 sec,378 mi,97.0 kWh,262 kW,0 kg,451 L,£632 /mi
+Audi,Q6 Sportback e-tron quattro,All Wheel Drive,D,5,"£71,475",310 mi,306 Wh/mi,"2,400 kg",5.9 sec,370 mi,94.9 kWh,200 kW,"2,400 kg",575 L,£231 /mi
+Volvo,EC40 Twin Motor Performance(MY26),All Wheel Drive,C,5,"£59,610",250 mi,316 Wh/mi,"2,185 kg",4.6 sec,275 mi,79.0 kWh,125 kW,"1,800 kg",435 L,£238 /mi
+Mercedes-Benz,CLA Shooting Brake 250+,Rear Wheel Drive,D,5,"£47,750",350 mi,243 Wh/mi,"2,075 kg",6.8 sec,459 mi,85.0 kWh,235 kW,"1,500 kg",556 L,£136 /mi
+Mercedes-Benz,EQV 300,Front Wheel Drive,N,7,"£87,995",190 mi,474 Wh/mi,"2,635 kg",12.1 sec,177 mi,90.0 kWh,96 kW,0 kg,"1,030 L",£463 /mi
+Mercedes-Benz,eVito Tourer L2 90 kWh,Front Wheel Drive,N,9,"£76,368",190 mi,474 Wh/mi,"2,530 kg",12.0 sec,176 mi,90.0 kWh,96 kW,0 kg,990 L,£402 /mi
+Ford,Mustang Mach-E Premium RWD(MY23.75),Rear Wheel Drive,D,5,"£59,830",300 mi,303 Wh/mi,"2,160 kg",7.0 sec,304 mi,91.0 kWh,115 kW,"1,500 kg",619 L,£199 /mi
+Porsche,Taycan 4S Cross Turismo,All Wheel Drive,F,5,"£100,400",315 mi,308 Wh/mi,"2,355 kg",3.8 sec,407 mi,97.0 kWh,262 kW,0 kg,530 L,£319 /mi
+DS Automobiles,N°8 AWD Long Range,All Wheel Drive,D,5,"£63,290",330 mi,295 Wh/mi,"2,364 kg",5.4 sec,343 mi,97.2 kWh,130 kW,"1,400 kg",620 L,£192 /mi
+CUPRA,Born 58 kWh e-Boost,Rear Wheel Drive,C,5,"£35,085",215 mi,270 Wh/mi,"1,824 kg",6.6 sec,231 mi,58.0 kWh,82 kW,0 kg,385 L,£163 /mi
+Volkswagen,ID.4 Pro Performance 4MOTION(MY24-25),All Wheel Drive,C,5,"£46,080",270 mi,285 Wh/mi,"2,233 kg",6.6 sec,296 mi,77.0 kWh,120 kW,"1,200 kg",543 L,£171 /mi
+Mercedes-Benz,EQE SUV 350+(MY23-24),Rear Wheel Drive,E,5,"£75,495",295 mi,325 Wh/mi,"2,490 kg",6.9 sec,313 mi,96.0 kWh,141 kW,750 kg,520 L,£256 /mi
+Citroën,ë-SpaceTourer M 75 kWh,Front Wheel Drive,N,9,"£42,035",165 mi,418 Wh/mi,"2,211 kg",14.2 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",603 L,£255 /mi
+Kia,Soul EV,Front Wheel Drive,B,5,"£25,495",95 mi,284 Wh/mi,"1,565 kg",11.2 sec,101 mi,27.0 kWh,40 kW,0 kg,281 L,£268 /mi
+Renault,Zoe Q210,Front Wheel Drive,B,5,"£14,495",85 mi,274 Wh/mi,"1,503 kg",13.5 sec,92 mi,23.3 kWh,33 kW,unknown,338 L,£171 /mi
+Škoda,Enyaq Coupe iV 80(MY23),Rear Wheel Drive,C,5,"£44,825",275 mi,280 Wh/mi,"2,119 kg",8.7 sec,294 mi,77.0 kWh,125 kW,"1,000 kg",575 L,£163 /mi
+ORA,Funky Cat First Edition,Front Wheel Drive,C,5,"£31,995",160 mi,284 Wh/mi,"1,615 kg",8.3 sec,153 mi,45.4 kWh,45 kW,0 kg,228 L,£200 /mi
+Smart,#1 Pro,Rear Wheel Drive,B,5,"£32,960",155 mi,303 Wh/mi,"1,855 kg",6.7 sec,174 mi,47.0 kWh,65 kW,0 kg,338 L,£213 /mi
+Audi,e-tron GT RS performance,All Wheel Drive,F,4,"£142,925",325 mi,298 Wh/mi,"2,395 kg",2.5 sec,431 mi,97.0 kWh,281 kW,0 kg,427 L,£440 /mi
+Nissan,Ariya e-4ORCE 87kWh - 320 kW Nismo,All Wheel Drive,C,5,"£56,630",240 mi,363 Wh/mi,"2,277 kg",5.0 sec,237 mi,87.0 kWh,110 kW,unknown,415 L,£236 /mi
+Tesla,Model S 75,Rear Wheel Drive,F,5,"£55,880",235 mi,309 Wh/mi,"2,102 kg",4.6 sec,240 mi,72.5 kWh,80 kW,unknown,895 L,£238 /mi
+Renault,Zoe R90 ZE40,Front Wheel Drive,B,5,"£23,770",155 mi,265 Wh/mi,"1,555 kg",13.5 sec,113 mi,41.0 kWh,0 kW,0 kg,338 L,£153 /mi
+Smart,EQ fortwo coupe,Rear Wheel Drive,A,2,"£17,695",60 mi,278 Wh/mi,"1,085 kg",11.5 sec,44 mi,16.7 kWh,0 kW,0 kg,260 L,£295 /mi
+Tesla,Model S Performance,All Wheel Drive,F,5,"£94,980",330 mi,297 Wh/mi,"2,307 kg",2.8 sec,370 mi,98.0 kWh,125 kW,0 kg,894 L,£288 /mi
+Volvo,C40 Recharge Twin Pure Electric(MY22),All Wheel Drive,C,5,"£58,350",225 mi,333 Wh/mi,"2,185 kg",4.7 sec,235 mi,75.0 kWh,108 kW,"1,800 kg",450 L,£259 /mi
+Peugeot,e-5008 73 kWh Dual Motor,All Wheel Drive,D,7,"£58,990",220 mi,332 Wh/mi,"2,406 kg",6.5 sec,232 mi,73.0 kWh,90 kW,"1,000 kg",348 L,£268 /mi
+Volkswagen,ID.5 GTX(MY26),All Wheel Drive,C,5,"£47,900",275 mi,287 Wh/mi,"2,233 kg",5.4 sec,311 mi,79.0 kWh,135 kW,"1,800 kg",549 L,£174 /mi
+Audi,Q4 e-tron 50 quattro,All Wheel Drive,C,5,"£57,010",240 mi,319 Wh/mi,"2,210 kg",6.2 sec,260 mi,76.6 kWh,115 kW,"1,200 kg",520 L,£238 /mi
+Maxus,MIFA 9,Front Wheel Drive,N,7,"£65,290",225 mi,373 Wh/mi,"2,485 kg",9.2 sec,211 mi,84.0 kWh,103 kW,"1,000 kg",521 L,£290 /mi
+Mercedes-Benz,EQE 350(MY23),Rear Wheel Drive,E,5,"£77,345",320 mi,278 Wh/mi,"2,405 kg",6.4 sec,345 mi,89.0 kWh,120 kW,750 kg,430 L,£242 /mi
+Porsche,Taycan Turbo GT,All Wheel Drive,F,5,"£186,300",295 mi,329 Wh/mi,"2,365 kg",2.3 sec,378 mi,97.0 kWh,262 kW,0 kg,410 L,£632 /mi
+MG,Cyberster Trophy,Rear Wheel Drive,S,2,"£54,995",265 mi,281 Wh/mi,"1,960 kg",5.0 sec,273 mi,74.4 kWh,85 kW,unknown,249 L,£208 /mi
+Audi,e-tron GT RS,All Wheel Drive,F,4,"£126,425",325 mi,298 Wh/mi,"2,395 kg",2.8 sec,431 mi,97.0 kWh,281 kW,0 kg,427 L,£389 /mi
+Toyota,bZ4X FWD 73.1 kWh(MY25),Front Wheel Drive,C,5,"£45,795",240 mi,288 Wh/mi,"2,025 kg",7.4 sec,263 mi,69.0 kWh,110 kW,750 kg,452 L,£191 /mi
+Volvo,EX40 Single Motor(MY26),Rear Wheel Drive,C,5,"£46,260",215 mi,312 Wh/mi,"2,040 kg",7.3 sec,238 mi,67.0 kWh,110 kW,"1,500 kg",441 L,£215 /mi
+Polestar,3 Performance(MY26),All Wheel Drive,E,5,"£91,990",285 mi,358 Wh/mi,"2,600 kg",3.9 sec,335 mi,102.0 kWh,200 kW,"2,200 kg",508 L,£323 /mi
+Tesla,Model S P90D,All Wheel Drive,F,5,£0,255 mi,335 Wh/mi,"2,262 kg",3.3 sec,254 mi,85.5 kWh,90 kW,unknown,895 L,- /mi
+Mercedes-Benz,EQS 450+,Rear Wheel Drive,F,5,"£105,610",395 mi,273 Wh/mi,"2,480 kg",6.2 sec,437 mi,107.8 kWh,173 kW,750 kg,610 L,£267 /mi
+Citroën,ë-Berlingo XL 50 kWh,Front Wheel Drive,N,7,"£33,315",125 mi,370 Wh/mi,"1,813 kg",11.7 sec,137 mi,46.3 kWh,78 kW,750 kg,806 L,£267 /mi
+Volkswagen,ID.5 Pro Performance,Rear Wheel Drive,C,5,"£51,940",265 mi,291 Wh/mi,"2,117 kg",8.4 sec,285 mi,77.0 kWh,125 kW,"1,000 kg",549 L,£196 /mi
+Volvo,C40 Recharge Pure Electric(MY23),Front Wheel Drive,C,5,"£47,100",205 mi,327 Wh/mi,"2,045 kg",7.4 sec,222 mi,67.0 kWh,116 kW,"1,500 kg",450 L,£230 /mi
+Vauxhall,Astra Sports Tourer Electric,Front Wheel Drive,C,5,"£34,705",190 mi,267 Wh/mi,"1,760 kg",9.3 sec,208 mi,50.8 kWh,85 kW,0 kg,516 L,£183 /mi
+Citroën,ë-C4 X 54 kWh,Front Wheel Drive,C,5,"£35,800",205 mi,248 Wh/mi,"1,659 kg",9.3 sec,221 mi,50.8 kWh,78 kW,0 kg,510 L,£175 /mi
+Toyota,Proace City Verso Long 50 kWh,Front Wheel Drive,N,7,"£31,629",145 mi,345 Wh/mi,"1,881 kg",11.7 sec,150 mi,50.0 kWh,80 kW,750 kg,"1,050 L",£218 /mi
+KGM,Torres EVX(MY24-25),Front Wheel Drive,C,5,"£36,995",230 mi,313 Wh/mi,"1,979 kg",8.1 sec,229 mi,72.0 kWh,85 kW,"1,500 kg",839 L,£161 /mi
+Abarth,600e Scorpionissima,Front Wheel Drive,B,5,"£39,875",170 mi,299 Wh/mi,"1,700 kg",5.9 sec,182 mi,50.8 kWh,79 kW,0 kg,360 L,£235 /mi
+Tesla,Model S Performance,All Wheel Drive,F,5,"£89,980",320 mi,297 Wh/mi,"2,307 kg",2.8 sec,339 mi,95.0 kWh,110 kW,0 kg,894 L,£281 /mi
+Hyundai,Kona Electric 39 kWh,Front Wheel Drive,B,5,"£30,650",150 mi,261 Wh/mi,"1,610 kg",9.9 sec,139 mi,39.2 kWh,37 kW,0 kg,361 L,£204 /mi
+Volkswagen,ID.3 Pro Performance,Rear Wheel Drive,C,5,"£29,740",215 mi,270 Wh/mi,"1,805 kg",7.3 sec,233 mi,58.0 kWh,82 kW,0 kg,385 L,£138 /mi
+Peugeot,e-2008,Front Wheel Drive,B,5,"£35,150",165 mi,281 Wh/mi,"1,623 kg",8.5 sec,183 mi,46.3 kWh,78 kW,0 kg,434 L,£213 /mi
+Audi,e-tron S,All Wheel Drive,E,5,"£88,435",195 mi,444 Wh/mi,"2,730 kg",4.5 sec,206 mi,86.5 kWh,146 kW,"1,800 kg",660 L,£454 /mi
+Lotus,Eletre S,All Wheel Drive,F,5,"£105,805",300 mi,363 Wh/mi,"2,595 kg",4.5 sec,368 mi,109.0 kWh,259 kW,"2,250 kg",657 L,£353 /mi
+Porsche,Macan Turbo Electric(MY24-25),All Wheel Drive,D,5,"£95,000",285 mi,333 Wh/mi,"2,480 kg",3.3 sec,338 mi,95.0 kWh,200 kW,"2,000 kg",564 L,£333 /mi
+Volvo,EC40 Single Motor(MY25),Rear Wheel Drive,C,5,"£52,555",220 mi,305 Wh/mi,"2,057 kg",7.3 sec,248 mi,67.0 kWh,110 kW,"1,500 kg",435 L,£239 /mi
+Polestar,2 Long Range Performance(MY26),All Wheel Drive,D,5,"£58,160",280 mi,282 Wh/mi,"2,180 kg",4.2 sec,315 mi,79.0 kWh,125 kW,"1,500 kg",448 L,£208 /mi
+Ford,Mustang Mach-E ER RWD(MY21),Rear Wheel Drive,D,5,"£47,580",290 mi,303 Wh/mi,"2,160 kg",7.0 sec,271 mi,88.0 kWh,86 kW,750 kg,619 L,£164 /mi
+Tesla,Model S Long Range Plus,All Wheel Drive,F,5,"£79,980",345 mi,284 Wh/mi,"2,255 kg",3.8 sec,385 mi,98.0 kWh,125 kW,0 kg,894 L,£232 /mi
+Abarth,500e Hatchback,Front Wheel Drive,B,4,"£34,195",140 mi,270 Wh/mi,"1,410 kg",7.0 sec,156 mi,37.8 kWh,67 kW,0 kg,185 L,£244 /mi
+Mini,Cooper SE,Front Wheel Drive,B,4,"£39,000",180 mi,273 Wh/mi,"1,730 kg",5.9 sec,191 mi,49.2 kWh,75 kW,0 kg,200 L,£217 /mi
+Porsche,Taycan Turbo S,All Wheel Drive,F,5,"£142,400",245 mi,342 Wh/mi,"2,370 kg",2.8 sec,313 mi,83.7 kWh,216 kW,0 kg,450 L,£581 /mi
+Tesla,Model 3 Performance,All Wheel Drive,D,5,"£56,490",275 mi,267 Wh/mi,"1,931 kg",3.7 sec,337 mi,73.5 kWh,163 kW,0 kg,542 L,£205 /mi
+Mini,Cooper SE,Front Wheel Drive,B,4,"£25,100",110 mi,263 Wh/mi,"1,440 kg",7.3 sec,114 mi,28.9 kWh,44 kW,0 kg,211 L,£228 /mi
+Tesla,Model X Performance,All Wheel Drive,F,7,"£97,980",265 mi,358 Wh/mi,"2,552 kg",2.9 sec,278 mi,95.0 kWh,110 kW,"2,250 kg",unknown,£370 /mi
+Genesis,GV60 Sport(MY22-24),All Wheel Drive,C,5,"£58,365",235 mi,315 Wh/mi,"2,170 kg",5.5 sec,293 mi,74.0 kWh,200 kW,"1,600 kg",432 L,£248 /mi
+Polestar,2 Long Range Performance(MY23),All Wheel Drive,D,5,"£54,550",240 mi,313 Wh/mi,"2,188 kg",4.4 sec,254 mi,75.0 kWh,108 kW,"1,500 kg",440 L,£227 /mi
+BMW,i5 M60 xDrive Saloon,All Wheel Drive,E,5,"£97,745",260 mi,312 Wh/mi,"2,380 kg",3.8 sec,298 mi,81.2 kWh,136 kW,"2,000 kg",490 L,£376 /mi
+Volvo,ES90 Single Motor(MY26),Rear Wheel Drive,F,5,"£69,150",300 mi,293 Wh/mi,"2,441 kg",6.6 sec,360 mi,88.0 kWh,170 kW,"1,600 kg",468 L,£231 /mi
+Renault,Zoe R240,Front Wheel Drive,B,5,"£18,945",90 mi,259 Wh/mi,"1,502 kg",13.5 sec,63 mi,23.3 kWh,0 kW,unknown,338 L,£211 /mi
+SEAT,Mii Electric,Front Wheel Drive,A,4,"£20,300",130 mi,248 Wh/mi,"1,235 kg",12.3 sec,117 mi,32.3 kWh,30 kW,0 kg,251 L,£156 /mi
+Nissan,Ariya e-4ORCE 87kWh - 290 kW,All Wheel Drive,C,5,"£59,025",250 mi,348 Wh/mi,"2,293 kg",5.1 sec,249 mi,87.0 kWh,110 kW,"1,500 kg",415 L,£236 /mi
+Audi,SQ6 SUV e-tron,All Wheel Drive,D,5,"£92,950",295 mi,322 Wh/mi,"2,425 kg",4.3 sec,347 mi,94.9 kWh,200 kW,"2,400 kg",578 L,£315 /mi
+Smart,#5 Pro(MY25),Rear Wheel Drive,D,5,"£39,800",230 mi,323 Wh/mi,"2,275 kg",6.9 sec,245 mi,74.4 kWh,110 kW,"1,600 kg",702 L,£173 /mi
+Volvo,EC40 Single Motor ER(MY26),Rear Wheel Drive,C,5,"£54,160",260 mi,304 Wh/mi,"2,095 kg",7.3 sec,285 mi,79.0 kWh,125 kW,"1,500 kg",435 L,£208 /mi
+Lotus,Emeya 900,All Wheel Drive,F,5,"£129,990",290 mi,341 Wh/mi,"2,650 kg",2.8 sec,364 mi,98.9 kWh,240 kW,"1,225 kg",543 L,£448 /mi
+Volkswagen,ID.3 Pro S,Rear Wheel Drive,C,4,"£38,800",280 mi,275 Wh/mi,"1,934 kg",7.9 sec,303 mi,77.0 kWh,115 kW,0 kg,385 L,£139 /mi
+Mercedes-Benz,EQB 350 4MATIC,All Wheel Drive,C,7,"£56,810",210 mi,317 Wh/mi,"2,175 kg",6.2 sec,217 mi,66.5 kWh,100 kW,0 kg,495 L,£271 /mi
+Porsche,Taycan,Rear Wheel Drive,F,5,"£79,200",260 mi,273 Wh/mi,"2,125 kg",5.4 sec,331 mi,71.0 kWh,183 kW,0 kg,491 L,£305 /mi
+Škoda,Enyaq Coupe vRS(MY24),All Wheel Drive,C,5,"£54,820",275 mi,280 Wh/mi,"2,258 kg",5.5 sec,306 mi,77.0 kWh,120 kW,"1,200 kg",570 L,£199 /mi
+Polestar,2 Long Range Dual Motor(MY25),All Wheel Drive,D,5,"£52,950",280 mi,282 Wh/mi,"2,183 kg",4.5 sec,319 mi,79.0 kWh,125 kW,"1,500 kg",448 L,£189 /mi
+Porsche,Taycan GTS,All Wheel Drive,F,5,"£117,500",330 mi,294 Wh/mi,"2,360 kg",3.3 sec,430 mi,97.0 kWh,262 kW,0 kg,450 L,£356 /mi
+Tesla,Model S 85D,All Wheel Drive,F,5,£0,260 mi,311 Wh/mi,"2,184 kg",4.4 sec,263 mi,80.8 kWh,95 kW,unknown,895 L,- /mi
+Peugeot,iOn,Rear Wheel Drive,A,4,"£16,995",55 mi,264 Wh/mi,"1,140 kg",15.9 sec,63 mi,14.5 kWh,30 kW,0 kg,166 L,£309 /mi
+Ford,Mustang Mach-E ER RWD(MY22),Rear Wheel Drive,D,5,"£56,080",300 mi,303 Wh/mi,"2,160 kg",7.0 sec,278 mi,91.0 kWh,86 kW,"1,000 kg",619 L,£187 /mi
+Fisker,Ocean Ultra,All Wheel Drive,D,5,"£50,900",310 mi,344 Wh/mi,"2,526 kg",4.2 sec,334 mi,106.5 kWh,135 kW,"1,820 kg",476 L,£164 /mi
+Porsche,Taycan Sport Turismo,Rear Wheel Drive,F,5,"£87,300",285 mi,289 Wh/mi,"2,190 kg",4.8 sec,353 mi,82.3 kWh,195 kW,0 kg,530 L,£306 /mi
+Porsche,Taycan Turbo S Cross Turismo,All Wheel Drive,F,5,"£162,500",300 mi,323 Wh/mi,"2,400 kg",2.5 sec,385 mi,97.0 kWh,262 kW,0 kg,489 L,£542 /mi
+Volkswagen,ID.7 GTX(MY24-25),All Wheel Drive,E,5,"£61,980",310 mi,277 Wh/mi,"2,325 kg",5.4 sec,355 mi,86.0 kWh,145 kW,"1,200 kg",532 L,£200 /mi
+Peugeot,e-408 58 kWh,Front Wheel Drive,C,5,"£35,560",215 mi,271 Wh/mi,"1,879 kg",7.2 sec,226 mi,58.3 kWh,70 kW,0 kg,471 L,£165 /mi
+Ford,Mustang Mach-E Premium AWD(MY25),All Wheel Drive,D,5,"£65,415",270 mi,326 Wh/mi,"2,245 kg",4.8 sec,274 mi,88.0 kWh,105 kW,"1,500 kg",619 L,£242 /mi
+Peugeot,e-208 51 kWh(MY25),Front Wheel Drive,B,5,"£28,650",180 mi,257 Wh/mi,"1,530 kg",9.0 sec,199 mi,46.3 kWh,78 kW,0 kg,309 L,£159 /mi
+Lexus,RZ 500e(MY26),All Wheel Drive,D,5,"£58,595",245 mi,294 Wh/mi,"2,100 kg",4.6 sec,268 mi,72.0 kWh,110 kW,"1,500 kg",522 L,£239 /mi
+Porsche,Taycan 4S Plus,All Wheel Drive,F,5,"£90,406",285 mi,294 Wh/mi,"2,295 kg",4.0 sec,365 mi,83.7 kWh,216 kW,0 kg,491 L,£317 /mi
+Citroën,ë-Berlingo M 50 kWh,Front Wheel Drive,N,5,"£32,315",130 mi,356 Wh/mi,"1,739 kg",11.7 sec,137 mi,46.3 kWh,78 kW,750 kg,571 L,£249 /mi
+Ford,Mustang Mach-E ER AWD(MY23),All Wheel Drive,D,5,"£65,405",275 mi,331 Wh/mi,"2,257 kg",5.8 sec,255 mi,91.0 kWh,86 kW,"1,500 kg",619 L,£238 /mi
+Volkswagen,ID.3 Pro S,Rear Wheel Drive,C,4,"£47,990",280 mi,275 Wh/mi,"1,933 kg",7.9 sec,310 mi,77.0 kWh,120 kW,0 kg,385 L,£171 /mi
+Volkswagen,ID.5 GTX(MY24-25),All Wheel Drive,C,5,"£55,365",265 mi,291 Wh/mi,"2,242 kg",5.5 sec,296 mi,77.0 kWh,120 kW,"1,200 kg",549 L,£209 /mi
+Mercedes-Benz,EQS SUV 580 4MATIC,All Wheel Drive,F,7,"£139,470",325 mi,363 Wh/mi,"2,845 kg",4.7 sec,337 mi,118.0 kWh,160 kW,"1,800 kg",645 L,£429 /mi
+Porsche,Taycan 4S Plus,All Wheel Drive,F,5,"£100,196",350 mi,277 Wh/mi,"2,325 kg",3.7 sec,458 mi,97.0 kWh,262 kW,0 kg,491 L,£286 /mi
+Peugeot,e-Traveller Long 75 kWh,Front Wheel Drive,N,9,"£48,395",160 mi,431 Wh/mi,"2,240 kg",14.2 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",989 L,£302 /mi
+Citroën,ë-C4 X,Front Wheel Drive,C,5,"£27,215",180 mi,257 Wh/mi,"1,659 kg",9.9 sec,197 mi,46.3 kWh,78 kW,0 kg,510 L,£151 /mi
+Vauxhall,Grandland Electric 73 kWh AWD,All Wheel Drive,C,5,"£37,005",220 mi,332 Wh/mi,"2,325 kg",6.1 sec,231 mi,73.0 kWh,90 kW,"1,350 kg",485 L,£168 /mi
+Genesis,GV60 Sport(MY25),All Wheel Drive,C,5,"£58,515",255 mi,314 Wh/mi,"2,200 kg",5.5 sec,319 mi,80.0 kWh,205 kW,"1,600 kg",432 L,£229 /mi
+Porsche,Macan GTS Electric(MY26),All Wheel Drive,D,5,"£89,000",285 mi,333 Wh/mi,"2,470 kg",3.8 sec,338 mi,95.0 kWh,200 kW,unknown,560 L,£312 /mi
+Tesla,Model S Standard Range,All Wheel Drive,F,5,"£72,550",260 mi,279 Wh/mi,"2,183 kg",4.2 sec,258 mi,72.5 kWh,80 kW,0 kg,894 L,£279 /mi
+Mercedes-Benz,EQA 350 4MATIC,All Wheel Drive,C,5,"£54,510",215 mi,309 Wh/mi,"2,105 kg",6.0 sec,223 mi,66.5 kWh,100 kW,"1,800 kg",340 L,£254 /mi
+BMW,iX M60,All Wheel Drive,E,5,"£122,775",300 mi,351 Wh/mi,"2,659 kg",3.8 sec,320 mi,105.2 kWh,149 kW,"2,500 kg",500 L,£409 /mi
+Volkswagen,ID.4 Pro,Rear Wheel Drive,C,5,"£44,605",255 mi,302 Wh/mi,"2,123 kg",10.4 sec,271 mi,77.0 kWh,125 kW,"1,000 kg",543 L,£175 /mi
+Škoda,Enyaq Coupe iV 80x(MY23),All Wheel Drive,C,5,"£52,505",270 mi,285 Wh/mi,"2,214 kg",7.0 sec,294 mi,77.0 kWh,115 kW,"1,200 kg",575 L,£194 /mi
+Ford,Mustang Mach-E Rally(MY24),All Wheel Drive,D,5,"£69,800",255 mi,357 Wh/mi,"2,343 kg",3.9 sec,259 mi,91.0 kWh,115 kW,750 kg,619 L,£274 /mi
+Skywell,BE11 Long Range,Front Wheel Drive,D,5,"£39,995",240 mi,338 Wh/mi,"2,005 kg",9.6 sec,209 mi,81.0 kWh,50 kW,unknown,467 L,£167 /mi
+Volkswagen,e-Transporter Kombi LWB 100 kW 65 kWh,Rear Wheel Drive,N,9,"£54,424",155 mi,412 Wh/mi,"2,348 kg",12.8 sec,155 mi,63.8 kWh,75 kW,"2,000 kg","1,000 L",£351 /mi
+Ford,Mustang Mach-E GT(MY21),All Wheel Drive,D,5,"£66,280",255 mi,345 Wh/mi,"2,348 kg",4.4 sec,241 mi,88.0 kWh,86 kW,750 kg,619 L,£260 /mi
+Kia,Soul EV 64 kWh,Front Wheel Drive,B,5,"£34,995",225 mi,284 Wh/mi,"1,757 kg",7.9 sec,213 mi,64.0 kWh,64 kW,0 kg,315 L,£156 /mi
+Audi,Q4 Sportback e-tron 45 quattro,All Wheel Drive,C,5,"£54,240",255 mi,302 Wh/mi,"2,235 kg",6.6 sec,281 mi,77.0 kWh,120 kW,"1,200 kg",535 L,£213 /mi
+Ford,Mustang Mach-E Premium AWD(MY23.75),All Wheel Drive,D,5,"£65,405",275 mi,331 Wh/mi,"2,257 kg",5.8 sec,278 mi,91.0 kWh,115 kW,"1,500 kg",619 L,£238 /mi
+Mercedes-Benz,EQV 300 Extra-Long,Front Wheel Drive,N,7,"£93,955",195 mi,462 Wh/mi,"2,735 kg",12.2 sec,181 mi,90.0 kWh,96 kW,0 kg,"1,410 L",£482 /mi
+Audi,Q4 Sportback e-tron 40,Rear Wheel Drive,C,5,"£48,110",210 mi,281 Wh/mi,"2,035 kg",8.1 sec,245 mi,59.0 kWh,110 kW,"1,000 kg",520 L,£229 /mi
+Volvo,EC40 Single Motor(MY26),Rear Wheel Drive,C,5,"£52,410",220 mi,305 Wh/mi,"2,057 kg",7.3 sec,248 mi,67.0 kWh,110 kW,"1,500 kg",435 L,£238 /mi
+Mercedes-Benz,EQE SUV 350+(MY25),Rear Wheel Drive,E,5,"£75,505",295 mi,325 Wh/mi,"2,495 kg",6.4 sec,313 mi,96.0 kWh,141 kW,750 kg,520 L,£256 /mi
+Kia,Soul EV 64 kWh,Front Wheel Drive,B,5,"£37,545",225 mi,284 Wh/mi,"1,757 kg",7.9 sec,213 mi,64.0 kWh,64 kW,0 kg,315 L,£167 /mi
+Škoda,CITIGOe iV,Front Wheel Drive,A,4,"£17,455",130 mi,248 Wh/mi,"1,235 kg",12.3 sec,117 mi,32.3 kWh,30 kW,0 kg,250 L,£134 /mi
+Kia,e-Niro 39 kWh,Front Wheel Drive,C,5,"£32,895",145 mi,270 Wh/mi,"1,667 kg",9.8 sec,134 mi,39.2 kWh,37 kW,0 kg,451 L,£227 /mi
+BMW,i5 M60 xDrive Touring(MY25),All Wheel Drive,E,5,"£100,005",260 mi,312 Wh/mi,"2,425 kg",3.9 sec,301 mi,81.2 kWh,136 kW,"2,000 kg",570 L,£385 /mi
+Volvo,ES90 Twin Motor Performance(MY26),All Wheel Drive,F,5,"£87,350",330 mi,309 Wh/mi,"2,628 kg",4.0 sec,395 mi,102.0 kWh,200 kW,"2,000 kg",468 L,£265 /mi
+Volvo,EC40 Twin Motor(MY26),All Wheel Drive,C,5,"£57,660",250 mi,316 Wh/mi,"2,185 kg",4.8 sec,275 mi,79.0 kWh,125 kW,"1,800 kg",435 L,£231 /mi
+Genesis,GV60 Performance(MY25),All Wheel Drive,C,5,"£67,715",245 mi,327 Wh/mi,"2,250 kg",4.0 sec,306 mi,80.0 kWh,205 kW,"1,600 kg",432 L,£276 /mi
+Genesis,G80 Electrified(MY25),All Wheel Drive,F,5,"£75,615",275 mi,327 Wh/mi,"2,900 kg",5.1 sec,314 mi,90.0 kWh,160 kW,0 kg,354 L,£275 /mi
+Volkswagen,ID.4 Pro 4MOTION(MY26),All Wheel Drive,C,5,"£46,120",270 mi,285 Wh/mi,"2,231 kg",6.6 sec,296 mi,77.0 kWh,120 kW,"1,200 kg",543 L,£171 /mi
+Mercedes-Benz,EQE SUV 500 4MATIC(MY25),All Wheel Drive,E,5,"£90,570",280 mi,343 Wh/mi,"2,615 kg",4.7 sec,300 mi,96.0 kWh,141 kW,"1,800 kg",520 L,£323 /mi
+BMW,i3s,Rear Wheel Drive,B,4,"£32,475",100 mi,272 Wh/mi,"1,340 kg",6.9 sec,101 mi,27.2 kWh,46 kW,0 kg,260 L,£325 /mi
+Tesla,Model X Long Range,All Wheel Drive,F,7,"£82,350",270 mi,352 Wh/mi,"2,533 kg",4.9 sec,270 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£305 /mi
+Smart,EQ fortwo cabrio,Rear Wheel Drive,A,2,"£24,645",60 mi,278 Wh/mi,"1,125 kg",11.9 sec,41 mi,16.7 kWh,0 kW,0 kg,260 L,£411 /mi
+Volvo,XC40 Recharge Twin Pure Electric(MY23),All Wheel Drive,C,5,"£57,000",215 mi,349 Wh/mi,"2,188 kg",4.9 sec,229 mi,75.0 kWh,108 kW,"1,800 kg",450 L,£265 /mi
+Porsche,Taycan Turbo S,All Wheel Drive,F,5,"£161,400",325 mi,298 Wh/mi,"2,370 kg",2.4 sec,419 mi,97.0 kWh,262 kW,0 kg,450 L,£497 /mi
+Porsche,Taycan Turbo Cross Turismo,All Wheel Drive,F,5,"£135,200",305 mi,318 Wh/mi,"2,395 kg",2.8 sec,395 mi,97.0 kWh,262 kW,0 kg,489 L,£443 /mi
+Polestar,3 Rear Motor(MY26),Rear Wheel Drive,E,5,"£69,990",275 mi,320 Wh/mi,"2,390 kg",6.5 sec,323 mi,88.0 kWh,170 kW,"1,500 kg",508 L,£255 /mi
+Volkswagen,e-Up!,Front Wheel Drive,A,4,"£20,780",55 mi,291 Wh/mi,"1,214 kg",12.4 sec,65 mi,16.0 kWh,30 kW,0 kg,250 L,£378 /mi
+Vauxhall,Vivaro-e Life Combi M 50 kWh,Front Wheel Drive,N,9,"£36,995",115 mi,403 Wh/mi,"1,969 kg",12.1 sec,123 mi,46.3 kWh,78 kW,"1,000 kg",507 L,£322 /mi
+Porsche,Taycan Turbo,All Wheel Drive,F,5,"£134,100",330 mi,294 Wh/mi,"2,365 kg",2.7 sec,430 mi,97.0 kWh,262 kW,0 kg,450 L,£406 /mi
+Toyota,Proace City Verso Medium 50 kWh,Front Wheel Drive,N,5,"£30,349",145 mi,345 Wh/mi,"1,811 kg",11.7 sec,153 mi,50.0 kWh,80 kW,750 kg,775 L,£209 /mi
+Mercedes-Benz,EQE 500 4MATIC(MY24),All Wheel Drive,E,5,"£80,610",315 mi,288 Wh/mi,"2,490 kg",4.7 sec,345 mi,90.6 kWh,141 kW,"1,700 kg",430 L,£256 /mi
+Lotus,Eletre 900,All Wheel Drive,F,5,"£129,990",280 mi,389 Wh/mi,"2,725 kg",2.9 sec,347 mi,109.0 kWh,259 kW,"2,250 kg",657 L,£464 /mi
+Volkswagen,ID.5 Pure(MY26),Rear Wheel Drive,C,5,"£39,590",195 mi,267 Wh/mi,"1,963 kg",8.9 sec,223 mi,52.0 kWh,87 kW,"1,000 kg",549 L,£203 /mi
+Volkswagen,e-Up!,Front Wheel Drive,A,4,"£19,615",60 mi,267 Wh/mi,"1,229 kg",12.4 sec,69 mi,16.0 kWh,30 kW,0 kg,250 L,£327 /mi
+Honda,e Advance,Rear Wheel Drive,B,4,"£37,395",105 mi,271 Wh/mi,"1,595 kg",8.3 sec,105 mi,28.5 kWh,32 kW,0 kg,171 L,£356 /mi
+Mazda,MX-30,Front Wheel Drive,C,5,"£29,150",105 mi,286 Wh/mi,"1,720 kg",9.7 sec,99 mi,30.0 kWh,34 kW,0 kg,366 L,£278 /mi
+Vauxhall,Mokka-e,Front Wheel Drive,B,5,"£30,540",155 mi,299 Wh/mi,"1,598 kg",9.0 sec,171 mi,46.3 kWh,78 kW,0 kg,310 L,£197 /mi
+Porsche,Taycan Plus,Rear Wheel Drive,F,5,"£79,549",295 mi,284 Wh/mi,"2,205 kg",5.4 sec,376 mi,83.7 kWh,216 kW,0 kg,491 L,£270 /mi
+Porsche,Taycan 4S Cross Turismo,All Wheel Drive,F,5,"£91,000",260 mi,322 Wh/mi,"2,320 kg",4.1 sec,330 mi,83.7 kWh,216 kW,0 kg,530 L,£350 /mi
+Mercedes-Benz,EQA 300 4MATIC,All Wheel Drive,C,5,"£53,010",215 mi,309 Wh/mi,"2,105 kg",7.7 sec,223 mi,66.5 kWh,100 kW,"1,800 kg",340 L,£247 /mi
+Mercedes-Benz,EQE SUV 350 4MATIC(MY23),All Wheel Drive,E,5,"£90,560",265 mi,336 Wh/mi,"2,580 kg",6.6 sec,281 mi,89.0 kWh,120 kW,"1,800 kg",520 L,£342 /mi
+DS Automobiles,DS 3 E-Tense,Front Wheel Drive,B,5,"£35,495",185 mi,275 Wh/mi,"1,625 kg",9.0 sec,199 mi,50.8 kWh,85 kW,0 kg,350 L,£192 /mi
+ORA,Funky Cat First Edition+,Front Wheel Drive,C,5,"£33,795",210 mi,282 Wh/mi,"1,615 kg",8.2 sec,194 mi,59.3 kWh,55 kW,0 kg,228 L,£161 /mi
+Maserati,GranCabrio Folgore,All Wheel Drive,F,4,"£185,610",245 mi,339 Wh/mi,"2,415 kg",2.8 sec,304 mi,83.0 kWh,190 kW,unknown,151 L,£758 /mi
+Škoda,Enyaq Coupe 85x(MY25),All Wheel Drive,C,5,"£49,160",285 mi,270 Wh/mi,"2,234 kg",6.7 sec,318 mi,77.0 kWh,120 kW,"1,200 kg",570 L,£172 /mi
+Audi,Q4 Sportback e-tron 40,Rear Wheel Drive,C,5,"£52,130",265 mi,289 Wh/mi,"2,120 kg",8.5 sec,281 mi,76.6 kWh,125 kW,"1,000 kg",535 L,£197 /mi
+Mercedes-Benz,EQB 300 4MATIC,All Wheel Drive,C,7,"£55,310",210 mi,317 Wh/mi,"2,175 kg",8.0 sec,217 mi,66.5 kWh,100 kW,0 kg,495 L,£263 /mi
+Audi,e-tron S Sportback,All Wheel Drive,E,5,"£90,235",205 mi,422 Wh/mi,"2,730 kg",4.5 sec,216 mi,86.5 kWh,146 kW,"1,800 kg",615 L,£440 /mi
+Fisker,Ocean One,All Wheel Drive,D,5,"£60,880",330 mi,323 Wh/mi,"2,434 kg",3.9 sec,352 mi,106.5 kWh,135 kW,"1,820 kg",476 L,£184 /mi
+Audi,Q8 Sportback e-tron 55 quattro,All Wheel Drive,E,5,"£83,215",325 mi,326 Wh/mi,"2,585 kg",5.6 sec,337 mi,106.0 kWh,144 kW,"1,800 kg",590 L,£256 /mi
+Porsche,Taycan 4S Cross Turismo,All Wheel Drive,F,5,"£95,200",270 mi,310 Wh/mi,"2,320 kg",4.1 sec,346 mi,83.7 kWh,216 kW,0 kg,530 L,£353 /mi
+Ford,Mustang Mach-E GT(MY24),All Wheel Drive,D,5,"£67,550",265 mi,343 Wh/mi,"2,343 kg",3.8 sec,269 mi,91.0 kWh,115 kW,750 kg,619 L,£255 /mi
+Ford,Mustang Mach-E SR RWD(MY21),Rear Wheel Drive,D,5,"£42,530",225 mi,302 Wh/mi,"2,044 kg",6.9 sec,226 mi,68.0 kWh,78 kW,750 kg,619 L,£189 /mi
+Audi,e-tron 55 quattro,All Wheel Drive,E,5,"£71,500",225 mi,384 Wh/mi,"2,595 kg",5.7 sec,239 mi,86.5 kWh,146 kW,"1,800 kg",660 L,£318 /mi
+Genesis,GV70 Electrified Sport(MY22-24),All Wheel Drive,D,5,"£65,105",215 mi,344 Wh/mi,"2,310 kg",4.2 sec,268 mi,74.0 kWh,190 kW,"1,800 kg",528 L,£303 /mi
+Ford,Mustang Mach-E SR RWD(MY23),Rear Wheel Drive,D,5,"£50,830",235 mi,298 Wh/mi,"2,044 kg",6.9 sec,233 mi,70.0 kWh,78 kW,750 kg,619 L,£216 /mi
+Ford,Mustang Mach-E ER RWD(MY23),Rear Wheel Drive,D,5,"£59,380",300 mi,303 Wh/mi,"2,160 kg",7.0 sec,278 mi,91.0 kWh,86 kW,"1,500 kg",619 L,£198 /mi
+Jeep,Avenger Electric 1st Edition,Front Wheel Drive,B,5,"£36,500",190 mi,267 Wh/mi,"1,611 kg",9.0 sec,203 mi,50.8 kWh,85 kW,0 kg,355 L,£192 /mi
+Volvo,EC40 Twin Motor(MY25),All Wheel Drive,C,5,"£57,805",250 mi,316 Wh/mi,"2,185 kg",4.8 sec,275 mi,79.0 kWh,125 kW,"1,800 kg",435 L,£231 /mi
+Audi,SQ6 Sportback e-tron,All Wheel Drive,D,5,"£95,450",305 mi,311 Wh/mi,"2,425 kg",4.3 sec,365 mi,94.9 kWh,200 kW,"2,400 kg",575 L,£313 /mi
+Porsche,Taycan GTS Sport Turismo,All Wheel Drive,F,5,"£118,300",315 mi,308 Wh/mi,"2,385 kg",3.3 sec,407 mi,97.0 kWh,262 kW,0 kg,489 L,£376 /mi
+Citroën,C-Zero,Rear Wheel Drive,A,4,"£21,216",55 mi,264 Wh/mi,"1,140 kg",15.9 sec,63 mi,14.5 kWh,30 kW,0 kg,166 L,£386 /mi
+Tesla,Model S 85,Rear Wheel Drive,F,5,£0,250 mi,323 Wh/mi,"2,175 kg",5.6 sec,254 mi,80.8 kWh,95 kW,unknown,895 L,- /mi
+Lightyear,0,All Wheel Drive,F,5,"£265,000",340 mi,176 Wh/mi,"1,575 kg",10.0 sec,332 mi,60.0 kWh,60 kW,0 kg,640 L,£779 /mi
+Tesla,Model X Performance,All Wheel Drive,F,7,"£102,980",290 mi,338 Wh/mi,"2,552 kg",3.1 sec,321 mi,98.0 kWh,125 kW,"2,250 kg",unknown,£355 /mi
+Vauxhall,Vivaro-e Life L 50 kWh,Front Wheel Drive,N,9,"£43,575",110 mi,421 Wh/mi,"1,989 kg",12.1 sec,119 mi,46.3 kWh,78 kW,"1,000 kg",unknown,£396 /mi
+Peugeot,e-308 SW(MY23-25),Front Wheel Drive,C,5,"£34,660",185 mi,275 Wh/mi,"1,791 kg",10.0 sec,198 mi,50.8 kWh,80 kW,0 kg,608 L,£187 /mi
+Porsche,Taycan Turbo S,All Wheel Drive,F,5,"£148,300",270 mi,310 Wh/mi,"2,370 kg",2.8 sec,341 mi,83.7 kWh,216 kW,0 kg,450 L,£549 /mi
+Škoda,Enyaq Coupe 85x(MY24),All Wheel Drive,C,5,"£50,305",280 mi,275 Wh/mi,"2,230 kg",6.6 sec,313 mi,77.0 kWh,120 kW,"1,200 kg",570 L,£180 /mi
+Vauxhall,Mokka-e 54 kWh,Front Wheel Drive,B,5,"£37,260",180 mi,282 Wh/mi,"1,598 kg",9.0 sec,189 mi,50.8 kWh,85 kW,0 kg,310 L,£207 /mi
+Vauxhall,Vivaro Life Electric XL 75 kWh,Front Wheel Drive,N,9,"£49,595",160 mi,431 Wh/mi,"2,240 kg",14.2 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",989 L,£310 /mi
+Citroën,C-Zero,Rear Wheel Drive,A,4,"£17,520",55 mi,264 Wh/mi,"1,140 kg",15.9 sec,63 mi,14.5 kWh,30 kW,0 kg,166 L,£319 /mi
+Porsche,Taycan 4 Cross Turismo,All Wheel Drive,F,5,"£84,500",260 mi,322 Wh/mi,"2,320 kg",5.1 sec,330 mi,83.7 kWh,216 kW,0 kg,530 L,£325 /mi
+Kia,Soul EV 39.2 kWh,Front Wheel Drive,B,5,"£32,875",140 mi,280 Wh/mi,"1,610 kg",9.9 sec,130 mi,39.2 kWh,37 kW,0 kg,315 L,£235 /mi
+Maserati,Grecale Folgore,All Wheel Drive,E,5,"£109,905",245 mi,388 Wh/mi,"2,555 kg",4.1 sec,250 mi,95.0 kWh,110 kW,"1,800 kg",535 L,£449 /mi
+Porsche,Taycan 4S,All Wheel Drive,F,5,"£90,700",255 mi,278 Wh/mi,"2,215 kg",4.0 sec,326 mi,71.0 kWh,183 kW,0 kg,491 L,£356 /mi
+Volkswagen,ID.5 Pure(MY24-25),Rear Wheel Drive,C,5,"£41,080",195 mi,267 Wh/mi,"1,966 kg",8.9 sec,223 mi,52.0 kWh,87 kW,"1,000 kg",549 L,£211 /mi
+Volvo,EX40 Twin Motor Performance(MY26),All Wheel Drive,C,5,"£59,610",235 mi,336 Wh/mi,"2,170 kg",4.6 sec,260 mi,79.0 kWh,125 kW,"1,800 kg",441 L,£254 /mi
+Audi,e-tron Sportback 55 quattro,All Wheel Drive,E,5,"£79,900",235 mi,368 Wh/mi,"2,555 kg",5.7 sec,248 mi,86.5 kWh,146 kW,"1,800 kg",615 L,£340 /mi
+SsangYong,Korando e-Motion,Front Wheel Drive,C,5,"£31,995",180 mi,311 Wh/mi,"1,840 kg",8.5 sec,172 mi,56.0 kWh,69 kW,"1,500 kg",551 L,£178 /mi
+Škoda,Enyaq Coupe iV vRS(MY22-23),All Wheel Drive,C,5,"£54,370",265 mi,291 Wh/mi,"2,253 kg",6.5 sec,293 mi,77.0 kWh,115 kW,"1,200 kg",575 L,£205 /mi
+Audi,Q8 SUV e-tron 50 quattro,All Wheel Drive,E,5,"£70,715",260 mi,342 Wh/mi,"2,585 kg",6.0 sec,275 mi,89.0 kWh,146 kW,"1,800 kg",631 L,£272 /mi
+BMW,i5 M60 xDrive Touring,All Wheel Drive,E,5,"£99,995",260 mi,312 Wh/mi,"2,425 kg",3.9 sec,298 mi,81.2 kWh,136 kW,"2,000 kg",570 L,£385 /mi
+Lotus,Emeya R,All Wheel Drive,F,5,"£131,255",290 mi,341 Wh/mi,"2,650 kg",2.8 sec,364 mi,98.9 kWh,240 kW,"1,225 kg",543 L,£453 /mi
+Abarth,600e Turismo,Front Wheel Drive,B,5,"£36,975",170 mi,299 Wh/mi,"1,700 kg",6.2 sec,182 mi,50.8 kWh,79 kW,0 kg,360 L,£218 /mi
+Ford,e-Tourneo Custom L2 160 kW,Rear Wheel Drive,N,8,"£61,727",145 mi,441 Wh/mi,"2,602 kg",9.0 sec,145 mi,64.0 kWh,70 kW,"2,000 kg",672 L,£426 /mi
+Volkswagen,e-Transporter Shuttle SWB 210 kW 64 kWh,Rear Wheel Drive,N,9,"£66,335",150 mi,425 Wh/mi,"2,523 kg",7.4 sec,153 mi,63.8 kWh,75 kW,"2,000 kg",800 L,£442 /mi
+Smart,ForFour Electric Drive,Rear Wheel Drive,A,4,"£16,915",55 mi,304 Wh/mi,"1,200 kg",12.7 sec,41 mi,16.7 kWh,0 kW,0 kg,185 L,£308 /mi
+Škoda,Enyaq iV 80x(MY21-23),All Wheel Drive,C,5,"£50,805",265 mi,291 Wh/mi,"2,193 kg",6.9 sec,290 mi,77.0 kWh,115 kW,"1,200 kg",585 L,£192 /mi
+Volkswagen,ID.4 Pure Performance,Rear Wheel Drive,C,5,"£40,275",175 mi,297 Wh/mi,"1,965 kg",9.0 sec,187 mi,52.0 kWh,70 kW,"1,000 kg",543 L,£230 /mi
+Mercedes-Benz,EQE SUV 500 4MATIC(MY23-24),All Wheel Drive,E,5,"£90,505",285 mi,337 Wh/mi,"2,610 kg",4.9 sec,300 mi,96.0 kWh,141 kW,"1,800 kg",520 L,£318 /mi
+Mini,Aceman JCW,Front Wheel Drive,B,5,"£40,800",170 mi,289 Wh/mi,"1,825 kg",6.4 sec,183 mi,49.2 kWh,75 kW,750 kg,300 L,£240 /mi
+Genesis,GV70 Electrified(MY25),All Wheel Drive,D,5,"£65,915",235 mi,340 Wh/mi,"2,335 kg",4.4 sec,296 mi,80.0 kWh,205 kW,"1,800 kg",528 L,£280 /mi
+Smart,ForTwo Electric Drive,Rear Wheel Drive,A,2,"£16,420",60 mi,278 Wh/mi,"1,085 kg",11.5 sec,44 mi,16.7 kWh,0 kW,0 kg,260 L,£274 /mi
+Mercedes-Benz,EQE 300(MY22-23),Rear Wheel Drive,E,5,"£74,345",320 mi,278 Wh/mi,"2,385 kg",7.3 sec,345 mi,89.0 kWh,120 kW,750 kg,430 L,£232 /mi
+Ford,Focus Electric,Front Wheel Drive,C,5,"£28,500",65 mi,301 Wh/mi,"1,700 kg",11.4 sec,47 mi,19.6 kWh,0 kW,unknown,237 L,£438 /mi
+Volkswagen,e-Golf,Front Wheel Drive,C,5,"£26,345",75 mi,273 Wh/mi,"1,585 kg",10.4 sec,83 mi,20.5 kWh,41 kW,unknown,380 L,£351 /mi
+Audi,e-tron 55 quattro,All Wheel Drive,E,5,"£68,060",225 mi,384 Wh/mi,"2,565 kg",5.7 sec,239 mi,86.5 kWh,146 kW,"1,800 kg",660 L,£302 /mi
+Tesla,Model X Ludicrous Performance,All Wheel Drive,F,7,"£101,350",260 mi,365 Wh/mi,"2,572 kg",3.0 sec,257 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£390 /mi
+Porsche,Taycan Turbo,All Wheel Drive,F,5,"£119,900",255 mi,328 Wh/mi,"2,380 kg",3.2 sec,328 mi,83.7 kWh,216 kW,0 kg,450 L,£470 /mi
+Peugeot,e-Traveller Standard 50 kWh,Front Wheel Drive,N,9,"£42,785",115 mi,403 Wh/mi,"1,969 kg",13.1 sec,123 mi,46.3 kWh,78 kW,"1,000 kg",603 L,£372 /mi
+Porsche,Taycan GTS,All Wheel Drive,F,5,"£110,200",280 mi,299 Wh/mi,"2,370 kg",3.7 sec,359 mi,83.7 kWh,216 kW,0 kg,491 L,£394 /mi
+Genesis,GV60 Sport Plus(MY22-24),All Wheel Drive,C,5,"£67,505",225 mi,329 Wh/mi,"2,220 kg",4.0 sec,283 mi,74.0 kWh,200 kW,"1,600 kg",432 L,£300 /mi
+Ford,Mustang Mach-E ER AWD(MY22),All Wheel Drive,D,5,"£65,080",275 mi,331 Wh/mi,"2,257 kg",5.8 sec,255 mi,91.0 kWh,86 kW,"1,000 kg",619 L,£237 /mi
+Volkswagen,ID.4 GTX,All Wheel Drive,C,5,"£52,865",245 mi,314 Wh/mi,"2,239 kg",6.3 sec,270 mi,77.0 kWh,115 kW,"1,200 kg",543 L,£216 /mi
+Citroën,ë-SpaceTourer M 50 kWh,Front Wheel Drive,N,9,"£36,635",110 mi,421 Wh/mi,"2,027 kg",13.3 sec,119 mi,46.3 kWh,78 kW,"1,000 kg",603 L,£333 /mi
+Lexus,RZ 550e F SPORT(MY26),All Wheel Drive,D,5,"£67,795",245 mi,294 Wh/mi,"2,135 kg",4.4 sec,264 mi,72.0 kWh,110 kW,unknown,522 L,£277 /mi
+Škoda,Enyaq iV vRS(MY23),All Wheel Drive,C,5,"£52,670",260 mi,296 Wh/mi,"2,258 kg",6.2 sec,283 mi,77.0 kWh,115 kW,"1,200 kg",585 L,£203 /mi
+Vauxhall,Vivaro-e Life Combi L 50 kWh,Front Wheel Drive,N,9,"£37,835",110 mi,421 Wh/mi,"1,989 kg",12.1 sec,119 mi,46.3 kWh,78 kW,"1,000 kg",912 L,£344 /mi
+Mercedes-Benz,eVito Tourer L3 90 kWh,Front Wheel Drive,N,9,"£83,850",190 mi,474 Wh/mi,"2,555 kg",12.0 sec,173 mi,90.0 kWh,96 kW,0 kg,"1,390 L",£441 /mi
+Mercedes-Benz,EQE 350(MY22-23),Rear Wheel Drive,E,5,"£77,345",315 mi,283 Wh/mi,"2,385 kg",6.4 sec,344 mi,89.0 kWh,120 kW,750 kg,430 L,£246 /mi
+Mercedes-Benz,EQE AMG 53 4MATIC+(MY23),All Wheel Drive,E,5,"£114,750",280 mi,324 Wh/mi,"2,540 kg",3.5 sec,305 mi,90.6 kWh,141 kW,750 kg,430 L,£410 /mi
+Porsche,Taycan 4S Sport Turismo,All Wheel Drive,F,5,"£96,700",270 mi,305 Wh/mi,"2,270 kg",3.7 sec,339 mi,82.3 kWh,195 kW,0 kg,530 L,£358 /mi
+Mercedes-Benz,EQE SUV AMG 53 4MATIC+(MY25),All Wheel Drive,E,5,"£115,130",260 mi,348 Wh/mi,"2,690 kg",3.7 sec,281 mi,90.6 kWh,141 kW,"1,800 kg",520 L,£443 /mi
+Renault,Zoe Q90 ZE40,Front Wheel Drive,B,5,"£24,520",150 mi,273 Wh/mi,"1,555 kg",13.5 sec,139 mi,41.0 kWh,33 kW,0 kg,338 L,£163 /mi
+Mercedes-Benz,EQE 350+(MY22-23),Rear Wheel Drive,E,5,"£76,450",325 mi,279 Wh/mi,"2,355 kg",6.4 sec,355 mi,90.6 kWh,141 kW,750 kg,430 L,£235 /mi
+Abarth,500e Convertible,Front Wheel Drive,B,4,"£37,195",140 mi,270 Wh/mi,"1,435 kg",7.0 sec,156 mi,37.8 kWh,67 kW,0 kg,185 L,£266 /mi
+Volkswagen,ID.5 Pro Performance,Rear Wheel Drive,C,5,"£52,185",265 mi,291 Wh/mi,"2,118 kg",8.4 sec,282 mi,77.0 kWh,125 kW,"1,000 kg",549 L,£197 /mi
+Audi,Q4 Sportback e-tron 55 quattro,All Wheel Drive,C,5,"£59,190",255 mi,302 Wh/mi,"2,235 kg",5.4 sec,284 mi,77.0 kWh,120 kW,"1,200 kg",535 L,£232 /mi
+Volvo,EX40 Twin Motor Performance(MY25),All Wheel Drive,C,5,"£59,555",235 mi,336 Wh/mi,"2,170 kg",4.6 sec,260 mi,79.0 kWh,125 kW,"1,800 kg",441 L,£253 /mi
+Vauxhall,Vivaro Life Electric 75 kWh,Front Wheel Drive,N,9,"£48,695",165 mi,418 Wh/mi,"2,211 kg",14.2 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",603 L,£295 /mi
+Mercedes-Benz,EQE 500 4MATIC(MY25),All Wheel Drive,E,5,"£82,615",315 mi,288 Wh/mi,"2,490 kg",4.4 sec,344 mi,90.6 kWh,141 kW,"1,700 kg",430 L,£262 /mi
+Tesla,Model S P85D,All Wheel Drive,F,5,£0,240 mi,336 Wh/mi,"2,262 kg",3.3 sec,244 mi,80.8 kWh,95 kW,unknown,895 L,- /mi
+Tesla,Model X Standard Range,All Wheel Drive,F,7,"£76,550",220 mi,330 Wh/mi,"2,427 kg",4.8 sec,215 mi,72.5 kWh,80 kW,"2,250 kg",unknown,£348 /mi
+Audi,e-tron Sportback 50 quattro,All Wheel Drive,E,5,"£69,100",180 mi,359 Wh/mi,"2,445 kg",6.8 sec,196 mi,64.7 kWh,114 kW,"1,800 kg",615 L,£384 /mi
+Citroën,ë-C4,Front Wheel Drive,C,5,"£30,895",175 mi,265 Wh/mi,"1,616 kg",9.7 sec,193 mi,46.3 kWh,78 kW,0 kg,380 L,£177 /mi
+DS Automobiles,DS 3 Crossback E-Tense,Front Wheel Drive,B,5,"£34,770",165 mi,281 Wh/mi,"1,598 kg",8.7 sec,179 mi,46.3 kWh,78 kW,0 kg,350 L,£211 /mi
+Ford,Mustang Mach-E GT(MY22),All Wheel Drive,D,5,"£72,830",265 mi,343 Wh/mi,"2,348 kg",4.4 sec,247 mi,91.0 kWh,86 kW,750 kg,619 L,£275 /mi
+Mercedes-Benz,EQE SUV 500 4MATIC(MY23),All Wheel Drive,E,5,"£108,760",270 mi,336 Wh/mi,"2,560 kg",4.9 sec,291 mi,90.6 kWh,141 kW,"1,800 kg",520 L,£403 /mi
+Ford,Mustang Mach-E Select SR RWD(MY23.75),Rear Wheel Drive,D,5,"£50,830",235 mi,309 Wh/mi,"2,179 kg",7.3 sec,251 mi,72.6 kWh,100 kW,750 kg,619 L,£216 /mi
+Mercedes-Benz,EQE SUV 350 4MATIC(MY25),All Wheel Drive,E,5,"£80,005",270 mi,336 Wh/mi,"2,565 kg",6.0 sec,291 mi,90.6 kWh,141 kW,"1,800 kg",520 L,£296 /mi
+Hyundai,Kona Electric 39 kWh,Front Wheel Drive,B,5,"£27,250",150 mi,261 Wh/mi,"1,610 kg",9.7 sec,137 mi,39.2 kWh,37 kW,0 kg,332 L,£182 /mi
+Peugeot,e-Traveller Long 50 kWh,Front Wheel Drive,N,9,"£43,625",115 mi,403 Wh/mi,"1,989 kg",13.1 sec,123 mi,46.3 kWh,78 kW,"1,000 kg",989 L,£379 /mi
+Hyundai,IONIQ 5 Project 45(MY21),All Wheel Drive,C,5,"£48,000",225 mi,311 Wh/mi,"2,095 kg",5.2 sec,281 mi,70.0 kWh,185 kW,"1,600 kg",555 L,£213 /mi
+Vauxhall,Combo-e Life XL 50 kWh,Front Wheel Drive,N,7,"£34,685",125 mi,370 Wh/mi,"1,813 kg",11.7 sec,133 mi,46.3 kWh,78 kW,750 kg,806 L,£277 /mi
+Mercedes-Benz,EQS SUV 450 4MATIC,All Wheel Drive,F,7,"£129,470",300 mi,361 Wh/mi,"2,805 kg",6.0 sec,324 mi,108.4 kWh,173 kW,"1,800 kg",645 L,£432 /mi
+Skywell,BE11 Standard Range,Front Wheel Drive,D,5,"£36,995",200 mi,340 Wh/mi,"1,955 kg",9.6 sec,184 mi,68.0 kWh,50 kW,unknown,467 L,£185 /mi
+Mitsubishi,i-MiEV,Rear Wheel Drive,A,4,"£24,054",55 mi,264 Wh/mi,"1,160 kg",15.9 sec,61 mi,14.5 kWh,30 kW,0 kg,166 L,£437 /mi
+Smart,EQ forfour,Rear Wheel Drive,A,4,"£18,190",55 mi,304 Wh/mi,"1,200 kg",12.7 sec,40 mi,16.7 kWh,0 kW,0 kg,185 L,£331 /mi
+Audi,Q4 Sportback e-tron 35,Rear Wheel Drive,C,5,"£46,190",185 mi,281 Wh/mi,"1,970 kg",9.0 sec,195 mi,52.0 kWh,70 kW,0 kg,535 L,£250 /mi
+Porsche,Taycan Sport Turismo,Rear Wheel Drive,F,5,"£80,200",235 mi,302 Wh/mi,"2,155 kg",5.4 sec,298 mi,71.0 kWh,183 kW,0 kg,530 L,£341 /mi
+Porsche,Taycan 4S Sport Turismo,All Wheel Drive,F,5,"£91,700",230 mi,309 Wh/mi,"2,245 kg",4.0 sec,291 mi,71.0 kWh,183 kW,0 kg,530 L,£399 /mi
+Mercedes-Benz,EQE SUV AMG 53 4MATIC+(MY23-24),All Wheel Drive,E,5,"£114,995",260 mi,348 Wh/mi,"2,690 kg",3.5 sec,281 mi,90.6 kWh,141 kW,"1,800 kg",520 L,£442 /mi
+Mercedes-Benz,EQE SUV 350 4MATIC(MY23-24),All Wheel Drive,E,5,"£79,940",270 mi,336 Wh/mi,"2,560 kg",6.6 sec,291 mi,90.6 kWh,141 kW,"1,800 kg",520 L,£296 /mi
+Mitsubishi,i-MiEV,Rear Wheel Drive,A,4,"£24,054",50 mi,290 Wh/mi,"1,185 kg",15.9 sec,61 mi,14.5 kWh,30 kW,0 kg,166 L,£481 /mi
+Tesla,Model S 70,Rear Wheel Drive,F,5,£0,215 mi,321 Wh/mi,"2,102 kg",5.8 sec,225 mi,69.0 kWh,95 kW,unknown,895 L,- /mi
+Tesla,Model X Ludicrous Performance,All Wheel Drive,F,7,"£101,350",275 mi,345 Wh/mi,"2,572 kg",2.9 sec,272 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£369 /mi
+Peugeot,e-Rifter Long 50 kWh,Front Wheel Drive,N,7,"£35,120",125 mi,370 Wh/mi,"1,841 kg",11.7 sec,133 mi,46.3 kWh,78 kW,750 kg,806 L,£281 /mi
+Volkswagen,ID.5 Pro,Rear Wheel Drive,C,5,"£50,550",265 mi,291 Wh/mi,"2,117 kg",10.4 sec,285 mi,77.0 kWh,125 kW,"1,000 kg",549 L,£191 /mi
+Porsche,Taycan Turbo Sport Turismo,All Wheel Drive,F,5,"£126,800",250 mi,335 Wh/mi,"2,405 kg",3.2 sec,318 mi,83.7 kWh,216 kW,0 kg,489 L,£507 /mi
+Fisker,Ocean Sport,Front Wheel Drive,D,5,"£36,900",215 mi,330 Wh/mi,"2,300 kg",7.4 sec,243 mi,71.0 kWh,100 kW,"1,090 kg",476 L,£172 /mi
+Peugeot,e-208 51 kWh(MY23),Front Wheel Drive,B,5,"£34,955",190 mi,253 Wh/mi,"1,530 kg",8.2 sec,206 mi,48.1 kWh,80 kW,0 kg,265 L,£184 /mi
+Volkswagen,ID.5 Pro,Rear Wheel Drive,C,5,"£50,710",265 mi,291 Wh/mi,"2,118 kg",10.4 sec,282 mi,77.0 kWh,125 kW,"1,000 kg",549 L,£191 /mi
+Citroën,ë-C4 54 kWh,Front Wheel Drive,C,5,"£35,800",205 mi,248 Wh/mi,"1,636 kg",9.2 sec,221 mi,50.8 kWh,78 kW,0 kg,380 L,£175 /mi
+Polestar,2 Long Range Performance(MY25),All Wheel Drive,D,5,"£57,950",280 mi,282 Wh/mi,"2,180 kg",4.2 sec,315 mi,79.0 kWh,125 kW,"1,500 kg",448 L,£207 /mi
+Mercedes-Benz,CLA Shooting Brake 350 4MATIC,All Wheel Drive,D,5,"£56,300",345 mi,246 Wh/mi,"2,155 kg",5.0 sec,447 mi,85.0 kWh,235 kW,"1,800 kg",556 L,£163 /mi
+Tesla,Model S 70D,All Wheel Drive,F,5,£0,215 mi,309 Wh/mi,"2,156 kg",5.4 sec,229 mi,66.5 kWh,95 kW,unknown,895 L,- /mi
+Renault,Zoe R90,Front Wheel Drive,B,5,"£19,845",85 mi,274 Wh/mi,"1,502 kg",14.5 sec,63 mi,23.3 kWh,0 kW,0 kg,338 L,£233 /mi
+Citroën,ë-Berlingo Multispace,Front Wheel Drive,N,5,£0,60 mi,342 Wh/mi,"1,679 kg",19.5 sec,65 mi,20.5 kWh,30 kW,unknown,"1,350 L",- /mi
+Ford,Mustang Mach-E ER AWD(MY21),All Wheel Drive,D,5,"£58,230",265 mi,332 Wh/mi,"2,257 kg",5.8 sec,249 mi,88.0 kWh,86 kW,750 kg,619 L,£220 /mi
+Ford,Mustang Mach-E SR RWD(MY22),Rear Wheel Drive,D,5,"£50,030",235 mi,298 Wh/mi,"2,044 kg",6.9 sec,233 mi,70.0 kWh,78 kW,750 kg,619 L,£213 /mi
+Abarth,500e Scorpionissima,Front Wheel Drive,B,4,"£38,695",140 mi,270 Wh/mi,"1,410 kg",7.0 sec,156 mi,37.8 kWh,67 kW,0 kg,185 L,£276 /mi
+Porsche,Taycan Turbo,All Wheel Drive,F,5,"£125,800",275 mi,304 Wh/mi,"2,380 kg",3.2 sec,353 mi,83.7 kWh,216 kW,0 kg,450 L,£457 /mi
+Porsche,Taycan Plus Sport Turismo,Rear Wheel Drive,F,5,"£91,754",330 mi,294 Wh/mi,"2,270 kg",4.8 sec,425 mi,97.0 kWh,262 kW,0 kg,530 L,£278 /mi
+Mercedes-Benz,EQE AMG 53 4MATIC+(MY25),All Wheel Drive,E,5,"£105,995",280 mi,324 Wh/mi,"2,540 kg",3.5 sec,305 mi,90.6 kWh,141 kW,"1,700 kg",430 L,£379 /mi
+Nissan,LEAF 24 kWh(MY11-13),Front Wheel Drive,C,5,"£21,490",80 mi,275 Wh/mi,"1,600 kg",11.9 sec,86 mi,22.0 kWh,36 kW,unknown,330 L,£269 /mi
+Tesla,Model S 90D,All Wheel Drive,F,5,£0,275 mi,311 Wh/mi,"2,184 kg",4.4 sec,275 mi,85.5 kWh,90 kW,unknown,895 L,- /mi
+Audi,e-tron S,All Wheel Drive,E,5,"£87,000",200 mi,433 Wh/mi,"2,695 kg",4.5 sec,211 mi,86.5 kWh,146 kW,"1,800 kg",660 L,£435 /mi
+Volkswagen,ID.4 GTX,All Wheel Drive,C,5,"£49,025",245 mi,314 Wh/mi,"2,224 kg",6.2 sec,270 mi,77.0 kWh,115 kW,"1,200 kg",543 L,£200 /mi
+Porsche,Taycan GTS Sport Turismo,All Wheel Drive,F,5,"£111,200",265 mi,316 Wh/mi,"2,385 kg",3.7 sec,337 mi,83.7 kWh,216 kW,0 kg,530 L,£420 /mi
+Audi,Q8 Sportback e-tron 50 quattro,All Wheel Drive,E,5,"£73,215",275 mi,324 Wh/mi,"2,585 kg",6.0 sec,293 mi,89.0 kWh,146 kW,"1,800 kg",590 L,£266 /mi
+Porsche,Taycan 4 Cross Turismo,All Wheel Drive,F,5,"£88,200",270 mi,310 Wh/mi,"2,320 kg",5.1 sec,346 mi,83.7 kWh,216 kW,0 kg,530 L,£327 /mi
+Porsche,Taycan Turbo S Sport Turismo,All Wheel Drive,F,5,"£162,100",315 mi,308 Wh/mi,"2,395 kg",2.4 sec,407 mi,97.0 kWh,262 kW,0 kg,489 L,£515 /mi
+Volvo,EC40 Single Motor ER(MY25),Rear Wheel Drive,C,5,"£54,305",260 mi,304 Wh/mi,"2,095 kg",7.3 sec,285 mi,79.0 kWh,125 kW,"1,500 kg",435 L,£209 /mi
+Volkswagen,e-Transporter Shuttle LWB 160 kW 65 kWh,Rear Wheel Drive,N,9,"£61,577",150 mi,425 Wh/mi,"2,568 kg",8.6 sec,153 mi,63.8 kWh,75 kW,"2,000 kg","1,000 L",£411 /mi
+Tesla,Model S 60D,All Wheel Drive,F,5,£0,215 mi,288 Wh/mi,"2,183 kg",5.4 sec,234 mi,62.0 kWh,95 kW,unknown,895 L,- /mi
+Smart,EQ fortwo cabrio,Rear Wheel Drive,A,2,"£19,835",55 mi,304 Wh/mi,"1,115 kg",11.8 sec,40 mi,16.7 kWh,0 kW,0 kg,260 L,£361 /mi
+Toyota,Proace Verso Medium 50 kWh,Front Wheel Drive,N,8,"£42,988",115 mi,403 Wh/mi,"1,969 kg",12.1 sec,123 mi,46.3 kWh,78 kW,"1,000 kg",603 L,£374 /mi
+Mercedes-Benz,EQE AMG 53 4MATIC+(MY22-23),All Wheel Drive,E,5,"£114,750",280 mi,324 Wh/mi,"2,525 kg",3.5 sec,305 mi,90.6 kWh,141 kW,750 kg,430 L,£410 /mi
+Audi,SQ8 SUV e-tron,All Wheel Drive,E,5,"£98,815",285 mi,372 Wh/mi,"2,725 kg",4.5 sec,288 mi,106.0 kWh,144 kW,"1,800 kg",631 L,£347 /mi
+Porsche,Taycan 4S Plus,All Wheel Drive,F,5,"£94,996",295 mi,284 Wh/mi,"2,295 kg",4.0 sec,381 mi,83.7 kWh,216 kW,0 kg,491 L,£322 /mi
+Ford,Mustang Mach-E GT(MY23.75),All Wheel Drive,D,5,"£74,540",265 mi,343 Wh/mi,"2,348 kg",3.7 sec,269 mi,91.0 kWh,115 kW,750 kg,619 L,£281 /mi
+DS Automobiles,N°8 FWD,Front Wheel Drive,D,5,"£50,790",260 mi,283 Wh/mi,"2,207 kg",7.7 sec,279 mi,73.7 kWh,100 kW,"1,260 kg",620 L,£195 /mi
+Volkswagen,e-Transporter Shuttle LWB 210 kW 64 kWh,Rear Wheel Drive,N,9,"£67,355",150 mi,425 Wh/mi,"2,568 kg",7.4 sec,153 mi,63.8 kWh,75 kW,"2,000 kg","1,000 L",£449 /mi
+Tesla,Model S 60,Rear Wheel Drive,F,5,£0,210 mi,295 Wh/mi,"2,102 kg",5.8 sec,230 mi,62.0 kWh,95 kW,unknown,895 L,- /mi
+Peugeot,e-2008,Front Wheel Drive,B,5,"£30,730",160 mi,289 Wh/mi,"1,623 kg",8.5 sec,177 mi,46.3 kWh,78 kW,0 kg,434 L,£192 /mi
+Mercedes-Benz,EQS SUV 580 4MATIC,All Wheel Drive,F,7,"£139,470",300 mi,361 Wh/mi,"2,810 kg",4.6 sec,324 mi,108.4 kWh,173 kW,"1,800 kg",645 L,£465 /mi
+Tesla,Model X P90D,All Wheel Drive,F,7,£0,235 mi,364 Wh/mi,"2,514 kg",4.0 sec,227 mi,85.5 kWh,90 kW,unknown,unknown,- /mi
+Tesla,Model X Performance,All Wheel Drive,F,7,"£89,850",260 mi,365 Wh/mi,"2,572 kg",3.7 sec,257 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£346 /mi
+Volkswagen,ID.5 GTX,All Wheel Drive,C,5,"£58,640",250 mi,308 Wh/mi,"2,242 kg",6.3 sec,278 mi,77.0 kWh,115 kW,"1,200 kg",549 L,£235 /mi
+Porsche,Taycan Plus Sport Turismo,Rear Wheel Drive,F,5,"£84,654",275 mi,304 Wh/mi,"2,235 kg",5.4 sec,347 mi,83.7 kWh,216 kW,0 kg,530 L,£308 /mi
+Audi,SQ8 Sportback e-tron,All Wheel Drive,E,5,"£101,315",300 mi,353 Wh/mi,"2,725 kg",4.5 sec,306 mi,106.0 kWh,144 kW,"1,800 kg",590 L,£338 /mi
+Volvo,EC40 Twin Motor Performance(MY25),All Wheel Drive,C,5,"£59,555",250 mi,316 Wh/mi,"2,185 kg",4.6 sec,275 mi,79.0 kWh,125 kW,"1,800 kg",435 L,£238 /mi
+Tesla,Model S P90D,All Wheel Drive,F,5,£0,250 mi,342 Wh/mi,"2,271 kg",3.3 sec,249 mi,85.5 kWh,90 kW,unknown,895 L,- /mi
+Tesla,Model X Performance,All Wheel Drive,F,7,"£93,150",275 mi,345 Wh/mi,"2,572 kg",3.6 sec,272 mi,95.0 kWh,100 kW,"2,250 kg",unknown,£339 /mi
+Ford,Mustang Mach-E SR AWD(MY21),All Wheel Drive,D,5,"£50,850",210 mi,324 Wh/mi,"2,138 kg",6.3 sec,209 mi,68.0 kWh,78 kW,750 kg,619 L,£242 /mi
+Genesis,G80 Electrified Luxury(MY22-24),All Wheel Drive,F,5,"£69,805",275 mi,300 Wh/mi,"2,325 kg",4.9 sec,315 mi,82.5 kWh,160 kW,unknown,354 L,£254 /mi
+Mercedes-Benz,EQS AMG 53 4MATIC+,All Wheel Drive,F,5,"£161,860",335 mi,324 Wh/mi,"2,700 kg",3.4 sec,367 mi,108.4 kWh,173 kW,750 kg,620 L,£483 /mi
+Mercedes-Benz,EQE AMG 53 4MATIC+(MY24),All Wheel Drive,E,5,"£105,860",280 mi,324 Wh/mi,"2,540 kg",3.5 sec,305 mi,90.6 kWh,141 kW,"1,700 kg",430 L,£378 /mi
+Citroën,ë-SpaceTourer XL 75 kWh,Front Wheel Drive,N,9,"£42,935",160 mi,431 Wh/mi,"2,240 kg",14.2 sec,157 mi,69.0 kWh,79 kW,"1,000 kg",989 L,£268 /mi
+Tesla,Model S P90DL,All Wheel Drive,F,5,£0,250 mi,342 Wh/mi,"2,271 kg",3.0 sec,249 mi,85.5 kWh,90 kW,unknown,895 L,- /mi
+Smart,ForTwo Cabrio Electric Drive,Rear Wheel Drive,A,2,"£18,560",55 mi,304 Wh/mi,"1,115 kg",11.8 sec,40 mi,16.7 kWh,0 kW,0 kg,260 L,£337 /mi
+Citroën,ë-SpaceTourer M 50 kWh,Front Wheel Drive,N,9,"£37,045",115 mi,403 Wh/mi,"1,969 kg",12.1 sec,123 mi,46.3 kWh,78 kW,"1,000 kg",507 L,£322 /mi
+Ford,Mustang Mach-E GT(MY23),All Wheel Drive,D,5,"£74,540",265 mi,343 Wh/mi,"2,348 kg",4.4 sec,247 mi,91.0 kWh,86 kW,750 kg,619 L,£281 /mi
+Porsche,Taycan 4S Plus Sport Turismo,All Wheel Drive,F,5,"£100,996",315 mi,308 Wh/mi,"2,350 kg",3.7 sec,407 mi,97.0 kWh,262 kW,0 kg,530 L,£321 /mi
+Volkswagen,e-Transporter Kombi SWB 100 kW 65 kWh,Rear Wheel Drive,N,9,"£53,404",155 mi,412 Wh/mi,"2,302 kg",12.8 sec,158 mi,63.8 kWh,75 kW,"2,000 kg",800 L,£345 /mi
+Audi,e-tron S Sportback,All Wheel Drive,E,5,"£88,700",205 mi,422 Wh/mi,"2,695 kg",4.5 sec,220 mi,86.5 kWh,146 kW,"1,800 kg",615 L,£433 /mi
+Porsche,Taycan Turbo Cross Turismo,All Wheel Drive,F,5,"£120,900",245 mi,342 Wh/mi,"2,395 kg",3.3 sec,308 mi,83.7 kWh,216 kW,0 kg,489 L,£493 /mi
+Porsche,Taycan Turbo S Cross Turismo,All Wheel Drive,F,5,"£143,400",235 mi,356 Wh/mi,"2,395 kg",2.9 sec,297 mi,83.7 kWh,216 kW,0 kg,489 L,£610 /mi
+Audi,Q4 Sportback e-tron 50 quattro,All Wheel Drive,C,5,"£58,510",250 mi,306 Wh/mi,"2,215 kg",6.2 sec,275 mi,76.6 kWh,115 kW,"1,200 kg",535 L,£234 /mi
+Porsche,Taycan Turbo S Sport Turismo,All Wheel Drive,F,5,"£149,300",245 mi,342 Wh/mi,"2,400 kg",2.8 sec,311 mi,83.7 kWh,216 kW,0 kg,489 L,£609 /mi
+Toyota,Proace City Verso Long 50 kWh,Front Wheel Drive,N,7,"£34,113",130 mi,356 Wh/mi,"1,813 kg",11.2 sec,137 mi,46.3 kWh,78 kW,750 kg,850 L,£262 /mi
+Volkswagen,ID.5 GTX,All Wheel Drive,C,5,"£56,545",250 mi,308 Wh/mi,"2,243 kg",6.3 sec,278 mi,77.0 kWh,115 kW,"1,200 kg",549 L,£226 /mi
+Volkswagen,e-Transporter Shuttle LWB 100 kW 65 kWh,Rear Wheel Drive,N,9,"£57,149",150 mi,425 Wh/mi,"2,568 kg",12.8 sec,153 mi,63.8 kWh,75 kW,"2,000 kg","1,000 L",£381 /mi
+Toyota,Proace Verso Long 50 kWh,Front Wheel Drive,N,8,"£43,488",110 mi,421 Wh/mi,"1,989 kg",12.1 sec,119 mi,46.3 kWh,78 kW,"1,000 kg",989 L,£395 /mi
+Tesla,Model S P90DL,All Wheel Drive,F,5,£0,250 mi,342 Wh/mi,"2,262 kg",3.0 sec,249 mi,85.5 kWh,90 kW,unknown,895 L,- /mi
+DS Automobiles,DS 3 Crossback E-Tense,Front Wheel Drive,B,5,"£31,500",160 mi,289 Wh/mi,"1,598 kg",8.7 sec,173 mi,46.3 kWh,78 kW,0 kg,350 L,£197 /mi
+Audi,e-tron Sportback 50 quattro,All Wheel Drive,E,5,"£63,835",180 mi,359 Wh/mi,"2,445 kg",6.8 sec,196 mi,64.7 kWh,114 kW,"1,800 kg",615 L,£355 /mi
+Porsche,Taycan Turbo S Cross Turismo,All Wheel Drive,F,5,"£149,300",255 mi,328 Wh/mi,"2,395 kg",2.9 sec,323 mi,83.7 kWh,216 kW,0 kg,489 L,£585 /mi
+Volkswagen,e-Transporter Shuttle SWB 100 kW 65 kWh,Rear Wheel Drive,N,9,"£56,129",150 mi,425 Wh/mi,"2,523 kg",12.8 sec,153 mi,63.8 kWh,75 kW,"2,000 kg",800 L,£374 /mi
+Tesla,Model S 70D,All Wheel Drive,F,5,£0,220 mi,314 Wh/mi,"2,183 kg",5.4 sec,229 mi,69.0 kWh,95 kW,unknown,895 L,- /mi
+Porsche,Taycan 4S Plus Sport Turismo,All Wheel Drive,F,5,"£95,996",265 mi,316 Wh/mi,"2,325 kg",4.0 sec,339 mi,83.7 kWh,216 kW,0 kg,530 L,£362 /mi
+Ford,Mustang Mach-E SR AWD(MY22),All Wheel Drive,D,5,"£60,080",215 mi,326 Wh/mi,"2,138 kg",6.3 sec,216 mi,70.0 kWh,78 kW,750 kg,619 L,£279 /mi
+Volkswagen,e-Transporter Shuttle SWB 160 kW 65 kWh,Rear Wheel Drive,N,9,"£60,557",150 mi,425 Wh/mi,"2,523 kg",8.6 sec,153 mi,63.8 kWh,75 kW,"2,000 kg",800 L,£404 /mi
+Tesla,Model S 70,Rear Wheel Drive,F,5,£0,210 mi,317 Wh/mi,"2,074 kg",5.8 sec,224 mi,66.5 kWh,95 kW,unknown,895 L,- /mi
+Kia,e-Niro 39 kWh,Front Wheel Drive,C,5,"£29,595",145 mi,270 Wh/mi,"1,667 kg",9.8 sec,134 mi,39.2 kWh,37 kW,0 kg,451 L,£204 /mi
+Citroën,ë-SpaceTourer XL 50 kWh,Front Wheel Drive,N,9,"£37,885",110 mi,421 Wh/mi,"1,989 kg",12.1 sec,119 mi,46.3 kWh,78 kW,"1,000 kg",912 L,£344 /mi
+Peugeot,e-Rifter Standard 50 kWh,Front Wheel Drive,N,7,"£33,120",125 mi,370 Wh/mi,"1,765 kg",11.7 sec,135 mi,46.3 kWh,78 kW,750 kg,571 L,£265 /mi
+Mercedes-Benz,EQS AMG 53 4MATIC+,All Wheel Drive,F,5,"£161,860",335 mi,322 Wh/mi,"2,655 kg",3.4 sec,367 mi,107.8 kWh,173 kW,750 kg,610 L,£483 /mi
+Porsche,Taycan Turbo Cross Turismo,All Wheel Drive,F,5,"£126,800",265 mi,316 Wh/mi,"2,395 kg",3.3 sec,334 mi,83.7 kWh,216 kW,0 kg,489 L,£478 /mi
+Citroën,ë-SpaceTourer XL 50 kWh,Front Wheel Drive,N,9,"£37,535",110 mi,421 Wh/mi,"2,056 kg",13.3 sec,119 mi,46.3 kWh,78 kW,"1,000 kg",989 L,£341 /mi
+Mini,Cooper SE Convertible,Front Wheel Drive,B,4,"£52,500",105 mi,275 Wh/mi,"1,540 kg",8.2 sec,104 mi,28.9 kWh,44 kW,0 kg,160 L,£500 /mi
+Porsche,Taycan Turbo Sport Turismo,All Wheel Drive,F,5,"£134,800",315 mi,308 Wh/mi,"2,390 kg",2.7 sec,407 mi,97.0 kWh,262 kW,0 kg,489 L,£428 /mi
+Porsche,Taycan Plus,Rear Wheel Drive,F,5,"£83,654",300 mi,279 Wh/mi,"2,205 kg",5.4 sec,386 mi,83.7 kWh,216 kW,0 kg,491 L,£279 /mi
+Tesla,Model X P90DL,All Wheel Drive,F,7,£0,230 mi,372 Wh/mi,"2,524 kg",3.4 sec,227 mi,85.5 kWh,90 kW,unknown,unknown,- /mi
+Toyota,Proace City Verso Medium 50 kWh,Front Wheel Drive,N,5,"£34,113",130 mi,356 Wh/mi,"1,739 kg",11.2 sec,139 mi,46.3 kWh,78 kW,750 kg,597 L,£262 /mi
+Tesla,Model X 60D,All Wheel Drive,F,7,£0,175 mi,354 Wh/mi,"2,427 kg",6.2 sec,190 mi,62.0 kWh,95 kW,unknown,unknown,- /mi
