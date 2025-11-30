@@ -34,16 +34,12 @@ def safe_execute(cursor, sql, step="UNKNOWN"):
 # MYSQL CONNECTION
 # ============================
 
-HOST = "localhost"
-USER = "root"
-PASSWORD = "88888888"
-
 log("Starting Gold Load...")
 
 conn = mysql.connector.connect(
-    host=HOST,
-    user=USER,
-    password=PASSWORD
+    host="localhost",
+    user="EV_specs",
+    password="MDIS@2025"
 )
 cursor = conn.cursor()
 
@@ -191,3 +187,4 @@ cursor.close()
 conn.close()
 
 log("Gold Load completed successfully.")
+
