@@ -1,0 +1,78 @@
+# ===============================
+# Python cache / build files
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pyo
+*.pyd
+*.pdb
+
+# ===============================
+# Logs (auto-generated ETL logs)
+# ===============================
+logs/
+*.log
+
+# ===============================
+# Local environment variables
+# ===============================
+.env
+*.env
+
+# ===============================
+# CSV / Data Files
+# (We don't store ETL output in repo)
+# ===============================
+*.csv
+bronze/*.csv
+silver/*.csv
+gold/*.csv
+scraping/*.csv
+
+# ===============================
+# MySQL dumps / binary logs
+# ===============================
+*.sql~
+*.bak
+*.backup
+*.dump
+*.sql.gz
+
+# ===============================
+# Virtual environments
+# ===============================
+venv/
+.env/
+venv*/
+.venv/
+ENV/
+env/
+
+# ===============================
+# OS-specific junk files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE / Editor settings
+# ===============================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# ===============================
+# Python packaging
+# ===============================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
