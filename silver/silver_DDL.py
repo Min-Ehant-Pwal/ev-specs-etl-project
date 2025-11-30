@@ -60,17 +60,13 @@ def safe_execute(cursor, sql, params=None, step_name="UNKNOWN"):
 # MYSQL CONNECTION
 # =====================================================
 
-HOST = "localhost"
-USER = "root"
-PASSWORD = "88888888"
-
 log("Starting Silver Layer ETL...")
 
 try:
     conn = mysql.connector.connect(
-        host=HOST,
-        user=USER,
-        password=PASSWORD
+    host="localhost",
+    user="EV_specs",
+    password="MDIS@2025"
     )
     cursor = conn.cursor()
 except Exception as conn_err:
@@ -256,3 +252,4 @@ cursor.close()
 conn.close()
 
 log("Silver layer ETL completed successfully.")
+
