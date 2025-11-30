@@ -21,8 +21,8 @@ def log(msg):
 # ========= MYSQL CONNECTION =========
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="88888888"
+    user="EV_specs",
+    password="MDIS@2025"
 )
 cursor = conn.cursor()
 
@@ -66,4 +66,5 @@ conn.commit()
 
 log("Bronze table created successfully")
 cursor.close()
+
 conn.close()
